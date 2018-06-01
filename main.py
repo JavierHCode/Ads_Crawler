@@ -10,6 +10,7 @@ from openpyxl import load_workbook
 # /EXCEL
 
 # AB
+from selenium.common.exceptions import TimeoutException
     # Set driver variables
 webdriver = selenium.webdriver
 Browser = splinter.Browser
@@ -52,12 +53,24 @@ for row, url in enumerate(url_list, start=2):
     print url
 
     if row == 2:
-        # Open chrome
+        # Set browser variable
         browser = Browser('chrome', options=chrome_options)
-        browser.visit(url)
 
         # Create driver variable for selenium
         selenium_driver = browser.driver
+        selenium_driver.set_page_load_timeout(6)
+
+        # Open chrome
+        try:
+            browser.visit(url)
+
+            # Test for "pre" element
+            while browser.is_element_not_present_by_tag("pre",wait_time=0.05):
+                continue
+
+        except TimeoutException:
+            pass
+
     else:
         # Close old tab
         browser.windows[0].close()
@@ -66,7 +79,15 @@ for row, url in enumerate(url_list, start=2):
         browser.windows.current = browser.windows[0]
 
         # Visit URL
-        browser.visit(url)
+        try:
+            browser.visit(url)
+
+            # Test for "pre" element
+            while browser.is_element_not_present_by_tag("pre",wait_time=0.05):
+                continue
+
+        except TimeoutException:
+            pass
 
     # Check for desired text
     src = selenium_driver.page_source
