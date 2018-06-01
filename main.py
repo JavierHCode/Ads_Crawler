@@ -12,8 +12,6 @@ from openpyxl import load_workbook
 # AB
     # Set driver variables
 webdriver = selenium.webdriver
-#ActionChains = webdriver.common.action_chains.ActionChains # import action_chains to access invisible html elements
-Keys = webdriver.common.keys
 Browser = splinter.Browser
 
     # Set chrome options
@@ -44,31 +42,51 @@ for row in ws['A{}:A{}'.format(ws.min_row + 1, ws.max_row)]:
     for cell in row:
         url_list.append("http://{0}/ads.txt".format(cell.value))
 
-#print url_list
+# Add one to list length to accound for start=2 below
+max_row = len(url_list) + 1
+
 # /EXCEL
 for row, url in enumerate(url_list, start=2):
     url_match = ""
 
-    # Open chrome
-    browser = Browser('chrome', options=chrome_options)
-    browser.visit(url)
+    print url
 
-    # Create driver variable for selenium
-    selenium_driver = browser.driver
+    if row == 2:
+        # Open chrome
+        browser = Browser('chrome', options=chrome_options)
+        browser.visit(url)
 
-    # Check for desired "text" (UPDATE THIS VARIABLE NAME)
+        # Create driver variable for selenium
+        selenium_driver = browser.driver
+    else:
+        # Close old tab
+        browser.windows[0].close()
+
+        # Switch current window to new tab
+        browser.windows.current = browser.windows[0]
+
+        # Visit URL
+        browser.visit(url)
+
+    # Check for desired text
     src = selenium_driver.page_source
     text_found = re.search(r'{0}'.format(search_str), src)
 
+    # Confirm if found
     if text_found:
         url_match = "Yes"
-
     else:
         url_match = "No"
 
-    # Write to file
+    print url_match
+
+    # Write confirmation to file
     ws['C{0}'.format(row)] = url_match
     wb.save("Ads_Crawler.xlsx")
 
-    # Close browser
-    browser.quit()
+    # Open new tab
+    selenium_driver.execute_script("window.open('');")
+
+    if row == max_row:
+        # Close browser
+        browser.quit()
