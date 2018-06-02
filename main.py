@@ -34,8 +34,12 @@ chrome_options.add_argument('--window-size=1200,1000')
 # EXCEL
 wb = load_workbook('Ads_Crawler.xlsx')
 ws = wb['Sheet1']
-search_str = ws["f1"].value
+search_set = set()
 url_list = []
+    # Construct search_set
+for cell in ws['F']:
+   if cell.value and cell.value != u'Search for:':
+       search_set.add(cell.value)
 # /EXCEL
 
 # EXCEL
@@ -48,24 +52,25 @@ max_row = len(url_list) + 1
 
 # /EXCEL
 for row, url in enumerate(url_list, start=2):
-    url_match = ""
-
+    print "____________________________"
     print url
+    print ""
 
     if row == 2:
         # Set browser variable
         browser = Browser('chrome', options=chrome_options)
 
         # Create driver variable for selenium
+        # Set timeout limit
         selenium_driver = browser.driver
-        selenium_driver.set_page_load_timeout(6)
+        selenium_driver.set_page_load_timeout(60)
 
         # Open chrome
         try:
             browser.visit(url)
 
             # Test for "pre" element
-            while browser.is_element_not_present_by_tag("pre",wait_time=0.05):
+            while browser.is_element_not_present_by_tag("pre",wait_time=1):
                 continue
 
         except TimeoutException:
@@ -83,26 +88,35 @@ for row, url in enumerate(url_list, start=2):
             browser.visit(url)
 
             # Test for "pre" element
-            while browser.is_element_not_present_by_tag("pre",wait_time=0.05):
+            while browser.is_element_not_present_by_tag("pre",wait_time=1):
                 continue
 
         except TimeoutException:
             pass
 
-    # Check for desired text
-    src = selenium_driver.page_source
-    text_found = re.search(r'{0}'.format(search_str), src)
+    for search_str in search_set:
+        # Check for desired text
+        src = selenium_driver.page_source
+        text_found = re.search(r'{0}'.format(search_str), src)
 
-    # Confirm if found
-    if text_found:
-        url_match = "Yes"
-    else:
-        url_match = "No"
+        # Confirm if found and choose column accordingly
+        if text_found:
+            column = "B"
+            print "{0} found!".format(search_str)
+        else:
+            column = "C"
+            print "{0} not found!".format(search_str)
 
-    print url_match
+        # Populate spreadsheet using column above
+        if ws['{0}{1}'.format(column,row)].value:
+            current_val = ws['{0}{1}'.format(column,row)].value
+            ws['{0}{1}'.format(column,row)] = "{0}, {1}".format(current_val, search_str)
+        else:
+            ws['{0}{1}'.format(column,row)] = search_str
+
+    print "____________________________"
 
     # Write confirmation to file
-    ws['C{0}'.format(row)] = url_match
     wb.save("Ads_Crawler.xlsx")
 
     # Open new tab
