@@ -45,7 +45,7 @@ for cell in ws['F']:
 # EXCEL
 for row in ws['A{}:A{}'.format(ws.min_row + 1, ws.max_row)]:
     for cell in row:
-        url_list.append("http://{0}/ads.txt".format(cell.value))
+        url_list.append("http://{0}/ads.txt".format( (cell.value).encode('utf-8').strip() ))
 
 # Add one to list length to accound for start=2 below
 max_row = len(url_list) + 1
@@ -69,9 +69,15 @@ for row, url in enumerate(url_list, start=2):
         try:
             browser.visit(url)
 
+            counter = 0
             # Test for "pre" element
             while browser.is_element_not_present_by_tag("pre",wait_time=1):
-                continue
+                counter = counter + 1
+
+                if counter > 15:
+                    break
+                else:
+                    continue
 
         except TimeoutException:
             pass
@@ -87,9 +93,15 @@ for row, url in enumerate(url_list, start=2):
         try:
             browser.visit(url)
 
+            counter = 0
             # Test for "pre" element
             while browser.is_element_not_present_by_tag("pre",wait_time=1):
-                continue
+                counter = counter + 1
+
+                if counter > 15:
+                    break
+                else:
+                    continue
 
         except TimeoutException:
             pass
