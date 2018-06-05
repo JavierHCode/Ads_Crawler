@@ -1,0 +1,1240 @@
+status: 200
+content-length: 110791
+cf-cache-status: HIT
+vary: Cookie, Accept-Encoding,X-UA-Device
+x-ua-device: pc
+content-language: es
+x-ua-compatible: IE=edge,chrome=1
+cache-control: public, max-age=180
+x-cache: MISS
+set-cookie: __cfduid=d645bb9fc8b18650230da90a9b0e0131f1528223744;
+ expires=Wed, 05-Jun-19 18:35:44 GMT; path=/; domain=.elespectador.com;
+ HttpOnly
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Tue, 05 Jun 2018 18:30:04 GMT
+x-forwarded-proto: https
+link: <https://www.elespectador.com/cromos>;
+ rel="canonical",<https://www.elespectador.com/taxonomy/term/88670>;
+ rel="shortlink"
+date: Tue, 05 Jun 2018 18:35:44 GMT
+cf-ray: 4264bda32f37538a-LAX
+expect-ct: max-age=604800,
+ report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+x-drupal-cache: HIT
+content-location: https://www.elespectador.com/cromos/
+x-country-code: Unknown
+server: cloudflare
+connection: keep-alive
+-content-encoding: gzip
+x-frame-options: SAMEORIGIN
+content-type: text/html; charset=utf-8
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="no-js ie iem7" lang="es" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="es" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="es" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="no-js ie lt-ie9" lang="es" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="es" dir="ltr" prefix="cx: http://ogp.me/ns/cx# fb: http://ogp.me/ns/fb# og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><![endif]-->
+<!--[if !IE]><!--><html class="no-js" lang="es" dir="ltr" prefix="cx: http://ogp.me/ns/cx# fb: http://ogp.me/ns/fb# og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.elespectador.com/profiles/ee/themes/custom/elespectador/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon-precomposed" href="https://www.elespectador.com/profiles/ee/themes/custom/elespectador/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="https://www.elespectador.com/profiles/ee/themes/custom/elespectador/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://www.elespectador.com/profiles/ee/themes/custom/elespectador/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<script>var opta_settings = {
+            subscription_id: "e721b7dfc1aeeeb1d56abdd31a0cc8f0",
+            language: "es_CO",
+            timezone: "America/Bogota"
+        };</script>
+<link rel="apple-touch-icon-precomposed" href="https://www.elespectador.com/profiles/ee/themes/custom/elespectador/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<meta name="description" content="Encuentre aquí las noticias de Cromos, artículos, fotos y toda la información de Cromos actualizada con El Espectador." />
+<meta name="robots" content="follow, index" />
+<meta name="news_keywords" content="Cromos" />
+<meta name="viewport" content="width=device-width" />
+<link rel="canonical" href="https://www.elespectador.com/cromos" />
+<link rel="shortlink" href="https://www.elespectador.com/taxonomy/term/88670" />
+<meta http-equiv="content-language" content="ES" />
+<meta property="og:site_name" content="ELESPECTADOR.COM" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Cromos: información y noticias de Cromos | ELESPECTADOR.COM" />
+<meta property="og:url" content="https://www.elespectador.com/cromos" />
+<meta property="og:description" content="Encuentre aquí las noticias de Cromos, artículos, fotos y toda la información de Cromos actualizada con El Espectador." />
+<meta name="cXenseParse:pageclass" content="homepage" />
+<meta name="cXenseParse:recs:recommendable" content="true" />
+<meta name="cXenseParse:recs:recommending" content="true" />
+<meta name="twitter:card" content="summary" />
+<meta property="og:region" content="Bogota" />
+<meta property="og:postal_code" content="111121" />
+<meta name="twitter:title" content="Cromos: información y noticias de Cromos | ELESPECTADOR.COM" />
+<meta property="og:country_name" content="Colombia" />
+<meta name="twitter:url" content="https://www.elespectador.com/cromos" />
+<meta name="twitter:description" content="Encuentre aquí las noticias de Cromos, artículos, fotos y toda la información de Cromos actualizada con El Espectador." />
+<meta property="og:locale" content="es_CO" />
+<meta name="dcterms.title" content="Cromos" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://www.elespectador.com/cromos" />
+<meta property="fb:pages" content="14302129065" />
+<title>Cromos: información y noticias de Cromos | ELESPECTADOR.COM</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+<link rel="icon" href="/profiles/ee/themes/custom/elespectador/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="57x57" href="/profiles/ee/themes/custom/elespectador/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/profiles/ee/themes/custom/elespectador/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/profiles/ee/themes/custom/elespectador/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/profiles/ee/themes/custom/elespectador/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/profiles/ee/themes/custom/elespectador/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/profiles/ee/themes/custom/elespectador/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/profiles/ee/themes/custom/elespectador/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/profiles/ee/themes/custom/elespectador/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/profiles/ee/themes/custom/elespectador/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/profiles/ee/themes/custom/elespectador/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/profiles/ee/themes/custom/elespectador/favicon-32x32.png">
+<style media="screen">
+@import url("https://www.elespectador.com/profiles/ee/modules/contrib/picture/lazysizes/plugins/aspectratio/ls.aspectratio.css?p9u6mi");
+</style>
+<style>
+@import url("https://www.elespectador.com/profiles/ee/modules/custom/prebid/css/prebid_events.css?p9u6mi");
+</style>
+<link type="text/css" rel="stylesheet" href="https://secure.widget.cloud.opta.net/v3/css/v3.core.opta-widgets.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://secure.widget.cloud.opta.net/v3/css/v3.football.opta-widgets.css" media="all" />
+<style>
+@import url("https://www.elespectador.com/profiles/ee/modules/custom/opta_services/css/styles_opta.css?p9u6mi");
+</style>
+<style>
+@import url("https://www.elespectador.com/profiles/ee/themes/custom/elespectador/css/elespectador-theme.styles.css?p9u6mi");
+</style>
+<script src="https://www.elespectador.com/profiles/ee/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script>
+      (function () {
+          var gads = document.createElement('script');
+          gads.async = true;
+          gads.type = 'text/javascript';
+          var useSSL = 'https:' == document.location.protocol;
+          gads.src = (useSSL ? 'https:' : 'http:') +
+                  '//www.googletagservices.com/tag/js/gpt.js';
+          var node = document.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(gads, node);
+      })();
+
+      var l = JSON.stringify(null);
+
+      if(typeof document.querySelector('.page-node') === 'object') {
+        var h = window.location.href.split('/');
+        var r = window.location.href.replace('/'+h[h.length - 1], '');
+      } else {
+        var r = window.location.href;
+      }
+
+      l = l.replace(/{%url%}/g, r);
+      l = JSON.parse(l);
+
+
+      var PREBID_TIMEOUT = 3000;
+      var adUnits = l;
+
+      var pbjs = pbjs || {};
+      pbjs.que = pbjs.que || [];
+
+      pbjs.que.push(function() {
+        pbjs.setPriceGranularity("dense");
+        pbjs.enableSendAllBids();
+      });
+
+      function sendAdserverRequest() {
+          if (pbjs.adserverRequestSent) return;
+          pbjs.adserverRequestSent = true;
+          googletag.cmd.push(function() {
+              pbjs.que.push(function() {
+                  pbjs.setTargetingForGPTAsync();
+                  googletag.pubads().refresh();
+              });
+          });
+      }
+
+      function call_custom_prebid(){
+        
+      googletag.cmd.push(function() {
+          googletag.pubads().disableInitialLoad();
+      });
+
+      pbjs.que.push(function() {
+          pbjs.addAdUnits(adUnits);
+          pbjs.requestBids({
+              bidsBackHandler: sendAdserverRequest
+          });
+      });
+
+      setTimeout(function() {
+          sendAdserverRequest();
+      }, PREBID_TIMEOUT);
+      //console.log(PREBID_TIMEOUT);
+    
+      }
+
+      if (typeof googletag !== 'undefined') {
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+      } else {
+        console.log( 'El API de Google DFP aún no está cargado.' );
+      }
+</script>
+<script>var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};</script>
+<script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="https://www.elespectador.com/misc/drupal.js?p9u6mi"></script>
+<script>setTimeout(
+    function() {
+       try { 
+        var scriptEl = document.createElement('script'); 
+        scriptEl.type = 'text/javascript'; 
+        scriptEl.async = 'async';
+        scriptEl.defer = 'defer';
+        scriptEl.src = 'https://www.elespectador.com/profiles/ee/modules/custom/prebid/js/prebid.js';
+        var targetEl = document.getElementsByTagName('script')[0]; 
+        targetEl.parentNode.insertBefore(scriptEl, targetEl); 
+      } 
+      catch (e) {
+        console.log(e);
+      };
+      } ()
+    ,100);</script>
+<script>if (typeof call_custom_prebid === 'function') { 
+  call_custom_prebid();
+  if( typeof googletag !== 'undefined' ){
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+      if( event.isEmpty ){
+        adunit = event.slot.getSlotElementId();
+        jQuery( '#' + adunit + '-wrapper' ).css( 'display', 'none' );
+      }
+    });
+  } else {
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.slots = googletag.slots || {};
+  }
+}
+
+if( typeof googletag !== 'undefined' ){
+  googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+    var widthWindow = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+    var width = event.size[ 0 ];
+    var height = event.size[ 1 ];
+    var slot = event.slot.getSlotElementId();
+    var size = width + 'x' + height;
+    if( (size == '320x50' || size == '300x50') && widthWindow > 600 ){
+      jQuery( '#' + slot ).css( 'display', 'none' );
+    }
+  });
+  window.addEventListener('onload', removeTagsEmpty);
+  function removeTagsEmpty( event ){
+    googletag.cmd.push( function(){
+      googletag.pubads().collapseEmptyDivs();
+    } );
+  }
+}
+</script>
+<script>var mapping = googletag.sizeMapping()
+  .addSize([1050, 200], [300, 250])
+  .addSize([750, 200], [[320, 50], [300, 50]])
+  .addSize([320, 480], [[300, 250], [320, 50], [300, 50]])
+  .build();
+googletag.slots["roba_pagina_top_seccion"] = googletag.defineSlot("100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_top_seccion")
+  .addService(googletag.pubads())
+  .setTargeting("Posicion", "Top2")
+  .defineSizeMapping(mapping);</script>
+<script>var mapping = googletag.sizeMapping()
+  .addSize([1050, 200], [300, 250])
+  .addSize([750, 200], [[320, 50], [300, 50]])
+  .addSize([320, 480], [[300, 250], [320, 50], [300, 50]])
+  .build();
+googletag.slots["roba_pagina_mid_seccion"] = googletag.defineSlot("100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_mid_seccion")
+  .addService(googletag.pubads())
+  .setTargeting("Posicion", "Mid")
+  .defineSizeMapping(mapping);</script>
+<script>var mapping = googletag.sizeMapping()
+  .addSize([1050, 200], [300, 250])
+  .addSize([750, 200], [[320, 50], [300, 50]])
+  .addSize([320, 480], [[300, 250], [320, 50], [300, 50]])
+  .build();
+googletag.slots["roba_pagina_bot_seccion"] = googletag.defineSlot("100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_bot_seccion")
+  .addService(googletag.pubads())
+  .setTargeting("Posicion", "Bot")
+  .defineSizeMapping(mapping);</script>
+<script>googletag.slots["out_of_page_seccion"] = googletag.defineOutOfPageSlot("100249493/elespectador/cromos", "dfp-ad-out_of_page_seccion")
+  .addService(googletag.pubads());</script>
+<script>var mapping = googletag.sizeMapping()
+  .addSize([1050, 200], [[1000, 40], [1300, 730], [1300, 600], [728, 90]])
+  .addSize([750, 200], [[320, 50], [300, 50]])
+  .addSize([320, 480], [[300, 50], [320, 50]])
+  .addSize([320, 400], [[300, 50], [320, 50]])
+  .build();
+googletag.slots["mega_banner_top_seccion"] = googletag.defineSlot("100249493/elespectador/cromos", [[1000, 40], [1300, 730], [728, 90], [1000, 90], [1300, 600], [728, 90]], "dfp-ad-mega_banner_top_seccion")
+  .addService(googletag.pubads())
+  .setTargeting("Posicion", "Top")
+  .setTargeting("728x90_Top_Home", "728x90_Top_Home")
+  .defineSizeMapping(mapping);</script>
+<script>
+    window.Adomik = window.Adomik || {};Adomik.randomAdGroup = function() {var rand = Math.random();switch (false) {case !(rand < 0.09): return "ad_ex" + (Math.floor(100 * rand));case !(rand < 0.10): return "ad_bc";default: return "ad_opt";}};
+  </script>
+<script>googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().disableInitialLoad();
+});
+window.onload=function() {setTimeout(function(){ try{nvg35578.dfpnvg();}catch(e){}; }, 1000);}
+googletag.enableServices();</script>
+<script>document.createElement( "picture" );</script>
+<script src="https://secure.widget.cloud.opta.net/v3/v3.opta-widgets.js"></script>
+<script>window._taboola = window._taboola || [];
+window.tabbola_type = window.tabbola_type || 'article';
+window.tabbola_type_obj = {}
+window.tabbola_type_obj[window.tabbola_type] = 'auto'
+_taboola.push(window.tabbola_type_obj);
+!function (e, f, u) { e.async = 1; e.src = u; f.parentNode.insertBefore(e, f);}
+(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/caracoltv-elespectador/loader.js');</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","prebid":{"slots":[],"ads_timeout_display":"5000"},"field_group":{"div":"special","html-element":"teaser"},"picture":{"mappings":[["Main","main"],["Not Set","not_set"]],"label":"Image size (required)"},"icck_social_networks":{"facebook_app_id":""},"urlIsAjaxTrusted":{"\/cromos\/":true,"\/cromos?destination=taxonomy\/term\/88670":true},"piano":{"piano_domain":"experience","piano_application_id":"kVw77VOIDd","current_path":"taxonomy\/term\/88670","path_is_admin":false,"piano_ad_blockers":1,"piano_my_account":1,"base_url":"https:\/\/www.elespectador.com"}});</script>
+</head>
+<body class="html not-front not-logged-in page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-88670 lp-front lpt-cromos lp-cromos section-cromos">
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5FQVPR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5FQVPR');</script>
+
+<div id="dfp-ad-out_of_page_seccion-wrapper" class="dfp-tag-wrapper element-hidden"><div class="fake_dfp" id="dfp-ad-out_of_page_seccion" class="dfp-tag-wrapper">
+<script type="text/javascript">
+    function slotDfp(){
+
+      if( typeof googletag.slots["out_of_page_seccionv956d"] == "undefined" ){
+        var mapping = googletag.sizeMapping()
+                .build();
+        googletag.cmd.push(function() {
+          googletag.slots["out_of_page_seccionv956d"] = googletag.defineSlot( "100249493/elespectador/cromos", [0, 0], "dfp-ad-out_of_page_seccionv956d")
+                              .setTargeting('ad_group',Adomik.randomAdGroup())
+                              .addService(googletag.pubads())
+                                                                                                .setTargeting("especial", "[node:url:args:value:0]")
+                                                                                            .defineSizeMapping(mapping);
+          googletag.display("dfp-ad-out_of_page_seccionv956d");
+        });
+      }else{
+        googletag.cmd.push(function() { googletag.display("dfp-ad-out_of_page_seccionv956d"); });
+      }
+    }
+    window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
+  </script>
+</div>
+</div>
+<div class="l-region l-region--toma">
+<div id="block-block-1" class="block block--block block--block-1">
+<div class="block__content">
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.pubads().addEventListener("slotRenderEnded", function(event) {
+if(!event.isEmpty){
+if (event.size[0] > 800 && event.size[1] > 500) {
+(jQuery)("body").addClass("tomaFull");
+}
+}
+});
+//--><!]]>
+</script> </div>
+</div>
+<div id="block-dfp-mega-banner-top-seccion" class="block block--dfp block--dfp-mega-banner-top-seccion">
+<div class="block__content">
+<div id="dfp-ad-mega_banner_top_seccion-wrapper" class="dfp-tag-wrapper"><div class="fake_dfp" id="dfp-ad-mega_banner_top_seccion" class="dfp-tag-wrapper">
+<script type="text/javascript">
+    function slotDfp(){
+
+      if( typeof googletag.slots["mega_banner_top_seccionuouxg"] == "undefined" ){
+        var mapping = googletag.sizeMapping()
+                .addSize([1050, 200],[[1000, 40], [1300, 730], [1300, 600], [728, 90]])
+                .addSize([750, 200],[[320, 50], [300, 50]])
+                .addSize([320, 480],[[300, 50], [320, 50]])
+                .addSize([320, 400],[[300, 50], [320, 50]])
+                .build();
+        googletag.cmd.push(function() {
+          googletag.slots["mega_banner_top_seccionuouxg"] = googletag.defineSlot( "100249493/elespectador/cromos", [[1000, 40], [1300, 730], [728, 90], [1000, 90], [1300, 600], [728, 90]], "dfp-ad-mega_banner_top_seccionuouxg")
+                              .setTargeting('ad_group',Adomik.randomAdGroup())
+                              .addService(googletag.pubads())
+                                                                                                .setTargeting("Posicion", "Top")
+                                                                                                                                                                                              .setTargeting("728x90_Top_Home", "728x90_Top_Home")
+                                                                                                                                .setTargeting("especial", "[node:url:args:value:0]")
+                                                                                                                                .setTargeting("second_section", "[term:url:args:value:1][node:url:args:value:1]")
+                                                                                            .defineSizeMapping(mapping);
+          googletag.display("dfp-ad-mega_banner_top_seccionuouxg");
+        });
+      }else{
+        googletag.cmd.push(function() { googletag.display("dfp-ad-mega_banner_top_seccionuouxg"); });
+      }
+    }
+    window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
+  </script>
+</div>
+</div> </div>
+</div>
+</div>
+<div class="l-page">
+<header class="l-header" role="banner">
+<div class="l-branding">
+</div>
+<div class="l-region l-region--header">
+<div id="block-ft-ee-menus-ee-menu-logo" class="block block--ft-ee-menus block--ft-ee-menus-ee-menu-logo">
+<div class="block__content">
+<div class="ee-menu-logo">
+<div class="button_burger">
+<div class="btn_lines">
+<span class="l1 line"></span>
+<span class="l2 line"></span>
+<span class="l3 line"></span>
+</div>
+</div>
+<a class="logo-img" href="/">
+<img src="/profiles/ee/modules/features/ft_ee_menus/img/logo-elespectador.png" alt="El Espectador">
+</a>
+</div>
+</div>
+</div>
+<div id="block-ee-custom-blocks-last-update" class="block block--ee-custom-blocks block--ee-custom-blocks-last-update">
+<div class="block__content">
+<div class="publication-date">
+<div class="date">
+martes 05 de junio </div>
+</div>
+</div>
+</div>
+<div id="block-ft-ee-menus-ee-menu-social-networks" class="block block--ft-ee-menus block--ft-ee-menus-ee-menu-social-networks">
+<div class="block__content">
+<div class="ee-social-networks">
+<div class="social_networks">
+<span>Síganos en:</span>
+<ul class="menu"><li class="first leaf"><a href="https://www.facebook.com/elespectadorcom" rel="nofollow" target="_blank"><i class='fa fa-facebook'></i><span>Facebook</span></a></li>
+<li class="leaf"><a href="https://twitter.com/elespectador" rel="nofollow" target="_blank"><i class='fa fa-twitter'></i><span>Twitter</span></a></li>
+<li class="leaf"><a href="https://www.youtube.com/user/Elespectadorcom?sub_confirmation=1 " rel="nofollow" target="_blank"><i class='fa fa-youtube-play'></i><span>YouTube</span></a></li>
+<li class="last leaf"><a href="https://www.instagram.com/elespectador/"><i class='fa fa-instagram'></i><span>Instagram</span></a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div id="block-ee-users-services-exclusive-piano-suscribe" class="block block--ee-users-services block--ee-users-services-exclusive-piano-suscribe">
+<div class="block__content">
+<div class='boton-suscription piano-block-digital-suscription'></div> </div>
+</div>
+<div id="block-ee-users-services-register-services-login" class="block block--ee-users-services block--ee-users-services-register-services-login">
+<div class="block__content">
+<div class="block-login" id="block-login"></div> </div>
+</div>
+<div id="block-search-api-page-content" class="block block--search-api-page block--search-api-page-content">
+<div class="block__content">
+<form class="search-api-page-search-form-content" action="/cromos/" method="post" id="search-api-page-search-form-content" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-6">
+<label class="element-invisible" for="edit-keys-6">Escriba las palabras clave. </label>
+<input placeholder="Escriba las palabras clave." type="text" id="edit-keys-6" name="keys_6" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="6" />
+<div class="button_submit"></div><div class="search_submit"><input type="submit" id="edit-submit-6" name="op" value="Buscar" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-91qjQYMGbSlkGLghi3NZTizSmX1kqQpRnA7AhezVvCs" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_content" />
+</div></form> </div>
+</div>
+<div id="block-user-login" role="form" class="block block--user block--user-login">
+<h2 class="block__title">Inicio de sesión</h2>
+<div class="block__content">
+<form class="user-login-form" action="/cromos?destination=taxonomy/term/88670" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+<label for="edit-name">E-mail or username <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+<input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+<label for="edit-pass">Contraseña <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+<input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<ul><li><a href="/user/register" title="Create a new user account.">Crear nueva cuenta</a></li>
+<li><a href="/user/password" title="Request new password via e-mail.">Solicitar una nueva contraseña</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-jKoka0nnBwMQMGdTlTOTme_ofTuVgKSv2vDYParP3Fc" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Iniciar sesión" class="form-submit" /></div><div class="hybridauth-widget-wrapper">
+<h3> </h3><ul class="hybridauth-widget"><li><a href="/hybridauth/window/Facebook?destination=taxonomy/term/88670&amp;destination_error=taxonomy/term/88670" title="Facebook" class="hybridauth-widget-provider hybridauth-onclick-popup" rel="nofollow" data-hybridauth-provider="Facebook" data-hybridauth-url="/hybridauth/window/Facebook?destination=taxonomy/term/88670&amp;destination_error=taxonomy/term/88670" data-ajax="false" data-hybridauth-width="800" data-hybridauth-height="500"><span class="hybridauth-icon facebook hybridauth-icon-hybridauth-48 hybridauth-facebook hybridauth-facebook-hybridauth-48" title="Facebook"></span>
+</a></li>
+<li><a href="/hybridauth/window/Google?destination=taxonomy/term/88670&amp;destination_error=taxonomy/term/88670" title="Google" class="hybridauth-widget-provider hybridauth-onclick-popup" rel="nofollow" data-hybridauth-provider="Google" data-hybridauth-url="/hybridauth/window/Google?destination=taxonomy/term/88670&amp;destination_error=taxonomy/term/88670" data-ajax="false" data-hybridauth-width="800" data-hybridauth-height="500"><span class="hybridauth-icon google hybridauth-icon-hybridauth-48 hybridauth-google hybridauth-google-hybridauth-48" title="Google"></span>
+</a></li>
+</ul></div>
+</div></form> </div>
+</div>
+</div>
+<div class="l-region l-region--navigation">
+<div id="block-ft-ee-menus-ee-desktop-main-menu" class="block block--ft-ee-menus block--ft-ee-menus-ee-desktop-main-menu">
+<div class="block__content">
+<div class="menu-block-wrapper menu-block-ee_desktop_main_menu menu-name-main-menu parent-mlid-0 menu-level-1">
+<ul class="menu"><li class="first expanded menu-mlid-430 noticias" data-section-color="#f33d49"><a href="/noticias" data-term="1" class="ee-menu-link"><span>Noticias</span><i class='icon-menu'></i></a><div class="submenu"><ul class="menu"><li class="first leaf menu-mlid-483" data-section-color="#009bc0"><a href="/noticias/politica">Política</a></li>
+<li class="leaf menu-mlid-489" data-section-color="#0bac27"><a href="/noticias/medio-ambiente">Medio Ambiente</a></li>
+<li class="leaf menu-mlid-944" data-section-color="#0076a2"><a href="/noticias/investigacion">Investigación</a></li>
+<li class="leaf menu-mlid-1899" data-section-color="#009bc0"><a href="/noticias/el-mundo">El Mundo </a></li>
+<li class="leaf menu-mlid-953" data-section-color="#009bc0"><a href="/noticias/bogota">Bogotá</a></li>
+<li class="collapsed menu-mlid-945" data-section-color="#52acdd"><a href="/noticias/educacion">Educación</a></li>
+<li class="leaf menu-mlid-492" data-section-color="#f33d49"><a href="/noticias/noticias-de-cultura">Cultura</a></li>
+<li class="leaf menu-mlid-488" data-section-color="#5385bb"><a href="/noticias/judicial">Judicial</a></li>
+<li class="leaf menu-mlid-940" data-section-color="#5385bb"><a href="/noticias/paz">Paz</a></li>
+<li class="leaf menu-mlid-936" data-section-color="#52acdd"><a href="/noticias/salud">Salud</a></li>
+<li class="collapsed menu-mlid-947" data-section-color="#5385bb"><a href="/noticias/nacional">Nacional</a></li>
+<li class="leaf menu-mlid-950" data-section-color="#5385bb"><a href="/noticias/actualidad">Actualidad</a></li>
+<li class="leaf menu-mlid-2752" data-section-color="#954086"><a href="/noticias/ciencia">Ciencia</a></li>
+<li class="leaf menu-mlid-933" data-section-color="#5385bb"><a href="/noticias/actualidad/vice">Vice en El Espectador</a></li>
+<li class="leaf menu-mlid-949" data-section-color="#007ca9"><a href="/noticias/alto-turmeque">Alto Turmequé</a></li>
+<li class="last leaf menu-mlid-941" data-section-color="#f33d49"><a href="/noticias/redes-sociales">Redes Sociales</a></li>
+</ul></div></li>
+<li class="leaf menu-mlid-918 opinion" data-section-color="#9ba3ce"><a href="/opinion">Opinión</a></li>
+<li class="leaf menu-mlid-919 economia" data-section-color="#00727f"><a href="/economia">Economía</a></li>
+<li class="expanded menu-mlid-920 deportes" data-section-color="#ff6920"><a href="/deportes" data-term="37" class="ee-menu-link"><span>Deportes</span><i class='icon-menu'></i></a><div class="submenu"><ul class="menu"><li class="first leaf menu-mlid-938" data-section-color="#ff6920"><a href="/deportes/futbol-colombiano">Fútbol Colombiano</a></li>
+<li class="leaf menu-mlid-937" data-section-color="#ff6920"><a href="/deportes/futbol-internacional">Fútbol Internacional</a></li>
+<li class="leaf menu-mlid-932" data-section-color="#ff6920"><a href="/deportes/ciclismo">Ciclismo</a></li>
+<li class="leaf menu-mlid-951" data-section-color="#ff6920"><a href="/deportes/automovilismo">Automovilismo</a></li>
+<li class="leaf menu-mlid-952" data-section-color="#ff6920"><a href="/deportes/baloncesto">Baloncesto</a></li>
+<li class="leaf menu-mlid-954" data-section-color="#ff6920"><a href="/deportes/beisbol">Béisbol</a></li>
+<li class="leaf menu-mlid-939" data-section-color="#ff6920"><a href="/deportes/golf">Golf</a></li>
+<li class="last leaf menu-mlid-935" data-section-color="#ff6920"><a href="/deportes/tenis">Tenis</a></li>
+</ul></div></li>
+<li class="expanded menu-mlid-917 entretenimiento" data-section-color="#954086"><a href="/entretenimiento" data-term="48" class="ee-menu-link"><span>Entretenimiento</span><i class='icon-menu'></i></a><div class="submenu"><ul class="menu"><li class="first leaf menu-mlid-1187" data-section-color="#954086"><a href="/entretenimiento/cine">Cine</a></li>
+<li class="leaf menu-mlid-1183" data-section-color="#954086"><a href="/entretenimiento/eventos">Eventos</a></li>
+<li class="leaf menu-mlid-1184" data-section-color="#9ebf40"><a href="/entretenimiento/gente">Gente</a></li>
+<li class="leaf menu-mlid-1186" data-section-color="#954086"><a href="/entretenimiento/medios">Medios</a></li>
+<li class="last leaf menu-mlid-1185" data-section-color="#954086"><a href="/entretenimiento/musica">Música</a></li>
+</ul></div></li>
+<li class="expanded menu-mlid-915 vivir" data-section-color="#954086"><a href="/vivir" data-term="56" class="ee-menu-link"><span>Vivir</span><i class='icon-menu'></i></a><div class="submenu"><ul class="menu"><li class="first leaf menu-mlid-1189" data-section-color="#726c86"><a href="/vivir/autos">Autos</a></li>
+<li class="leaf menu-mlid-1182" data-section-color="#954086"><a href="/vivir/buen-viaje-vip">Buen viaje VIP</a></li>
+<li class="leaf menu-mlid-1181" data-section-color="#954086"><a href="/vivir/bebe">Mi bebé</a></li>
+<li class="last leaf menu-mlid-1188" data-section-color="#954086"><a href="/vivir/gastronomia">Gastronomía</a></li>
+</ul></div></li>
+<li class="expanded active-trail active menu-mlid-3181" data-section-color="#f5364c"><a href="/cromos" data-term="88670" class="active-trail ee-menu-link active"><span>Cromos</span><i class='icon-menu'></i></a><div class="submenu"><ul class="menu"><li class="first leaf menu-mlid-3183" data-section-color="#f5364c"><a href="/cromos/estilo-de-vida">Estilo de Vida</a></li>
+<li class="leaf menu-mlid-3184" data-section-color="#f5364c"><a href="/cromos/moda">Moda</a></li>
+<li class="leaf menu-mlid-3185" data-section-color="#f5364c"><a href="/cromos/gastronomia">Gastronomía</a></li>
+<li class="leaf menu-mlid-3186" data-section-color="#f5364c"><a href="/cromos/vida-social">Vida Social</a></li>
+<li class="leaf menu-mlid-3188" data-section-color="#f5364c"><a href="/cromos/maternidad-y-bienestar">Maternidad y Bienestar</a></li>
+<li class="leaf menu-mlid-3187" data-section-color="#f5364c"><a href="/cromos/astrologia">Astrología</a></li>
+<li class="last leaf menu-mlid-3182" data-section-color="#f5364c"><a href="/cromos/columnistas">Columnistas</a></li>
+</ul></div></li>
+<li class="leaf menu-mlid-916 tecnologia" data-section-color="#5f6694"><a href="/tecnologia">Tecnología</a></li>
+<li class="leaf menu-mlid-428 blogs" data-section-color="#5f6694"><a href="http://blogs.elespectador.com/" rel="nofollow">Blogs</a></li>
+<li class="leaf menu-mlid-1193" data-section-color="#5f6694"><a href="http://colombia2020.elespectador.com/" target="_blank">Colombia 2020</a></li>
+<li class="last leaf menu-mlid-3064" data-section-color="#f33d49"><a href="/especiales">Especiales</a></li>
+</ul></div>
+<div class="middle-menu"></div><div class="secondary-menu" style="background-color:"><div class="secondary-secondary"><div class="secondary-title">
+<a href="/cromos" data-term="88670" class="active-trail active">Cromos</a>
+</div>
+<div class="menu-block-wrapper menu-block-ee_desktop_main_menu menu-name-main-menu parent-mlid-3181 menu-level-1">
+<ul class="menu"><li class="first leaf menu-mlid-3183"><a href="/cromos/estilo-de-vida">Estilo de Vida</a></li>
+<li class="leaf menu-mlid-3184"><a href="/cromos/moda">Moda</a></li>
+<li class="leaf menu-mlid-3185"><a href="/cromos/gastronomia">Gastronomía</a></li>
+<li class="leaf menu-mlid-3186"><a href="/cromos/vida-social">Vida Social</a></li>
+<li class="leaf menu-mlid-3188"><a href="/cromos/maternidad-y-bienestar">Maternidad y Bienestar</a></li>
+<li class="leaf menu-mlid-3187"><a href="/cromos/astrologia">Astrología</a></li>
+<li class="last leaf menu-mlid-3182"><a href="/cromos/columnistas">Columnistas</a></li>
+</ul></div>
+</div></div> </div>
+</div>
+</div>
+</header>
+<div class="l-main">
+<div class="l-content" role="main">
+<a id="main-content"></a>
+<div class="content-backpack backpack-cromos cromos">
+<div class="backpack-block-page" class="backpack-block-page">
+<div class="content">
+<div class="row section_type_1"><div class="wrapper"><div class="col-xs-12 col-md-12 col-lg-12"><div class="row"><div class="col-xs-12 col-md-12 col-lg-8"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article view-mode-main  node--main node--article--main clearfix">
+<div class="node-image field field--name-field-main-picture field--type-image field--label-hidden"><a href="/cromos/comprar-ropa-pirata-es-un-acto-de-corrupcion-articulo-792573"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/main_custom_user_md_1x/public/_dea8425.jpg?itok=4m7_SXtp&amp;timestamp=1528218305 1x" data-aspectratio="630/420" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/main_custom_user_xs_1x/public/_dea8425.jpg?itok=zMJ7RPuc&amp;timestamp=1528218305 1x, https://www.elespectador.com/sites/default/files/styles/main_custom_user_xs_2x/public/_dea8425.jpg?itok=1pb36wb2&amp;timestamp=1528218305 2x" data-aspectratio="640/450" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div><div class="group-text-content field-group-div text-content"><div class="group-node-info field-group-div node-info"><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos" class="active">Cromos</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden">Hace 1 hora</div></div><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/comprar-ropa-pirata-es-un-acto-de-corrupcion-articulo-792573">¿Comprar ropa pirata es un acto de corrupción?</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article view-mode-average_height node--average-height node--article--average-height clearfix">
+<div class="node-image field field--name-field-main-picture field--type-image field--label-hidden"><a href="/cromos/maternidad-y-bienestar/nutrientes-para-el-embarazo-los-suplementos-de-la-mujer-ii-articulo-792447"><picture title="Nutrientes para el embarazo: los suplementos de la mujer (II)  ">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/small_square_custom_user_md_1x/public/gettyimages-515010866.jpg?itok=hO2otCbQ&amp;timestamp=1528141374 1x" data-aspectratio="144/144" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/small_square_custom_user_xs_1x/public/gettyimages-515010866.jpg?itok=mBfS-XXK&amp;timestamp=1528141374 1x, https://www.elespectador.com/sites/default/files/styles/small_square_custom_user_xs_2x/public/gettyimages-515010866.jpg?itok=1EkgrNOv&amp;timestamp=1528141374 2x" data-aspectratio="288/288" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Nutrientes para el embarazo: los suplementos de la mujer (II)  " title="Nutrientes para el embarazo: los suplementos de la mujer (II)  " />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Nutrientes para el embarazo: los suplementos de la mujer (II)  " title="Nutrientes para el embarazo: los suplementos de la mujer (II)  " />
+<!-- <![endif]-->
+</picture></a></div><div class="group-container-teaser"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/maternidad-y-bienestar/nutrientes-para-el-embarazo-los-suplementos-de-la-mujer-ii-articulo-792447">Nutrientes para el embarazo: los suplementos de la mujer (II) </a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/maternidad-y-bienestar">Maternidad y Bienestar</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>4 Jun 2018</span></div></div></div>
+</div><div class="object block-dfp-roba_pagina_top_seccion"><div id="dfp-ad-roba_pagina_top_seccion-wrapper" class="dfp-tag-wrapper"><div class="fake_dfp" id="dfp-ad-roba_pagina_top_seccion" class="dfp-tag-wrapper">
+<script type="text/javascript">
+    function slotDfp(){
+
+      if( typeof googletag.slots["roba_pagina_top_seccion91ith"] == "undefined" ){
+        var mapping = googletag.sizeMapping()
+                .addSize([1050, 200],[300, 250])
+                .addSize([750, 200],[[320, 50], [300, 50]])
+                .addSize([320, 480],[[300, 250], [320, 50], [300, 50]])
+                .build();
+        googletag.cmd.push(function() {
+          googletag.slots["roba_pagina_top_seccion91ith"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_top_seccion91ith")
+                              .setTargeting('ad_group',Adomik.randomAdGroup())
+                              .addService(googletag.pubads())
+                                                                                                .setTargeting("Posicion", "Top2")
+                                                                                                                                                                                              .setTargeting("especial", "[node:url:args:value:0]")
+                                                                                            .defineSizeMapping(mapping);
+          googletag.display("dfp-ad-roba_pagina_top_seccion91ith");
+        });
+      }else{
+        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_top_seccion91ith"); });
+      }
+    }
+    window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
+  </script>
+</div>
+</div></div></div></div></div></div></div><div class="row section_type_2"><div class="wrapper"><div class="col-xs-12 col-md-12 col-lg-12"><div class="row"><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article view-mode-twice_hight node--twice-hight node--article--twice-hight clearfix">
+<div class="node-image field field--name-field-main-picture field--type-image field--label-hidden"><a href="/cromos/gastronomia/receta-del-dia-bananos-apanados-articulo-792445"><picture title="Receta del día: Bananos apanados">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/double_height_custom_user_md_1x/public/img_0968.jpg?itok=JH6p37gd&amp;timestamp=1528140652 1x" data-aspectratio="300/415" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/double_height_custom_user_xs_1x/public/img_0968.jpg?itok=rtWN2f5u&amp;timestamp=1528140652 1x, https://www.elespectador.com/sites/default/files/styles/double_height_custom_user_xs_2x/public/img_0968.jpg?itok=1LYVRGIn&amp;timestamp=1528140652 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Receta del día: Bananos apanados" title="Receta del día: Bananos apanados" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Receta del día: Bananos apanados" title="Receta del día: Bananos apanados" />
+<!-- <![endif]-->
+</picture></a></div><div class="group-container-teaser"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/gastronomia/receta-del-dia-bananos-apanados-articulo-792445">Receta del día: Bananos apanados</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/gastronomia">Gastronomía</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>4 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article view-mode-featured node--featured node--article--featured clearfix">
+<div class="group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h2><a href="/cromos/las-fibras-de-la-seda-en-colombia-estan-en-el-cauca-articulo-792301">Las fibras de la seda en Colombia están en el Cauca</a></h2><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos" class="active">Cromos</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>3 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/moda/look-del-dia-camisas-gitanas-para-dias-soleados-articulo-792307"><picture title="Look del día: camisas gitanas para días soleados">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/domingo_0.jpg?itok=f_mZGe4X&amp;timestamp=1528052252 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/domingo_0.jpg?itok=ZoLspVb-&amp;timestamp=1528052252 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/domingo_0.jpg?itok=9hYBI64m&amp;timestamp=1528052252 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Look del día: camisas gitanas para días soleados" title="Look del día: camisas gitanas para días soleados" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Look del día: camisas gitanas para días soleados" title="Look del día: camisas gitanas para días soleados" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/moda/look-del-dia-camisas-gitanas-para-dias-soleados-articulo-792307">Look del día: camisas gitanas para días soleados</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/moda">Moda</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>3 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/gastronomia/sopa-de-salmon-con-papa-y-maiz-articulo-792292"><picture title="Sopa de salmón con papa y maíz">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/sopa_de_salmon_y_maiz_2.jpg?itok=NlARXJue&amp;timestamp=1528041567 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/sopa_de_salmon_y_maiz_2.jpg?itok=BmPySNEb&amp;timestamp=1528041567 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/sopa_de_salmon_y_maiz_2.jpg?itok=mP4B-aeq&amp;timestamp=1528041567 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Sopa de salmón con papa y maíz" title="Sopa de salmón con papa y maíz" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Sopa de salmón con papa y maíz" title="Sopa de salmón con papa y maíz" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/gastronomia/sopa-de-salmon-con-papa-y-maiz-articulo-792292">Sopa de salmón con papa y maíz</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/gastronomia">Gastronomía</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>3 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--gallery node-teaser view-mode-teaser node--teaser node--gallery--teaser clearfix">
+<div class="node-image field field--name-field-multimedia field--type-file field--label-hidden"><div class="ds-1col file file-image file-image-jpeg view-mode-teaser clearfix">
+<a href="/cromos/92-anos-de-su-nacimiento-recordamos-marilyn-monroe-con-16-portadas-galeria-792106"><picture title="Hoy se cumplirían 92 años del nacimiento de Marilyn Monroe 0">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/1768.jpg?itok=V24rRiLq&amp;timestamp=1527896101 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/1768.jpg?itok=UFg4_mwL&amp;timestamp=1527896101 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/1768.jpg?itok=CI1iNR6A&amp;timestamp=1527896101 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Hoy se cumplirían 92 años del nacimiento de Marilyn Monroe 0" title="Hoy se cumplirían 92 años del nacimiento de Marilyn Monroe 0" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Hoy se cumplirían 92 años del nacimiento de Marilyn Monroe 0" title="Hoy se cumplirían 92 años del nacimiento de Marilyn Monroe 0" />
+<!-- <![endif]-->
+</picture></a></div>
+</div><div class="group-text-content field-group-fieldset"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/92-anos-de-su-nacimiento-recordamos-marilyn-monroe-con-16-portadas-galeria-792106">A 92 años de su nacimiento, recordamos a Marilyn Monroe con 16 portadas</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos" class="active">Cromos</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>3 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/maternidad-y-bienestar/endometriosis-abrazar-el-dolor-articulo-792245"><picture title="Endometriosis: abrazar el dolor">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/para_subir.jpg?itok=u_nfSdEk&amp;timestamp=1527970358 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/para_subir.jpg?itok=IuWiVz7O&amp;timestamp=1527970358 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/para_subir.jpg?itok=qrfwo2Ux&amp;timestamp=1527970358 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Endometriosis: abrazar el dolor" title="Endometriosis: abrazar el dolor" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Endometriosis: abrazar el dolor" title="Endometriosis: abrazar el dolor" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/maternidad-y-bienestar/endometriosis-abrazar-el-dolor-articulo-792245">Endometriosis: abrazar el dolor</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/maternidad-y-bienestar">Maternidad y Bienestar</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>2 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/moda/look-del-dia-slip-dress-de-la-alcoba-la-calle-articulo-792241"><picture title="Look del día: &#039;slip dress&#039;, de la alcoba a la calle">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/gettyimages-686260632.jpg?itok=yuogAuUh&amp;timestamp=1527969219 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/gettyimages-686260632.jpg?itok=LkFq8MCj&amp;timestamp=1527969219 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/gettyimages-686260632.jpg?itok=p34x3a0j&amp;timestamp=1527969219 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Look del día: &#039;slip dress&#039;, de la alcoba a la calle" title="Look del día: &#039;slip dress&#039;, de la alcoba a la calle" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Look del día: &#039;slip dress&#039;, de la alcoba a la calle" title="Look del día: &#039;slip dress&#039;, de la alcoba a la calle" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/moda/look-del-dia-slip-dress-de-la-alcoba-la-calle-articulo-792241">Look del día: &#039;slip dress&#039;, de la alcoba a la calle</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/moda">Moda</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>2 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/gastronomia/ponque-de-ciruelas-con-salsa-de-fresas-cocidas-en-te-de-frutos-rojos-articulo-792238"><picture title="Ponqué de ciruelas con salsa de fresas cocidas en té de frutos rojos">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/pan_dulce_con_fresas_2.jpg?itok=CkYcI7-I&amp;timestamp=1527968270 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/pan_dulce_con_fresas_2.jpg?itok=B2i4UyFm&amp;timestamp=1527968270 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/pan_dulce_con_fresas_2.jpg?itok=bDAEBiz8&amp;timestamp=1527968270 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Ponqué de ciruelas con salsa de fresas cocidas en té de frutos rojos" title="Ponqué de ciruelas con salsa de fresas cocidas en té de frutos rojos" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Ponqué de ciruelas con salsa de fresas cocidas en té de frutos rojos" title="Ponqué de ciruelas con salsa de fresas cocidas en té de frutos rojos" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/gastronomia/ponque-de-ciruelas-con-salsa-de-fresas-cocidas-en-te-de-frutos-rojos-articulo-792238">Ponqué de ciruelas con salsa de fresas cocidas en té de frutos rojos</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/gastronomia">Gastronomía</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>2 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--gallery node-teaser view-mode-teaser node--teaser node--gallery--teaser clearfix">
+<div class="node-image field field--name-field-multimedia field--type-file field--label-hidden"><div class="ds-1col file file-image file-image-jpeg view-mode-teaser clearfix">
+<a href="/cromos/plaza-samper-mendoza-la-primera-en-latinoamerica-especializada-en-hierbas-galeria-792081"><picture title="Plaza Samper Mendoza, la primera en latinoamérica especializada en hierbas.  ">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/_dea9850.jpg?itok=Hmz7J3Pq&amp;timestamp=1527891467 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/_dea9850.jpg?itok=nZD95MIg&amp;timestamp=1527891467 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/_dea9850.jpg?itok=Y5QVYITP&amp;timestamp=1527891467 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Plaza Samper Mendoza, la primera en latinoamérica especializada en hierbas.  " title="Plaza Samper Mendoza, la primera en latinoamérica especializada en hierbas.  " />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Plaza Samper Mendoza, la primera en latinoamérica especializada en hierbas.  " title="Plaza Samper Mendoza, la primera en latinoamérica especializada en hierbas.  " />
+<!-- <![endif]-->
+</picture></a></div>
+</div><div class="group-text-content field-group-fieldset"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/plaza-samper-mendoza-la-primera-en-latinoamerica-especializada-en-hierbas-galeria-792081">Plaza Samper Mendoza, la primera en latinoamérica especializada en hierbas</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos" class="active">Cromos</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>1 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/es-posible-tener-una-verdadera-amistad-con-la-amiga-que-te-gusta-articulo-792071"><picture title="¿Es posible tener una verdadera amistad con la amiga que te gusta?">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/gettyimages-826058584.jpg?itok=dGEsdlTA&amp;timestamp=1527884906 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/gettyimages-826058584.jpg?itok=BVHS8Jio&amp;timestamp=1527884906 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/gettyimages-826058584.jpg?itok=QNLglnn0&amp;timestamp=1527884906 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="¿Es posible tener una verdadera amistad con la amiga que te gusta?" title="¿Es posible tener una verdadera amistad con la amiga que te gusta?" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="¿Es posible tener una verdadera amistad con la amiga que te gusta?" title="¿Es posible tener una verdadera amistad con la amiga que te gusta?" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/es-posible-tener-una-verdadera-amistad-con-la-amiga-que-te-gusta-articulo-792071">¿Es posible tener una verdadera amistad con la amiga que te gusta?</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos" class="active">Cromos</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>1 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object block-dfp-roba_pagina_mid_seccion"><div id="dfp-ad-roba_pagina_mid_seccion-wrapper" class="dfp-tag-wrapper"><div class="fake_dfp" id="dfp-ad-roba_pagina_mid_seccion" class="dfp-tag-wrapper">
+<script type="text/javascript">
+    function slotDfp(){
+
+      if( typeof googletag.slots["roba_pagina_mid_seccionid18z"] == "undefined" ){
+        var mapping = googletag.sizeMapping()
+                .addSize([1050, 200],[300, 250])
+                .addSize([750, 200],[[320, 50], [300, 50]])
+                .addSize([320, 480],[[300, 250], [320, 50], [300, 50]])
+                .build();
+        googletag.cmd.push(function() {
+          googletag.slots["roba_pagina_mid_seccionid18z"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_mid_seccionid18z")
+                              .setTargeting('ad_group',Adomik.randomAdGroup())
+                              .addService(googletag.pubads())
+                                                                                                .setTargeting("Posicion", "Mid")
+                                                                                                                                .setTargeting("especial", "[node:url:args:value:0]")
+                                                                                                                                .setTargeting("second_section", "[term:url:args:value:1][node:url:args:value:1]")
+                                                                                            .defineSizeMapping(mapping);
+          googletag.display("dfp-ad-roba_pagina_mid_seccionid18z");
+        });
+      }else{
+        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_mid_seccionid18z"); });
+      }
+    }
+    window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
+  </script>
+</div>
+</div></div></div></div></div></div></div><div class="row section_type_3"><div class="wrapper"><div class="col-xs-12 col-md-12 col-lg-12"><div class="row"><div class="col-xs-12 col-md-12 col-lg-8"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article view-mode-special node--special node--article--special clearfix">
+<div class="node-image field field--name-field-main-picture field--type-image field--label-hidden"><a href="/cromos/columnistas/tengo-una-relacion-distancia-y-no-confio-en-el-que-debo-hacer-articulo-792020"><picture title="Me tiene guardado un secreto y no me dice qué es">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/special_custom_user_md_1x/public/gettyimages-538584826.jpg?itok=QDxJYNBS&amp;timestamp=1527873505 1x" data-aspectratio="400/270" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/special_custom_user_xs_1x/public/gettyimages-538584826.jpg?itok=IPzU4GJX&amp;timestamp=1527873505 1x, https://www.elespectador.com/sites/default/files/styles/special_custom_user_xs_2x/public/gettyimages-538584826.jpg?itok=mduWoFBs&amp;timestamp=1527873505 2x" data-aspectratio="470/280" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Me tiene guardado un secreto y no me dice qué es" title="Me tiene guardado un secreto y no me dice qué es" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Me tiene guardado un secreto y no me dice qué es" title="Me tiene guardado un secreto y no me dice qué es" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="field field--name-field-pretitle field--type-text field--label-hidden"><div class="field__items"><div class="field__item even">Doctora Corazón</div></div></div><div class="node-title field field--name-title field--type-ds field--label-hidden"><h2><a href="/cromos/columnistas/tengo-una-relacion-distancia-y-no-confio-en-el-que-debo-hacer-articulo-792020">Tengo una relación a distancia y no confío en él. ¿Qué debo hacer?</a></h2><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/columnistas">Columnistas</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>1 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--gallery node-teaser view-mode-teaser node--teaser node--gallery--teaser clearfix">
+<div class="node-image field field--name-field-multimedia field--type-file field--label-hidden"><div class="ds-1col file file-image file-image-jpeg view-mode-teaser clearfix">
+<a href="/cromos/vida-social/osk-de-aniversario-dos-anos-de-gastronomia-peruana-en-bogota-galeria-792013"><picture title="Juan Esteban Sampedro y Cataliana Gómez">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/juan_esteban_sampedro_y_cataliana_gomez.jpg?itok=8HjhNhWo&amp;timestamp=1527872644 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/juan_esteban_sampedro_y_cataliana_gomez.jpg?itok=2ytgbfHY&amp;timestamp=1527872644 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/juan_esteban_sampedro_y_cataliana_gomez.jpg?itok=PlrcvvYq&amp;timestamp=1527872644 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Osak de aniversario: dos años de gastronomía Peruana en Bogotá  0" title="Juan Esteban Sampedro y Cataliana Gómez" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Osak de aniversario: dos años de gastronomía Peruana en Bogotá  0" title="Juan Esteban Sampedro y Cataliana Gómez" />
+<!-- <![endif]-->
+</picture></a></div>
+</div><div class="group-text-content field-group-fieldset"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/vida-social/osk-de-aniversario-dos-anos-de-gastronomia-peruana-en-bogota-galeria-792013">Osk de aniversario: dos años de gastronomía peruana en Bogotá </a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/vida-social">Vida Social</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>1 Jun 2018</span></div></div></div>
+</div></div></div></div></div></div><div class="col-xs-12 col-lg-12"><div class="row"></div></div></div></div><div class="row section_type_4"><div class="wrapper"><div class="col-xs-12 col-md-12 col-lg-12"><div class="row"><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/moda/look-del-dia-pantalones-de-rayas-para-el-verano-articulo-792015"><picture title="Look del día: pantalones de rayas para el verano">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/gettyimages-811302698.jpg?itok=CHMaMINO&amp;timestamp=1527873037 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/gettyimages-811302698.jpg?itok=gzdKre5c&amp;timestamp=1527873037 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/gettyimages-811302698.jpg?itok=n0QGbsWj&amp;timestamp=1527873037 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Look del día: pantalones de rayas para el verano" title="Look del día: pantalones de rayas para el verano" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Look del día: pantalones de rayas para el verano" title="Look del día: pantalones de rayas para el verano" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/moda/look-del-dia-pantalones-de-rayas-para-el-verano-articulo-792015">Look del día: pantalones de rayas para el verano</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/moda">Moda</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>1 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/gastronomia/pernil-de-pavo-sobre-tortilla-de-maiz-con-salsa-de-guisantes-y-mango-articulo-792004"><picture title="Pernil de pavo sobre tortilla de maíz con salsa de guisantes y mango">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/pernil_de_pavo_deshilachado_sobre_tortilla_maiz_4.jpg?itok=GZd1Gd-z&amp;timestamp=1527870624 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/pernil_de_pavo_deshilachado_sobre_tortilla_maiz_4.jpg?itok=KYis1I5T&amp;timestamp=1527870624 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/pernil_de_pavo_deshilachado_sobre_tortilla_maiz_4.jpg?itok=3BcWOJ64&amp;timestamp=1527870624 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Pernil de pavo sobre tortilla de maíz con salsa de guisantes y mango" title="Pernil de pavo sobre tortilla de maíz con salsa de guisantes y mango" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Pernil de pavo sobre tortilla de maíz con salsa de guisantes y mango" title="Pernil de pavo sobre tortilla de maíz con salsa de guisantes y mango" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/gastronomia/pernil-de-pavo-sobre-tortilla-de-maiz-con-salsa-de-guisantes-y-mango-articulo-792004">Pernil de pavo sobre tortilla de maíz con salsa de guisantes y mango</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/gastronomia">Gastronomía</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>1 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--gallery node-teaser view-mode-teaser node--teaser node--gallery--teaser clearfix">
+<div class="node-image field field--name-field-multimedia field--type-file field--label-hidden"><div class="ds-1col file file-image file-image-jpeg view-mode-teaser clearfix">
+<a href="/cromos/vida-social/rodeada-de-familia-y-amigos-asi-celebro-la-arquitecta-katya-gonzalez-su-cumpleanos-galeria-792005"><picture title="Irma Lorduy, Katya Gonzákez y Cristina Pastrana">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/irma_lorduy_katya_gonzakez_y_cristina_pastrana.jpg?itok=tKUHP55d&amp;timestamp=1527870769 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/irma_lorduy_katya_gonzakez_y_cristina_pastrana.jpg?itok=u7Htz1Py&amp;timestamp=1527870769 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/irma_lorduy_katya_gonzakez_y_cristina_pastrana.jpg?itok=KDxF4xB1&amp;timestamp=1527870769 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Cumpleaños Katya González 0" title="Irma Lorduy, Katya Gonzákez y Cristina Pastrana" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Cumpleaños Katya González 0" title="Irma Lorduy, Katya Gonzákez y Cristina Pastrana" />
+<!-- <![endif]-->
+</picture></a></div>
+</div><div class="group-text-content field-group-fieldset"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/vida-social/rodeada-de-familia-y-amigos-asi-celebro-la-arquitecta-katya-gonzalez-su-cumpleanos-galeria-792005">Rodeada de familia y amigos, así celebró la arquitecta Katya González su cumpleaños</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/vida-social">Vida Social</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>1 Jun 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node--promoted node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/moda/j-balvin-debutara-como-disenador-con-una-marca-de-ropa-colombiana-articulo-791949"><picture title="J Balvin debutará como diseñador con una marca de ropa colombiana">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/j_balvin_4.jpg?itok=5px9gvGt&amp;timestamp=1527821864 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/j_balvin_4.jpg?itok=mHbdgRoU&amp;timestamp=1527821864 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/j_balvin_4.jpg?itok=JadFcnJj&amp;timestamp=1527821864 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="J Balvin debutará como diseñador con una marca de ropa colombiana" title="J Balvin debutará como diseñador con una marca de ropa colombiana" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="J Balvin debutará como diseñador con una marca de ropa colombiana" title="J Balvin debutará como diseñador con una marca de ropa colombiana" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/moda/j-balvin-debutara-como-disenador-con-una-marca-de-ropa-colombiana-articulo-791949">J Balvin debutará como diseñador con una marca de ropa colombiana</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/moda">Moda</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>31 May 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/moda/vacaciones-con-estilo-articulo-791922"><picture title="Vacaciones  con estilo">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/bano.jpg?itok=cAAQHKpl&amp;timestamp=1527814938 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/bano.jpg?itok=qgS4hPLK&amp;timestamp=1527814938 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/bano.jpg?itok=W_2FGTOA&amp;timestamp=1527814938 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Vacaciones  con estilo" title="Vacaciones  con estilo" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Vacaciones  con estilo" title="Vacaciones  con estilo" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/moda/vacaciones-con-estilo-articulo-791922">Vacaciones con estilo</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/moda">Moda</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>31 May 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object block-dfp-roba_pagina_bot_seccion"><div id="dfp-ad-roba_pagina_bot_seccion-wrapper" class="dfp-tag-wrapper"><div class="fake_dfp" id="dfp-ad-roba_pagina_bot_seccion" class="dfp-tag-wrapper">
+<script type="text/javascript">
+    function slotDfp(){
+
+      if( typeof googletag.slots["roba_pagina_bot_seccionrdt4f"] == "undefined" ){
+        var mapping = googletag.sizeMapping()
+                .addSize([1050, 200],[300, 250])
+                .addSize([750, 200],[[320, 50], [300, 50]])
+                .addSize([320, 480],[[300, 250], [320, 50], [300, 50]])
+                .build();
+        googletag.cmd.push(function() {
+          googletag.slots["roba_pagina_bot_seccionrdt4f"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_bot_seccionrdt4f")
+                              .setTargeting('ad_group',Adomik.randomAdGroup())
+                              .addService(googletag.pubads())
+                                                                                                .setTargeting("Posicion", "Bot")
+                                                                                                                                .setTargeting("especial", "[node:url:args:value:0]")
+                                                                                                                                .setTargeting("second_section", "[term:url:args:value:1][node:url:args:value:1]")
+                                                                                            .defineSizeMapping(mapping);
+          googletag.display("dfp-ad-roba_pagina_bot_seccionrdt4f");
+        });
+      }else{
+        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_bot_seccionrdt4f"); });
+      }
+    }
+    window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
+  </script>
+</div>
+</div></div></div></div></div></div></div><div class="row section_type_5"><div class="wrapper"><div class="col-xs-12 col-md-12 col-lg-12"><div class="row"><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/maternidad-y-bienestar/el-embarazo-en-la-septima-semana-sentiras-el-corazon-del-bebe-articulo-791882"><picture title="El embarazo: en la séptima semana sentirás el corazón del bebé">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/embarazo_6.jpg?itok=Vt7iHYjY&amp;timestamp=1527804994 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/embarazo_6.jpg?itok=1Yv8VNfs&amp;timestamp=1527804994 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/embarazo_6.jpg?itok=JxloZ70o&amp;timestamp=1527804994 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="El embarazo: en la séptima semana sentirás el corazón del bebé" title="El embarazo: en la séptima semana sentirás el corazón del bebé" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="El embarazo: en la séptima semana sentirás el corazón del bebé" title="El embarazo: en la séptima semana sentirás el corazón del bebé" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/maternidad-y-bienestar/el-embarazo-en-la-septima-semana-sentiras-el-corazon-del-bebe-articulo-791882">El embarazo: en la séptima semana sentirás el corazón del bebé</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/maternidad-y-bienestar">Maternidad y Bienestar</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>31 May 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
+<div class="node-image"><a href="/cromos/maternidad-y-bienestar/juguetes-sexuales-que-ayudan-las-victimas-de-violacion-sanar-articulo-791839"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/juguetes1_0.jpg?itok=e7mDPlf_&amp;timestamp=1527798626 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/juguetes1_0.jpg?itok=nydo4iBH&amp;timestamp=1527798626 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/juguetes1_0.jpg?itok=UgPtiqFC&amp;timestamp=1527798626 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div><div class="required-fields group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/maternidad-y-bienestar/juguetes-sexuales-que-ayudan-las-victimas-de-violacion-sanar-articulo-791839">Juguetes sexuales que ayudan a las víctimas de violación a sanar</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/maternidad-y-bienestar">Maternidad y Bienestar</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>31 May 2018</span></div></div></div>
+</div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--gallery node-teaser view-mode-teaser node--teaser node--gallery--teaser clearfix">
+<div class="node-image field field--name-field-multimedia field--type-file field--label-hidden"><div class="ds-1col file file-image file-image-jpeg view-mode-teaser clearfix">
+<a href="/cromos/moda/gucci-crucero-2019-un-desfile-lleno-de-misterio-y-opulencia-galeria-791851"><picture title="Gucci Crucero 2019: un desfile lleno de misterio y opulencia 0">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_md_1x/public/000_15h6py.jpg?itok=CuQRS42F&amp;timestamp=1527799745 1x" data-aspectratio="300/150" media="(min-width: 768px)" />
+<source data-srcset="https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_1x/public/000_15h6py.jpg?itok=v52iXYhn&amp;timestamp=1527799745 1x, https://www.elespectador.com/sites/default/files/styles/teaser_custom_user_xs_2x/public/000_15h6py.jpg?itok=IyGDkXw0&amp;timestamp=1527799745 2x" data-aspectratio="282/282" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" data-aspectratio="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Gucci Crucero 2019: un desfile lleno de misterio y opulencia 0" title="Gucci Crucero 2019: un desfile lleno de misterio y opulencia 0" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="Gucci Crucero 2019: un desfile lleno de misterio y opulencia 0" title="Gucci Crucero 2019: un desfile lleno de misterio y opulencia 0" />
+<!-- <![endif]-->
+</picture></a></div>
+</div><div class="group-text-content field-group-fieldset"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/moda/gucci-crucero-2019-un-desfile-lleno-de-misterio-y-opulencia-galeria-791851">Gucci Crucero 2019: un desfile lleno de misterio y opulencia</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/moda">Moda</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>31 May 2018</span></div></div></div>
+</div></div></div></div></div></div> </div>
+</div> </div>
+</div>
+</div>
+<footer class="l-footer" role="contentinfo">
+<div class="l-region l-region--footer">
+<div id="block-ft-ee-menus-ee-footer" class="block block--ft-ee-menus block--ft-ee-menus-ee-footer">
+<div class="block__content">
+<div class="footer-logo">
+<img class="desk" src="/profiles/ee/themes/custom/elespectador/images/logo_w.svg" />
+<img class="movil" src="/profiles/ee/themes/custom/elespectador/images/logo_f_m.svg" />
+</div>
+<div class="line"></div>
+<div class="menu-footer">
+<ul class="menu"><li class="first expanded"><a href="/">Secciones</a><ul class="menu"><li class="first leaf"><a href="/noticias/politica">Política</a></li>
+<li class="leaf"><a href="/noticias/judicial">Judicial</a></li>
+<li class="leaf"><a href="/noticias/paz">Paz</a></li>
+<li class="leaf"><a href="/noticias/salud">Salud</a></li>
+<li class="leaf"><a href="/noticias/nacional">Nacional</a></li>
+<li class="leaf"><a href="/noticias/actualidad">Actualidad</a></li>
+<li class="leaf"><a href="/noticias/actualidad/vice">Vice</a></li>
+<li class="leaf"><a href="/noticias/redes-sociales">Redes Sociales</a></li>
+<li class="leaf"><a href="/noticias/noticias-de-cultura">Cultura</a></li>
+<li class="leaf"><a href="/noticias/medio-ambiente">Medio Ambiente</a></li>
+<li class="leaf"><a href="/noticias/investigacion">Investigación</a></li>
+<li class="leaf"><a href="/noticias/el-mundo">El Mundo</a></li>
+<li class="leaf"><a href="/noticias/bogota">Bogotá</a></li>
+<li class="leaf"><a href="/noticias/educacion">Educación</a></li>
+<li class="leaf"><a href="/noticias/alto-turmeque">Alto Turmequé</a></li>
+<li class="leaf"><a href="/opinion">Opinión</a></li>
+<li class="leaf"><a href="/economia">Economía</a></li>
+<li class="leaf"><a href="/deportes">Deportes</a></li>
+<li class="leaf"><a href="/entretenimiento">Entretenimiento</a></li>
+<li class="leaf"><a href="/vivir">Vivir</a></li>
+<li class="leaf"><a href="/tecnologia">Tecnología</a></li>
+<li class="last leaf"><a href="http://blogs.elespectador.com/">Blogs</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.caracolnext.com/">Red de Portales</a><ul class="menu"><li class="first leaf"><a href="http://www.caracolnext.com/">caracolnext.com</a></li>
+<li class="leaf"><a href="http://www.caracoltv.com/" rel="nofollow">caracoltv.com</a></li>
+<li class="leaf"><a href="http://www.noticiascaracol.com/" rel="nofollow" target="_blank">noticiascaracol.com</a></li>
+<li class="leaf"><a href="http://www.golcaracol.com/" rel="nofollow" target="_blank">golcaracol.com</a></li>
+<li class="leaf"><a href="http://www.caracolplay.com/" rel="nofollow" target="_blank">caracolplay.com</a></li>
+<li class="leaf"><a href="http://www.caracoltvcorporativo.com/" rel="nofollow" target="_blank">caracoltvcorporativo.com</a></li>
+<li class="leaf"><a href="http://www.bluradio.com/" rel="nofollow" target="_blank">bluradio.com</a></li>
+<li class="leaf"><a href="http://lakalle.bluradio.com/">lakalle.com</a></li>
+<li class="leaf"><a href="http://www.cromos.com.co/" rel="nofollow" target="_blank">cromos.com.co</a></li>
+<li class="leaf"><a href="http://www.shock.co/" rel="nofollow" target="_blank">shock.co</a></li>
+<li class="leaf"><a href="http://www.cinecolombia.com/" rel="nofollow" target="_blank">cinecolombia.com</a></li>
+<li class="leaf"><a href="http://www.teatromayor.org/" rel="nofollow" target="_blank">teatromayor.org</a></li>
+<li class="leaf"><a href="http://www.primerafila.com.co/" rel="nofollow" target="_blank">primerafila.com.co</a></li>
+<li class="leaf"><a href="http://www.dataifx.com/" rel="nofollow" target="_blank">dataifx.com</a></li>
+<li class="leaf"><a href="http://www.caracolnext.com/" rel="nofollow" target="_blank">Paute con nosotros</a></li>
+<li class="last leaf"><a href="http://foros.elespectador.com/" target="_blank">Foros El Espectador</a></li>
+</ul></li>
+<li class="expanded"><a href="/user">Servicios</a><ul class="menu"><li class="first leaf"><a href="http://suscripciones.elespectador.com/">Suscripciones impresas</a></li>
+<li class="leaf"><a href="http://circulodeexperiencias.elespectador.com/" target="_blank">Círculo de experiencias</a></li>
+<li class="leaf"><a href="http://2kstudio.com/judiciales/index.php">Edictos y avisos judiciales</a></li>
+<li class="leaf"><a href="http://www.sic.gov.co/">Superintendencia de Industria y Comercio</a></li>
+<li class="leaf"><a href="http://noticias.caracoltv.com/urna-virtual">Urna Virtual </a></li>
+<li class="last leaf"><a href="/user">Editores</a></li>
+</ul></li>
+<li class="last expanded"><a href="/">Ediciones</a><ul class="menu"><li class="first last leaf"><a href="/">On-line</a></li>
+</ul></li>
+</ul></div>
+<div class="clear"></div>
+<div class="social-networks">
+<ul class="menu"><li class="first leaf"><a href="https://www.facebook.com/elespectadorcom" rel="nofollow" target="_blank"><i class='fa fa-facebook'></i><span>Facebook</span></a></li>
+<li class="leaf"><a href="https://twitter.com/elespectador" rel="nofollow" target="_blank"><i class='fa fa-twitter'></i><span>Twitter</span></a></li>
+<li class="leaf"><a href="https://www.youtube.com/user/Elespectadorcom?sub_confirmation=1 " rel="nofollow" target="_blank"><i class='fa fa-youtube-play'></i><span>YouTube</span></a></li>
+<li class="last leaf"><a href="https://www.instagram.com/elespectador/"><i class='fa fa-instagram'></i><span>Instagram</span></a></li>
+</ul></div>
+<div class="partners">
+<ul class="menu"><li class="first leaf"><a href="http://www.iabcolombia.com/" rel="nofollow" class="menu_icon menu-838 menu-425" target="_blank">iabcolombia</a></li>
+<li class="last leaf"><a href="http://www.ami.org.co/" rel="nofollow" class="menu_icon menu-839 menu-424" target="_blank">ami</a></li>
+</ul></div>
+<div class="copyright">
+El uso de este sitio web implica la aceptación de los <a href="/terminos-y-condiciones-basic-page-683793" title="Terminos y condiciones">Términos y Condiciones</a> y <a href="/politica-de-tratamiento-de-datos-basic-page-705163" title="Políticas de Privacidad">Políticas de privacidad</a> de COMUNICAN S.A. Todos los Derechos Reservados D.R.A. Prohibida su reproducción total o parcial, así como su traducción a cualquier idioma sin la autorización escrita de su titular. Reproduction in whole or in part, or translation without written permission is prohibited. All rights reserved 2018
+<p>Servicio al cliente: LÍNEA NACIONAL 01 8000 510903. EN BOGOTÁ: 4055540, <a href="/cdn-cgi/l/email-protection#47342235312e242e28262b242b2e2229332207222b223437222433262328356924282a"><span class="__cf_email__" data-cfemail="1a697f686c737973757b767976737f746e7f5a7f767f696a7f796e7b7e75683479757734">[email&#160;protected]</span></a></p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script defer="defer" src="https://www.elespectador.com/misc/jquery.once.js?v=1.2"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/custom/prebid/js/prebid_events.js?p9u6mi"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/contrib/picture/lazysizes/lazysizes.min.js?v=1.0.1"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/contrib/picture/lazysizes/plugins/aspectratio/ls.aspectratio.min.js?v=1.0.1"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/custom/icck_social_networks/js/icck_social_networks.js?p9u6mi"></script>
+<script>
+    document.write('<div id="cX-root" style="display:none"></div>');
+    var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+    cX.callQueue.push(['setSiteId', '9222263900732340960']);
+    cX.callQueue.push(['sendPageViewEvent']);
+  </script>
+<script>
+    (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+    scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+    var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+  </script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/contrib/picture/picture.min.js?v=7.59"></script>
+<script defer="defer" src="https://www.elespectador.com/sites/default/files/languages/es_d31nabhWA0CBiV7pKLj2OCYuozwHsHFRJcD7qv2tFFI.js?p9u6mi"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/custom/icck_fields_extra/js/icck_fields_extra.js?p9u6mi"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/custom/ee_ckeditor/js/social_networks.js?p9u6mi"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/contrib/field_group/field_group.js?p9u6mi"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/features/ft_ee_dfp_ads/js/pauta_lazy.js?p9u6mi"></script>
+<script>(function($) {
+
+  $(document).ready(function() {
+
+    var isUserLogin = false;
+    var user = getCookie('_register_services');
+    if (typeof user == "object" && typeof user.userId == "number") {
+       isUserLogin = true;
+    }
+    _load_piano(user, isUserLogin);
+    _piano_node_push();
+
+    // cambian los parametros cuando se carga un nodo jscroll
+    $( document ).ajaxComplete(function(event, request, settings) {
+      if ( settings.url.indexOf("jscroll_view_entity/node") !== -1) {
+        _piano_node_push();
+        send_experience();
+      }
+
+});
+
+    function _piano_node_push(){
+      if(window.pianoIsNode){
+          _ee_piano_services_js_content_tagging();
+          //_ee_piano_services_js_custom_variables_page();
+      }
+    }
+    function   _ee_piano_services_js_content_tagging(){
+      tp.push(["setContentCreated", `${window.setContentCreated}`]);
+      tp.push(["setContentAuthor", `${window.setContentAuthor}`]);
+      tp.push(["setContentSection", `${window.setContentSection}`]);
+      tp.push(["setTags", `${window.setTags}`]);
+      tp.push(["setZone", `${window.setZone}`]);
+
+      tp.push(['setCustomVariable', 'section', `${window.setContentSection}`]);
+      tp.push(['setCustomVariable', 'author', `${window.setContentAuthor}`]);
+
+    }
+    // function _ee_piano_services_js_custom_variables_page(){
+    //   console.log('_ee_piano_services_js_custom_variables_page');
+    //   tp.push(['setCustomVariable', 'section', `${window.setContentSection}`]);
+    //   tp.push(['setCustomVariable', 'author', `${window.setContentAuthor}`]);
+
+    // }
+    function _load_piano(user, isUserLogin) {
+
+      var urlLogin = 'register-services/user/login';
+      var current_path = Drupal.settings.piano.current_path;
+      var path_is_admin = Drupal.settings.piano.path_is_admin;
+      var piano_ad_blockers = Drupal.settings.piano.piano_ad_blockers;
+      var piano_my_account = Drupal.settings.piano.piano_my_account;
+      var user_edit = _is_user_edit(user.userId, current_path);
+
+      if (!path_is_admin || $user_edit) {
+        _ee_piano_services_js_composer();
+        if (current_path != urlLogin) {
+          _ee_piano_services_js_login_required();
+        }
+        _ee_piano_services_js_checkout_complete();
+        if(isUserLogin){
+          _ee_piano_services_js_custom_variables_user(user);
+        }
+        if (piano_ad_blockers == 1) {
+          _ee_piano_services_js_ad_blockers();
+        }
+        if (piano_my_account == 1) {
+          if (user_edit && isUserLogin) { //Mi cuenta
+            _ee_piano_services_js_my_account();
+          }
+        }
+        if(isUserLogin){
+          _ee_piano_services_js_user_ref_token(user);
+        }
+      }
+    }
+
+      function _ee_piano_services_js_composer() {
+        var piano_application_id = Drupal.settings.piano.piano_application_id;
+        var piano_domain = Drupal.settings.piano.piano_domain;
+        var domain = `//${piano_domain}.tinypass.com/xbuilder/experience/load?aid=${piano_application_id}`;
+        (function(src) {
+          var a = document.createElement("script");
+          a.type = "text/javascript";
+          a.async = true;
+          a.src = src;
+          var b = document.getElementsByTagName("script")[0];
+          b.parentNode.insertBefore(a, b)
+        })(domain);
+        _ee_piano_services_js_composer_initiate();
+      }
+
+      function _ee_piano_services_js_composer_initiate() {
+        tp = window.tp || [];
+      }
+
+      function _ee_piano_services_js_login_required() { //urls
+        var base_url = Drupal.settings.piano.base_url;
+
+        tp.push([
+          "addHandler",
+          "loginRequired",
+          function(params) {
+            // Sets the cookie with the current state of the user
+            document.cookie = "__pianoParams=" + JSON.stringify(params) + "; path=/; domain=.elespectador.com";
+            // Note that in order to be able to read this cookie,
+            // the redirected page should be on the same domain
+            location.href = `${base_url}/register-services/user/login`; // se cambio url aqui
+          }
+        ]);
+      }
+
+      function _ee_piano_services_js_checkout_complete() {
+        tp.push([
+          "addHandler",
+          "checkoutComplete",
+          function(conversion) {
+            window.location.href = params.url;
+          }
+        ]);
+      }
+      function _ee_piano_services_js_custom_variables_user(user) { // migrar
+
+        tp.push(['setCustomVariable', 'name', `${user.name}`]);
+        tp.push(['setCustomVariable', 'firstName', `${user.firstName}`]);
+        tp.push(['setCustomVariable', 'lastName', `${user.lastName}`]);
+        tp.push(['setCustomVariable', 'mail', `${user.mail}`]);
+        tp.push(['setCustomVariable', 'status', `${user.status}`]);
+      }
+      function _ee_piano_services_js_ad_blockers() {
+        document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+        var setNptTechAdblockerCookie = function(adblocker) {
+          var d = new Date();
+          d.setTime(d.getTime() + 60 * 60 * 24 * 2 * 1000);
+          document.cookie = "__adblocker=" + (adblocker
+            ? "true"
+            : "false") + "; expires=" + d.toUTCString() + "; path=/";
+        }
+        var script = document.createElement("script");
+        script.setAttribute("async", true);
+        script.setAttribute("src", "//www.npttech.com/advertising.js");
+        script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+        document.getElementsByTagName("head")[0].appendChild(script);
+      }
+
+      function _ee_piano_services_js_my_account() {
+
+        tp.push([
+          "init",
+          function() {
+            tp.myaccount.show({displayMode: "inline", containerSelector: ".my-account-user-zone"});
+          }
+        ])
+      }
+      function _ee_piano_services_js_user_ref_token(user) {
+        var user_ref = user.user_ref;
+
+        tp.push(["setUserRef", `${user_ref}`]);
+        tp.push([
+          "init",
+          function() {
+            // If user is logged in
+            if (tp.user.isUserValid()) {
+              // Get the stored cookie value
+              var paramsCookie = tp.util.findCookieByName('__pianoParams');
+              var params;
+              try {
+                // Try to parse stored JSON data
+                params = JSON.parse(paramsCookie);
+                // Remove the old cookie
+                document.cookie = "__pianoParams=null; expires=-1;" +
+                  " path=/; domain=.elespectador.com";
+              } catch (e) {
+                params = false;
+              }
+              // If params object is valid - start checkout
+              if (params) {
+                tp.offer.startCheckout(params);
+              }
+            }
+          }
+        ]);
+      }
+      function _is_user_edit(userId, current_path) {
+        var current = `register-services/user/${userId}/edit`;
+        if (current_path == current) {
+          return true;
+        }
+        return false;
+      }
+      // // returns the value of a specified cookie
+      function getCookie(cname) {
+        var name = cname + "=";
+
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+          var c = ca[i];
+          while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+          }
+          if (c.indexOf(name) == 0) {
+            data = c.substring(name.length, c.length);
+            return JSON.parse(data);
+          }
+        }
+        return "";
+      }
+    }); // load
+  })(jQuery);
+
+  function send_experience(){
+    tp.experience.execute();
+  }
+
+</script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/custom/opta_services/js/scripts_opta.js?p9u6mi"></script>
+<script>window._taboola = window._taboola || [];
+_taboola.push({flush: true});</script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/modules/custom/ee_users_services/js/register_services_block.js?p9u6mi"></script>
+<script defer="defer" src="https://www.elespectador.com/profiles/ee/themes/custom/elespectador/js/elespectador-theme.behaviors.js?p9u6mi"></script>
+</body>
+</html>

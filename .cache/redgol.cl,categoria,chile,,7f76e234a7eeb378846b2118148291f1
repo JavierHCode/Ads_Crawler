@@ -1,0 +1,11 @@
+status: 301
+content-location: http://redgol.cl/categoria/chile/
+expires: Tue, 05 Jun 2018 18:47:25 GMT
+server: cloudflare
+connection: keep-alive
+location: https://redgol.cl/categoria/chile/
+cache-control: max-age=3600
+date: Tue, 05 Jun 2018 17:47:25 GMT
+cf-ray: 426476dd813453a2-LAX
+-x-permanent-redirect-url: https://redgol.cl/categoria/chile/
+

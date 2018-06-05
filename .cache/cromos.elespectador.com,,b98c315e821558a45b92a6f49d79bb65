@@ -1,0 +1,23 @@
+status: 301
+content-length: 178
+content-location: http://cromos.elespectador.com
+x-cache: HIT
+x-country-code: Unknown
+accept-ranges: bytes
+vary: X-UA-Device
+connection: keep-alive
+x-forwarded-proto: https
+location: https://www.elespectador.com/cromos/
+date: Tue, 05 Jun 2018 17:44:19 GMT
+-x-permanent-redirect-url: https://www.elespectador.com/cromos/
+content-type: text/html
+age: 1
+x-ua-device: pc
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

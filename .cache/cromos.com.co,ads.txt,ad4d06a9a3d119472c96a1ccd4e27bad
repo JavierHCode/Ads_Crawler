@@ -1,0 +1,22 @@
+status: 301
+content-length: 178
+x-varnish-url: /ads.txt
+content-location: http://cromos.com.co/ads.txt
+x-cache: HIT
+age: 1
+-x-permanent-redirect-url: http://cromos.elespectador.com
+connection: keep-alive
+x-forwarded-proto: https
+location: http://cromos.elespectador.com
+date: Tue, 05 Jun 2018 17:44:19 GMT
+x-frame-options: www.caracoltvcorporativo.com
+content-type: text/html
+accept-ranges: bytes
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

@@ -1,0 +1,20 @@
+status: 301
+content-length: 233
+content-location: http://abc.es/ads.txt
+vary: Accept-Encoding
+server: Apache
+connection: close
+-content-encoding: gzip
+location: http://www.abc.es/ads.txt
+date: Tue, 05 Jun 2018 17:10:15 GMT
+-x-permanent-redirect-url: http://www.abc.es/ads.txt
+content-type: text/html; charset=iso-8859-1
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.abc.es/ads.txt">here</a>.</p>
+</body></html>

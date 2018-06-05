@@ -65,22 +65,22 @@ for row, url in enumerate(url_list, start=2):
         selenium_driver = browser.driver
         selenium_driver.set_page_load_timeout(60)
 
-        # Open chrome
-        try:
-            browser.visit(url)
-
-            counter = 0
-            # Test for "pre" element
-            while browser.is_element_not_present_by_tag("pre",wait_time=1):
-                counter = counter + 1
-
-                if counter > 15:
-                    break
-                else:
-                    continue
-
-        except TimeoutException:
-            pass
+        # # Open chrome
+        # try:
+        #     browser.visit(url)
+        #
+        #     counter = 0
+        #     # Test for "pre" element
+        #     while browser.is_element_not_present_by_tag("pre",wait_time=1):
+        #         counter = counter + 1
+        #
+        #         if counter > 15:
+        #             break
+        #         else:
+        #             continue
+        #
+        # except TimeoutException:
+        #     pass
 
     else:
         # Close old tab
@@ -89,26 +89,27 @@ for row, url in enumerate(url_list, start=2):
         # Switch current window to new tab
         browser.windows.current = browser.windows[0]
 
-        # Visit URL
-        try:
-            browser.visit(url)
+    # Visit URL
+    try:
+        browser.visit(url)
 
-            counter = 0
-            # Test for "pre" element
-            while browser.is_element_not_present_by_tag("pre",wait_time=1):
-                counter = counter + 1
+        counter = 0
+        # Test for "pre" element
+        while browser.is_element_not_present_by_tag("pre",wait_time=1):
+            counter = counter + 1
 
-                if counter > 15:
-                    break
-                else:
-                    continue
+            if counter > 15:
+                break
+            else:
+                continue
 
-        except TimeoutException:
-            pass
+    except TimeoutException:
+        pass
+
+    src = selenium_driver.page_source
 
     for search_str in search_set:
         # Check for desired text
-        src = selenium_driver.page_source
         text_found = re.search(r'{0}'.format(search_str), src)
 
         # Confirm if found and choose column accordingly

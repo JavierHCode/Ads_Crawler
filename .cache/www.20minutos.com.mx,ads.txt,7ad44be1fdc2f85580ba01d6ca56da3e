@@ -1,0 +1,20 @@
+status: 301
+content-length: 183
+via: 1.1 43a8f1b0c8cb073d057a33eba3483e51.cloudfront.net (CloudFront)
+content-location: http://www.20minutos.com.mx/ads.txt
+x-cache: Redirect from cloudfront
+server: CloudFront
+connection: keep-alive
+x-amz-cf-id: zur-kzVfpuJ7RMJWxpLqpCumE1xwv8h-cidMgHhvJZ3KfKVwyTcQkQ==
+location: https://www.20minutos.com.mx/ads.txt
+date: Tue, 05 Jun 2018 17:10:13 GMT
+-x-permanent-redirect-url: https://www.20minutos.com.mx/ads.txt
+content-type: text/html
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

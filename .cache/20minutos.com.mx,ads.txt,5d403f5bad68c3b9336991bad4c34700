@@ -1,0 +1,27 @@
+status: 301
+content-length: 178
+via: 1.1 varnish (Varnish/5.1),
+ 1.1 2b5e55a519d826212938f9a181962f65.cloudfront.net (CloudFront)
+content-location: https://20minutos.com.mx/ads.txt
+x-cache: Miss from cloudfront
+age: 0
+vary: Accept-Encoding
+server: nginx
+connection: keep-alive
+x-varnish: 656518412
+x-20m-webserver: ip-10-0-6-100
+location: http://www.20minutos.com.mx/ads.txt
+date: Tue, 05 Jun 2018 17:10:13 GMT
+x-amz-cf-id: w8ZI2dQWsiE_SU3y4fGROOiFNzmDBIrtbLrtHYxJn3GdlcrqNxGemg==
+-x-permanent-redirect-url: http://www.20minutos.com.mx/ads.txt
+content-type: text/html
+x-20m-cache: ip-10-0-0-152
+-varied-accept-encoding: gzip, deflate
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

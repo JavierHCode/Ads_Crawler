@@ -1,0 +1,13 @@
+status: 301
+content-length: 0
+via: 1.1 eb14a76753066d1c3fb6d4036024db05.cloudfront.net (CloudFront)
+content-location: http://20minutos.es/ads.txt
+x-cache: Miss from cloudfront
+server: Varnish
+connection: keep-alive
+x-varnish: 655450102
+x-amz-cf-id: zmnkgFSad9Sd-0tELp5vtdjkmwrgEbyTWxYd9B9Eqian9D62AsYvaQ==
+location: https://www.20minutos.es/ads.txt
+date: Tue, 05 Jun 2018 17:10:14 GMT
+-x-permanent-redirect-url: https://www.20minutos.es/ads.txt
+
