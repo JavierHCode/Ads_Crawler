@@ -1,20 +1,20 @@
 status: 200
 expect-ct: max-age=604800,
  report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
-content-length: 464743
+content-length: 464676
 content-location: https://redgol.cl/categoria/redsport/
-set-cookie: __cfduid=d1a77a6feec7a81a9fa0879b3ed1742821528221919;
- expires=Wed, 05-Jun-19 18:05:19 GMT; path=/; domain=.redgol.cl; HttpOnly;
+set-cookie: __cfduid=de4c0f4c93b19832f4f0f90ae848c8d141528231191;
+ expires=Wed, 05-Jun-19 20:39:51 GMT; path=/; domain=.redgol.cl; HttpOnly;
  Secure
 vary: Accept-Encoding
 server: cloudflare
 connection: keep-alive
 -content-encoding: gzip
-date: Tue, 05 Jun 2018 18:05:19 GMT
+date: Tue, 05 Jun 2018 20:39:52 GMT
 access-control-allow-origin: *
 access-control-allow-methods: GET, POST, OPTIONS
 content-type: text/html; charset=utf-8
-cf-ray: 426491160fdf53f6-LAX
+cf-ray: 42657375b84e53cc-LAX
 -varied-accept-encoding: gzip, deflate
 
 
@@ -6213,32 +6213,68 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
 
 <article id="post-featured-articulo">
-	<a id="post-featured-imagen" href="/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/">
+	<a id="post-featured-imagen" href="/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/">
 		
-			<img src="https://d.rgcdn.net/f3097f3b8e4922d3ce8b1b44afada532/redgol-assets.s3.amazonaws.com/rg-assets_c705c63709477551d7c8a15d2f843fd0porta/670x/redgol-assets.s3.amazonaws.jpg" alt="Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos - RedGol">
+			<img src="https://d.rgcdn.net/82a4d90d0932a49a0c415ff1d72622a6/redgol-assets.s3.amazonaws.com/rg-assets_f10855a884bc48f6461dfa3bf8f4c36cfinnbalor/670x/redgol-assets.s3.amazonaws.jpg" alt="Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto - RedGol">
 		
 	</a>
 	<div id="post-featured-contenido">
-		<p id="post-featured-titulo">Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos</p>
+		<p id="post-featured-titulo">Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto</p>
 		<p id="post-featured-meta">
 			
-				<strong id="post-featured-strong">Redgol</strong>,
+				<strong id="post-featured-strong">Felipe Kaponi</strong>,
 			
-			4 de Jun. de 2018, 18:41.
+			5 de Jun. de 2018, 16:32.
 		</p>
 	</div>
 	<div id="post-featured-social-fb">
-		<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/&title=Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos" rel="nofollow" title="Compartir">
+		<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/&title=Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto" rel="nofollow" title="Compartir">
 			<img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
 		</a>
 	</div>
 	<div id="post-featured-social-tw">
-		<a href="http://twitter.com/intent/tweet?status=Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos+http://redgol.cl/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/" rel="nofollow" title="Tweet">
+		<a href="http://twitter.com/intent/tweet?status=Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto+http://redgol.cl/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/" rel="nofollow" title="Tweet">
 			<img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
 		</a>
 	</div>
-	<a id="post-featured-enlace" href="/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/"></a>
+	<a id="post-featured-enlace" href="/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/"></a>
 </article>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/">
+            
+                <img src="https://d.rgcdn.net/1cbce9a546ca9a777f4642588bd504de/redgol-assets.s3.amazonaws.com/rg-assets_c705c63709477551d7c8a15d2f843fd0porta/265x/redgol-assets.s3.amazonaws.jpg" alt="Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/">Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            4 de Jun. de 2018, 18:41.
+        </p>
+        <!--<p class="post-mini-encabezado">La marca japonesa estar&aacute; presente en esta innovadora experiencia que mezclar&aacute; el deporte con la mejor m&uacute;sica en las calles ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/&title=Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos+http://redgol.cl/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
             
         
             
@@ -7576,57 +7612,21 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             
                 
 
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/">
-            
-                <img src="https://d.rgcdn.net/53751fde4748935e1b58967a207063dd/redgol-assets.s3.amazonaws.com/rg-assets_92a50871bb3b159b2ff2a1e55e08a3a4rivas/265x/redgol-assets.s3.amazonaws.jpg" alt="El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/">El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            20 de Mayo de 2018, 16:30.
-        </p>
-        <!--<p class="post-mini-encabezado">La UFC qued&oacute; encantada con el evento que se realiz&oacute; en el Movistar Arena, donde superaron todas las expectativas en ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/&title=El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento+http://redgol.cl/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
 <article class="post-medium-articulo">
-	<a class="post-medium-titulo" href="/2018/5/christian-garin-se-medira-a-rogerio-dutra/">Christian Garín se medirá a Rogerio Dutra Silva en el primer partido de la qualy de Roland Garros</a>
+	<a class="post-medium-titulo" href="/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/">El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento</a>
 	<div class="post-medium-imagen">
-		<a href="/2018/5/christian-garin-se-medira-a-rogerio-dutra/">
+		<a href="/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/">
 			
-				<img src="https://d.rgcdn.net/a112e1a7010ca5f858d73e8ba63f27d7/redgol-assets.s3.amazonaws.com/rg-assets_47d199cfe04df463f76d0ee8099906cbgarin/670x275c/redgol-assets.s3.amazonaws.jpg" alt="Christian Garín se medirá a Rogerio Dutra Silva en el primer partido de la qualy de Roland Garros - RedGol">
+				<img src="https://d.rgcdn.net/3946c40c14545e53e1ef2bd9d956ce57/redgol-assets.s3.amazonaws.com/rg-assets_92a50871bb3b159b2ff2a1e55e08a3a4rivas/670x275c/redgol-assets.s3.amazonaws.jpg" alt="El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento - RedGol">
 			
 		</a>
 		<div class="post-medium-social-fb">
-			<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/christian-garin-se-medira-a-rogerio-dutra/&title=Christian Garín se medirá a Rogerio Dutra Silva en el primer partido de la qualy de Roland Garros" rel="nofollow" title="Compartir">
+			<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/&title=El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento" rel="nofollow" title="Compartir">
 				<img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
 			</a>
 		</div>
 		<div class="post-medium-social-tw">
-			<a href="http://twitter.com/intent/tweet?status=Christian Garín se medirá a Rogerio Dutra Silva en el primer partido de la qualy de Roland Garros+http://redgol.cl/2018/5/christian-garin-se-medira-a-rogerio-dutra/" rel="nofollow" title="Tweet">
+			<a href="http://twitter.com/intent/tweet?status=El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento+http://redgol.cl/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/" rel="nofollow" title="Tweet">
 				<img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
 			</a>
 		</div>
@@ -7635,7 +7635,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
 		
 			<strong class="post-medium-strong">Felipe Kaponi</strong>,
 		
-		20 de Mayo de 2018, 15:51.
+		20 de Mayo de 2018, 16:30.
 	</p>
 </article>
 <div class="post-medium-separador"></div>

@@ -5,16 +5,16 @@ content-location: http://www.yucatan.com.mx/ads.txt
 x-cache: MISS, MISS
 access-control-expose-headers: AMP-Access-Control-Allow-Source-Origin, Date
 accept-ranges: bytes
-x-timer: S1528221967.192976,VS0,VE162
+x-timer: S1528231240.238219,VS0,VE217
 vary: Accept-Encoding, User-Agent
 mrf-tech: CDN
 -content-encoding: gzip
 connection: keep-alive
-x-served-by: cache-lcy19228-LCY, cache-lax8620-LAX
+x-served-by: cache-lcy19238-LCY, cache-lax8639-LAX
 x-cache-hits: 0, 0
 cache-control: public, max-age=60, stale-while-revalidate=360,
  stale-if-error=86400
-date: Tue, 05 Jun 2018 18:06:07 GMT
+date: Tue, 05 Jun 2018 20:40:40 GMT
 access-control-allow-origin: *
 server: nginx
 content-type: text/plain;charset=UTF-8

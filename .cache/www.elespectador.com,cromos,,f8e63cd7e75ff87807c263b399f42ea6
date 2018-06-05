@@ -1,23 +1,23 @@
 status: 200
-content-length: 110791
+content-length: 110792
 cf-cache-status: HIT
 vary: Cookie, Accept-Encoding,X-UA-Device
 x-ua-device: pc
 content-language: es
 x-ua-compatible: IE=edge,chrome=1
 cache-control: public, max-age=180
-x-cache: MISS
-set-cookie: __cfduid=d645bb9fc8b18650230da90a9b0e0131f1528223744;
- expires=Wed, 05-Jun-19 18:35:44 GMT; path=/; domain=.elespectador.com;
+x-cache: HIT
+set-cookie: __cfduid=d8b69c0aa0dbb8eccff8e69d6aac6c6f31528230810;
+ expires=Wed, 05-Jun-19 20:33:30 GMT; path=/; domain=.elespectador.com;
  HttpOnly
 expires: Sun, 19 Nov 1978 05:00:00 GMT
-last-modified: Tue, 05 Jun 2018 18:30:04 GMT
+last-modified: Tue, 05 Jun 2018 20:29:15 GMT
 x-forwarded-proto: https
 link: <https://www.elespectador.com/cromos>;
  rel="canonical",<https://www.elespectador.com/taxonomy/term/88670>;
  rel="shortlink"
-date: Tue, 05 Jun 2018 18:35:44 GMT
-cf-ray: 4264bda32f37538a-LAX
+date: Tue, 05 Jun 2018 20:33:30 GMT
+cf-ray: 42656a23ba6b98ad-LAX
 expect-ct: max-age=604800,
  report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 x-drupal-cache: HIT
@@ -312,19 +312,19 @@ _taboola.push(window.tabbola_type_obj);
 <script type="text/javascript">
     function slotDfp(){
 
-      if( typeof googletag.slots["out_of_page_seccionv956d"] == "undefined" ){
+      if( typeof googletag.slots["out_of_page_seccionbvv1n"] == "undefined" ){
         var mapping = googletag.sizeMapping()
                 .build();
         googletag.cmd.push(function() {
-          googletag.slots["out_of_page_seccionv956d"] = googletag.defineSlot( "100249493/elespectador/cromos", [0, 0], "dfp-ad-out_of_page_seccionv956d")
+          googletag.slots["out_of_page_seccionbvv1n"] = googletag.defineSlot( "100249493/elespectador/cromos", [0, 0], "dfp-ad-out_of_page_seccionbvv1n")
                               .setTargeting('ad_group',Adomik.randomAdGroup())
                               .addService(googletag.pubads())
                                                                                                 .setTargeting("especial", "[node:url:args:value:0]")
                                                                                             .defineSizeMapping(mapping);
-          googletag.display("dfp-ad-out_of_page_seccionv956d");
+          googletag.display("dfp-ad-out_of_page_seccionbvv1n");
         });
       }else{
-        googletag.cmd.push(function() { googletag.display("dfp-ad-out_of_page_seccionv956d"); });
+        googletag.cmd.push(function() { googletag.display("dfp-ad-out_of_page_seccionbvv1n"); });
       }
     }
     window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
@@ -352,7 +352,7 @@ if (event.size[0] > 800 && event.size[1] > 500) {
 <script type="text/javascript">
     function slotDfp(){
 
-      if( typeof googletag.slots["mega_banner_top_seccionuouxg"] == "undefined" ){
+      if( typeof googletag.slots["mega_banner_top_secciondna39"] == "undefined" ){
         var mapping = googletag.sizeMapping()
                 .addSize([1050, 200],[[1000, 40], [1300, 730], [1300, 600], [728, 90]])
                 .addSize([750, 200],[[320, 50], [300, 50]])
@@ -360,7 +360,7 @@ if (event.size[0] > 800 && event.size[1] > 500) {
                 .addSize([320, 400],[[300, 50], [320, 50]])
                 .build();
         googletag.cmd.push(function() {
-          googletag.slots["mega_banner_top_seccionuouxg"] = googletag.defineSlot( "100249493/elespectador/cromos", [[1000, 40], [1300, 730], [728, 90], [1000, 90], [1300, 600], [728, 90]], "dfp-ad-mega_banner_top_seccionuouxg")
+          googletag.slots["mega_banner_top_secciondna39"] = googletag.defineSlot( "100249493/elespectador/cromos", [[1000, 40], [1300, 730], [728, 90], [1000, 90], [1300, 600], [728, 90]], "dfp-ad-mega_banner_top_secciondna39")
                               .setTargeting('ad_group',Adomik.randomAdGroup())
                               .addService(googletag.pubads())
                                                                                                 .setTargeting("Posicion", "Top")
@@ -368,10 +368,10 @@ if (event.size[0] > 800 && event.size[1] > 500) {
                                                                                                                                 .setTargeting("especial", "[node:url:args:value:0]")
                                                                                                                                 .setTargeting("second_section", "[term:url:args:value:1][node:url:args:value:1]")
                                                                                             .defineSizeMapping(mapping);
-          googletag.display("dfp-ad-mega_banner_top_seccionuouxg");
+          googletag.display("dfp-ad-mega_banner_top_secciondna39");
         });
       }else{
-        googletag.cmd.push(function() { googletag.display("dfp-ad-mega_banner_top_seccionuouxg"); });
+        googletag.cmd.push(function() { googletag.display("dfp-ad-mega_banner_top_secciondna39"); });
       }
     }
     window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
@@ -437,7 +437,7 @@ martes 05 de junio </div>
 <input placeholder="Escriba las palabras clave." type="text" id="edit-keys-6" name="keys_6" value="" size="15" maxlength="128" class="form-text" />
 </div>
 <input type="hidden" name="id" value="6" />
-<div class="button_submit"></div><div class="search_submit"><input type="submit" id="edit-submit-6" name="op" value="Buscar" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-91qjQYMGbSlkGLghi3NZTizSmX1kqQpRnA7AhezVvCs" />
+<div class="button_submit"></div><div class="search_submit"><input type="submit" id="edit-submit-6" name="op" value="Buscar" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-6hw7haVzpAcjta3_-CamriJj1ZP6MLcPckYH_DAUIKU" />
 <input type="hidden" name="form_id" value="search_api_page_search_form_content" />
 </div></form> </div>
 </div>
@@ -454,7 +454,7 @@ martes 05 de junio </div>
 </div>
 <ul><li><a href="/user/register" title="Create a new user account.">Crear nueva cuenta</a></li>
 <li><a href="/user/password" title="Request new password via e-mail.">Solicitar una nueva contraseña</a></li>
-</ul><input type="hidden" name="form_build_id" value="form-jKoka0nnBwMQMGdTlTOTme_ofTuVgKSv2vDYParP3Fc" />
+</ul><input type="hidden" name="form_build_id" value="form-NpyzWGvz8Gy5WVyWesNza7UIvflTeItj9GL7Hmm5SYA" />
 <input type="hidden" name="form_id" value="user_login_block" />
 <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Iniciar sesión" class="form-submit" /></div><div class="hybridauth-widget-wrapper">
 <h3> </h3><ul class="hybridauth-widget"><li><a href="/hybridauth/window/Facebook?destination=taxonomy/term/88670&amp;destination_error=taxonomy/term/88670" title="Facebook" class="hybridauth-widget-provider hybridauth-onclick-popup" rel="nofollow" data-hybridauth-provider="Facebook" data-hybridauth-url="/hybridauth/window/Facebook?destination=taxonomy/term/88670&amp;destination_error=taxonomy/term/88670" data-ajax="false" data-hybridauth-width="800" data-hybridauth-height="500"><span class="hybridauth-icon facebook hybridauth-icon-hybridauth-48 hybridauth-facebook hybridauth-facebook-hybridauth-48" title="Facebook"></span>
@@ -555,7 +555,7 @@ martes 05 de junio </div>
 <!--[if !lt IE 9]><!-->
 <img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="" title="" />
 <!-- <![endif]-->
-</picture></a></div><div class="group-text-content field-group-div text-content"><div class="group-node-info field-group-div node-info"><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos" class="active">Cromos</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden">Hace 1 hora</div></div><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/comprar-ropa-pirata-es-un-acto-de-corrupcion-articulo-792573">¿Comprar ropa pirata es un acto de corrupción?</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div></div></div>
+</picture></a></div><div class="group-text-content field-group-div text-content"><div class="group-node-info field-group-div node-info"><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos" class="active">Cromos</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden">Hace 3 horas</div></div><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/comprar-ropa-pirata-es-un-acto-de-corrupcion-articulo-792573">¿Comprar ropa pirata es un acto de corrupción?</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div></div></div>
 </div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article view-mode-average_height node--average-height node--article--average-height clearfix">
 <div class="node-image field field--name-field-main-picture field--type-image field--label-hidden"><a href="/cromos/maternidad-y-bienestar/nutrientes-para-el-embarazo-los-suplementos-de-la-mujer-ii-articulo-792447"><picture title="Nutrientes para el embarazo: los suplementos de la mujer (II)  ">
 <!--[if IE 9]><video style="display: none;"><![endif]-->
@@ -573,23 +573,23 @@ martes 05 de junio </div>
 <script type="text/javascript">
     function slotDfp(){
 
-      if( typeof googletag.slots["roba_pagina_top_seccion91ith"] == "undefined" ){
+      if( typeof googletag.slots["roba_pagina_top_seccionf7ond"] == "undefined" ){
         var mapping = googletag.sizeMapping()
                 .addSize([1050, 200],[300, 250])
                 .addSize([750, 200],[[320, 50], [300, 50]])
                 .addSize([320, 480],[[300, 250], [320, 50], [300, 50]])
                 .build();
         googletag.cmd.push(function() {
-          googletag.slots["roba_pagina_top_seccion91ith"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_top_seccion91ith")
+          googletag.slots["roba_pagina_top_seccionf7ond"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_top_seccionf7ond")
                               .setTargeting('ad_group',Adomik.randomAdGroup())
                               .addService(googletag.pubads())
                                                                                                 .setTargeting("Posicion", "Top2")
                                                                                                                                                                                               .setTargeting("especial", "[node:url:args:value:0]")
                                                                                             .defineSizeMapping(mapping);
-          googletag.display("dfp-ad-roba_pagina_top_seccion91ith");
+          googletag.display("dfp-ad-roba_pagina_top_seccionf7ond");
         });
       }else{
-        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_top_seccion91ith"); });
+        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_top_seccionf7ond"); });
       }
     }
     window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
@@ -722,24 +722,24 @@ martes 05 de junio </div>
 <script type="text/javascript">
     function slotDfp(){
 
-      if( typeof googletag.slots["roba_pagina_mid_seccionid18z"] == "undefined" ){
+      if( typeof googletag.slots["roba_pagina_mid_seccionudzr3"] == "undefined" ){
         var mapping = googletag.sizeMapping()
                 .addSize([1050, 200],[300, 250])
                 .addSize([750, 200],[[320, 50], [300, 50]])
                 .addSize([320, 480],[[300, 250], [320, 50], [300, 50]])
                 .build();
         googletag.cmd.push(function() {
-          googletag.slots["roba_pagina_mid_seccionid18z"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_mid_seccionid18z")
+          googletag.slots["roba_pagina_mid_seccionudzr3"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_mid_seccionudzr3")
                               .setTargeting('ad_group',Adomik.randomAdGroup())
                               .addService(googletag.pubads())
                                                                                                 .setTargeting("Posicion", "Mid")
                                                                                                                                 .setTargeting("especial", "[node:url:args:value:0]")
                                                                                                                                 .setTargeting("second_section", "[term:url:args:value:1][node:url:args:value:1]")
                                                                                             .defineSizeMapping(mapping);
-          googletag.display("dfp-ad-roba_pagina_mid_seccionid18z");
+          googletag.display("dfp-ad-roba_pagina_mid_seccionudzr3");
         });
       }else{
-        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_mid_seccionid18z"); });
+        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_mid_seccionudzr3"); });
       }
     }
     window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
@@ -844,24 +844,24 @@ martes 05 de junio </div>
 <script type="text/javascript">
     function slotDfp(){
 
-      if( typeof googletag.slots["roba_pagina_bot_seccionrdt4f"] == "undefined" ){
+      if( typeof googletag.slots["roba_pagina_bot_seccionbm26j"] == "undefined" ){
         var mapping = googletag.sizeMapping()
                 .addSize([1050, 200],[300, 250])
                 .addSize([750, 200],[[320, 50], [300, 50]])
                 .addSize([320, 480],[[300, 250], [320, 50], [300, 50]])
                 .build();
         googletag.cmd.push(function() {
-          googletag.slots["roba_pagina_bot_seccionrdt4f"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_bot_seccionrdt4f")
+          googletag.slots["roba_pagina_bot_seccionbm26j"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_bot_seccionbm26j")
                               .setTargeting('ad_group',Adomik.randomAdGroup())
                               .addService(googletag.pubads())
                                                                                                 .setTargeting("Posicion", "Bot")
                                                                                                                                 .setTargeting("especial", "[node:url:args:value:0]")
                                                                                                                                 .setTargeting("second_section", "[term:url:args:value:1][node:url:args:value:1]")
                                                                                             .defineSizeMapping(mapping);
-          googletag.display("dfp-ad-roba_pagina_bot_seccionrdt4f");
+          googletag.display("dfp-ad-roba_pagina_bot_seccionbm26j");
         });
       }else{
-        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_bot_seccionrdt4f"); });
+        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_bot_seccionbm26j"); });
       }
     }
     window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
@@ -985,7 +985,7 @@ martes 05 de junio </div>
 </ul></div>
 <div class="copyright">
 El uso de este sitio web implica la aceptación de los <a href="/terminos-y-condiciones-basic-page-683793" title="Terminos y condiciones">Términos y Condiciones</a> y <a href="/politica-de-tratamiento-de-datos-basic-page-705163" title="Políticas de Privacidad">Políticas de privacidad</a> de COMUNICAN S.A. Todos los Derechos Reservados D.R.A. Prohibida su reproducción total o parcial, así como su traducción a cualquier idioma sin la autorización escrita de su titular. Reproduction in whole or in part, or translation without written permission is prohibited. All rights reserved 2018
-<p>Servicio al cliente: LÍNEA NACIONAL 01 8000 510903. EN BOGOTÁ: 4055540, <a href="/cdn-cgi/l/email-protection#47342235312e242e28262b242b2e2229332207222b223437222433262328356924282a"><span class="__cf_email__" data-cfemail="1a697f686c737973757b767976737f746e7f5a7f767f696a7f796e7b7e75683479757734">[email&#160;protected]</span></a></p>
+<p>Servicio al cliente: LÍNEA NACIONAL 01 8000 510903. EN BOGOTÁ: 4055540, <a href="/cdn-cgi/l/email-protection#8dfee8fffbe4eee4e2ece1eee1e4e8e3f9e8cde8e1e8fefde8eef9ece9e2ffa3eee2e0"><span class="__cf_email__" data-cfemail="acdfc9dedac5cfc5c3cdc0cfc0c5c9c2d8c9ecc9c0c9dfdcc9cfd8cdc8c3de82cfc3c182">[email&#160;protected]</span></a></p>
 </div>
 </div>
 </div>

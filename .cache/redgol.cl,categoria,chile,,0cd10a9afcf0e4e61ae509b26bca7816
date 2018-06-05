@@ -1,20 +1,20 @@
 status: 200
 expect-ct: max-age=604800,
  report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
-content-length: 484325
+content-length: 484335
 content-location: https://redgol.cl/categoria/chile/
-set-cookie: __cfduid=d523940fac05a6343d2cfff4c5a21088c1528221690;
- expires=Wed, 05-Jun-19 18:01:30 GMT; path=/; domain=.redgol.cl; HttpOnly;
+set-cookie: __cfduid=de39ab42261d21578642a97d669a2f5b61528230980;
+ expires=Wed, 05-Jun-19 20:36:20 GMT; path=/; domain=.redgol.cl; HttpOnly;
  Secure
 vary: Accept-Encoding
 server: cloudflare
 connection: keep-alive
 -content-encoding: gzip
-date: Tue, 05 Jun 2018 18:01:30 GMT
+date: Tue, 05 Jun 2018 20:36:20 GMT
 access-control-allow-origin: *
 access-control-allow-methods: GET, POST, OPTIONS
 content-type: text/html; charset=utf-8
-cf-ray: 42648b7abda353d8-LAX
+cf-ray: 42656e4a3f0a9979-LAX
 -varied-accept-encoding: gzip, deflate
 
 
@@ -6119,16 +6119,16 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/alexis-sanchez/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/736fb4f2ea87263f5230b33754951a4f/redgol-assets.s3.amazonaws.com/rg-assets_3c8358122046856c446d81be62454809page/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/da144bf409b9c4d7879db386de27ab48/redgol-assets.s3.amazonaws.com/rg-assets_2ae81493f9ce7ac0681250b9f2d7e1f7fred/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/alexis-sanchez-termino-su-torneo-en-tocopi/">Alexis Sánchez terminó su torneo en Tocopilla bailando al ritmo del sound ...</a>
+                        <a href="/2018/6/nuevo-companero-de-alexis-manchester-unite/">Nuevo compañero de Alexis: Manchester United anunció el fichaje del brasileño Fred</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/6/el-gran-alexis-sanchez-esta-de-vacaciones/">El gran Alexis Sánchez está de vacaciones en Chile y organiza un ...</a>
+                        <a href="/2018/6/alexis-sanchez-termino-su-torneo-en-tocopi/">Alexis Sánchez terminó su torneo en Tocopilla bailando al ritmo del sound ...</a>
                     </li>
                 
         
@@ -6138,6 +6138,10 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         <ul>
             
                 <li>
+                    <a href="/2018/6/el-gran-alexis-sanchez-esta-de-vacaciones/">El gran Alexis Sánchez está de vacaciones en Chile y organiza un torneo de futbolito para ...</a>
+                </li>
+            
+                <li>
                     <a href="/2018/5/alexis-sanchez-cae-11-lugares-en-ranking-d/">Alexis Sánchez cae 11 lugares en ránking de los deportistas más famosos del mundo de ESPN: ...</a>
                 </li>
             
@@ -6145,12 +6149,12 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                     <a href="/2018/5/vuelve-fotolog-recuerda-las-mejores-fotos/">¡Vuelve Fotolog! Recuerda las mejores fotos del joven crack Alexis Sánchez en la vetusta red social</a>
                 </li>
             
+        </ul>
+        <ul>
+            
                 <li>
                     <a href="/2018/5/reinaldo-rueda-confirma-las-jinetas-de-la/">Reinaldo Rueda confirma las jinetas de la Roja: &quot;Siempre ha habido tres capitanes: Bravo, Gary y ...</a>
                 </li>
-            
-        </ul>
-        <ul>
             
                 <li>
                     <a href="/2018/5/hijo-de-manuel-pellegrini-lo-confirma-trat/">Hijo de Manuel Pellegrini lo confirma: “Trató de llevar 200 veces a Alexis Sánchez y Arturo ...</a>
@@ -6158,10 +6162,6 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             
                 <li>
                     <a href="/2018/5/eden-hazard-troleo-a-alexis-sanchez-por-ch/">Eden Hazard troleó a Alexis Sánchez por chico y el chileno cambió de mascota con Pogba ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/alexis-sanchez-reconoce-ha-sido-dificil-ad/">Alexis Sánchez reconoce: &quot;Ha sido difícil adaptarme al estilo de juego del Manchester United&quot;</a>
                 </li>
             
         </ul>
@@ -6296,16 +6296,16 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/videojuegos/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/2ab6f7d9c9aca109db04fc5562a75576/redgol-assets.s3.amazonaws.com/rg-assets_8b21b57cad015431c6d7c8259326faf1PALMA/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/5ed2858b0af6331b87a15e05953786fd/redgol-assets.s3.amazonaws.com/rg-assets_c27491242ac0d8500999fc97aeb5b9e7porta/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/exclusiva-claudio-palma-confirmo-su-partic/">Exclusiva: Claudio Palma confirmó su participación en PES 2019 con un relato ...</a>
+                        <a href="/2018/6/notable-casemiro-le-dio-una-verdadera-pali-1/">¡Notable! Casemiro le dio una verdadera paliza a Dani Carvajal en el ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/6/schalke-04-se-convirtio-en-el-nuevo-equipo/">Schalke 04 se convirtió en el nuevo equipo partner de PES 2019 ...</a>
+                        <a href="/2018/6/exclusiva-claudio-palma-confirmo-su-partic/">Exclusiva: Claudio Palma confirmó su participación en PES 2019 con un relato ...</a>
                     </li>
                 
         
@@ -6315,6 +6315,10 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         <ul>
             
                 <li>
+                    <a href="/2018/6/schalke-04-se-convirtio-en-el-nuevo-equipo/">Schalke 04 se convirtió en el nuevo equipo partner de PES 2019 y llegará con el ...</a>
+                </li>
+            
+                <li>
                     <a href="/2018/5/maravilloso-islandia-tras-cada-partido-rea/">Maravilloso: Islandia tras cada partido realiza su mítico grito vikingo en el juego del Mundial</a>
                 </li>
             
@@ -6322,12 +6326,12 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                     <a href="/2018/5/chile-aparece-en-el-juego-del-mundial-como/">Chile aparece en el juego del Mundial como &quot;no clasificado&quot;, con nueva camiseta y con la ...</a>
                 </li>
             
+        </ul>
+        <ul>
+            
                 <li>
                     <a href="/2018/5/la-copa-claro-gamer-de-esports-13-premiara/">La Copa Claro Gamer de eSports 13 premiará con 3 millones de pesos al campeón de ...</a>
                 </li>
-            
-        </ul>
-        <ul>
             
                 <li>
                     <a href="/2018/5/anfp-lanzo-su-primer-torneo-profesional-de/">ANFP lanzó su primer torneo profesional de eSports en FIFA 18 que disputarán 12 clubes chilenos</a>
@@ -6335,10 +6339,6 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             
                 <li>
                     <a href="/2018/5/pes-2019-contara-con-7-nuevas-ligas-totalm/">PES 2019 contará con 7 nuevas ligas totalmente licenciadas y faltan 2 más por anunciar</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/konami-celebra-el-primer-aniversario-de-pe/">Konami celebra el primer aniversario de PES 2018 Mobile con leyendas de Brasil y Francia</a>
                 </li>
             
         </ul>

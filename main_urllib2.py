@@ -4,6 +4,7 @@
 import cchardet as chardet
 import cookielib
 import httplib2
+import httplib
 import urllib2
 import socket
 import time
@@ -55,6 +56,7 @@ ws = wb['Sheet1']
 search_set = set()
 url_list = []
 src = ""
+html = ""
     # Construct search_set
 for cell in ws['F']:
    if cell.value and cell.value != u'Search for:':
@@ -79,7 +81,7 @@ for row, url in enumerate(url_list, start=2):
 
     # Attempt to open URL
     try:
-        html = urllib2.urlopen(url, timeout = 60)#"http://cronista.com/ads.txt"
+        html = urllib2.urlopen(url, timeout = 60)#"http://cronista.com/ads.txt"/"http://mundodrama.com/ads.txt"
         html = html.read()
 
         print chardet.detect(html)
@@ -92,12 +94,18 @@ for row, url in enumerate(url_list, start=2):
             src = soup.get_text()
 
     # Except for errors and print to terminal
+    except httplib.BadStatusLine as e:
+        print e.reason #http error
+        src = ""
+        html = ""
     except urllib2.URLError as e:
         print e.reason    #not catch
         src = ""
+        html = ""
     except socket.timeout as e:
         print e.reason    #catched
         src = ""
+        html = ""
 
     # Log failed URLs in Notes section
     if chardet.detect(html)['encoding'] == None and chardet.detect(html)['confidence'] == None:
