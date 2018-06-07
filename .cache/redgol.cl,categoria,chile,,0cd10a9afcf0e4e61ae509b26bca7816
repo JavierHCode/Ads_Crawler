@@ -1,20 +1,20 @@
 status: 200
 expect-ct: max-age=604800,
  report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
-content-length: 484335
+content-length: 493045
 content-location: https://redgol.cl/categoria/chile/
-set-cookie: __cfduid=de39ab42261d21578642a97d669a2f5b61528230980;
- expires=Wed, 05-Jun-19 20:36:20 GMT; path=/; domain=.redgol.cl; HttpOnly;
+set-cookie: __cfduid=d1c0d0eaf3761325656dfac5755605e9b1528413802;
+ expires=Fri, 07-Jun-19 23:23:22 GMT; path=/; domain=.redgol.cl; HttpOnly;
  Secure
 vary: Accept-Encoding
 server: cloudflare
 connection: keep-alive
 -content-encoding: gzip
-date: Tue, 05 Jun 2018 20:36:20 GMT
+date: Thu, 07 Jun 2018 23:23:22 GMT
 access-control-allow-origin: *
 access-control-allow-methods: GET, POST, OPTIONS
 content-type: text/html; charset=utf-8
-cf-ray: 42656e4a3f0a9979-LAX
+cf-ray: 4276ddbb6d61996d-LAX
 -varied-accept-encoding: gzip, deflate
 
 
@@ -5982,10 +5982,32 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
 
         
         
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '221817805287360');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=221817805287360&ev=PageView&noscript=1"/>
+        </noscript>
+        <!-- End Facebook Pixel Code -->
     </head>
 
     
-    <body id="rg-body" class="nativeRG">   
+    <body id="rg-body" class="nativeRG">
+        <script>
+            fbq('track', 'ViewContent', {
+                content_ids: 'view content - futbolsites',
+            });
+        </script>
     
         <div id="fb-root"></div>
         <script>
@@ -6119,16 +6141,16 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/alexis-sanchez/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/da144bf409b9c4d7879db386de27ab48/redgol-assets.s3.amazonaws.com/rg-assets_2ae81493f9ce7ac0681250b9f2d7e1f7fred/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/f356b901f7ac0285784448c4fcb4d8c6/redgol-assets.s3.amazonaws.com/rg-assets_827917d15b7a9a616dd8b951c097997dpage/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/nuevo-companero-de-alexis-manchester-unite/">Nuevo compañero de Alexis: Manchester United anunció el fichaje del brasileño Fred</a>
+                        <a href="/2018/6/marvel-publico-una-serie-de-comic-de-la-co/">Marvel publicó una serie de comic de la Copa del Mundo Rusia ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/6/alexis-sanchez-termino-su-torneo-en-tocopi/">Alexis Sánchez terminó su torneo en Tocopilla bailando al ritmo del sound ...</a>
+                        <a href="/2018/6/thibaut-courtois-recuerda-que-alexis-sanch/">Thibaut Courtois recuerda que Alexis Sánchez le dio el mismo golpe que ...</a>
                     </li>
                 
         
@@ -6138,8 +6160,19 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         <ul>
             
                 <li>
+                    <a href="/2018/6/nuevo-companero-de-alexis-manchester-unite/">Nuevo compañero de Alexis: Manchester United anunció el fichaje del brasileño Fred</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/6/alexis-sanchez-termino-su-torneo-en-tocopi/">Alexis Sánchez terminó su torneo en Tocopilla bailando al ritmo del sound del Grupo Alegría</a>
+                </li>
+            
+                <li>
                     <a href="/2018/6/el-gran-alexis-sanchez-esta-de-vacaciones/">El gran Alexis Sánchez está de vacaciones en Chile y organiza un torneo de futbolito para ...</a>
                 </li>
+            
+        </ul>
+        <ul>
             
                 <li>
                     <a href="/2018/5/alexis-sanchez-cae-11-lugares-en-ranking-d/">Alexis Sánchez cae 11 lugares en ránking de los deportistas más famosos del mundo de ESPN: ...</a>
@@ -6149,19 +6182,8 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                     <a href="/2018/5/vuelve-fotolog-recuerda-las-mejores-fotos/">¡Vuelve Fotolog! Recuerda las mejores fotos del joven crack Alexis Sánchez en la vetusta red social</a>
                 </li>
             
-        </ul>
-        <ul>
-            
                 <li>
                     <a href="/2018/5/reinaldo-rueda-confirma-las-jinetas-de-la/">Reinaldo Rueda confirma las jinetas de la Roja: &quot;Siempre ha habido tres capitanes: Bravo, Gary y ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/hijo-de-manuel-pellegrini-lo-confirma-trat/">Hijo de Manuel Pellegrini lo confirma: “Trató de llevar 200 veces a Alexis Sánchez y Arturo ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/eden-hazard-troleo-a-alexis-sanchez-por-ch/">Eden Hazard troleó a Alexis Sánchez por chico y el chileno cambió de mascota con Pogba ...</a>
                 </li>
             
         </ul>
@@ -6177,16 +6199,16 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/arturo-vidal/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/3709766171d9168d616208b199cc89a4/redgol-assets.s3.amazonaws.com/rg-assets_ee1bde06be47a31f165c099ccd54f9b8GettyImages-805714556/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/4431d1bd73978a2ede5b59da7942c919/redgol-assets.s3.amazonaws.com/rg-assets_42b93399b4176fb0687e3efa1658f550egge/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/">Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo ...</a>
+                        <a href="/2018/6/rueda-tal-como-lewandowski-es-considerado/">Rueda: “Tal como Lewandowski es considerado un rey en Polonia, Chile tiene ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/6/arturo-vidal-dejo-pagando-a-los-mas-de-600/">Arturo Vidal dejó pagando a los más de 600 hinchas que fueron ...</a>
+                        <a href="/2018/6/fotos-arturo-vidal-se-subio-al-viaje-de-la/">[Fotos] Arturo Vidal se subió al viaje de la selección a Polonia, ...</a>
                     </li>
                 
         
@@ -6196,30 +6218,30 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         <ul>
             
                 <li>
-                    <a href="/2018/6/arturo-vidal-y-sus-candidatos-a-la-copa-de/">Arturo Vidal y sus candidatos a la Copa del Mundo: “Alemania, Colombia por a mi amigo ...</a>
+                    <a href="/2018/6/arturo-vidal-celebra-el-oro-de-la-sub-20-e/">Arturo Vidal celebra el oro de la Sub 20 en los Odesur: &quot;En el futuro tienen ...</a>
                 </li>
             
                 <li>
-                    <a href="/2018/6/arturo-vidal-con-la-roja-voy-a-estar-aca-h/">Arturo Vidal con la Roja: &quot;Voy a estar acá hasta el martes y después iré a ...</a>
+                    <a href="/2018/6/video-king-arturo-llego-a-austria-estoy-fe/">[Video] King Arturo llegó a Austria: &quot;Estoy feliz de estar acá, aunque tenga que perder días ...</a>
                 </li>
             
                 <li>
-                    <a href="/2018/6/diario-bild-asegura-que-bayern-y-su-nuevo/">Diario Bild asegura que Bayern y su nuevo técnico declararon transferibles a Arturo Vidal, Boateng y ...</a>
+                    <a href="/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/">Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo que no me pasen ...</a>
                 </li>
             
         </ul>
         <ul>
             
                 <li>
-                    <a href="/2018/5/hijo-de-manuel-pellegrini-lo-confirma-trat/">Hijo de Manuel Pellegrini lo confirma: “Trató de llevar 200 veces a Alexis Sánchez y Arturo ...</a>
+                    <a href="/2018/6/arturo-vidal-dejo-pagando-a-los-mas-de-600/">Arturo Vidal dejó pagando a los más de 600 hinchas que fueron a verlo a él ...</a>
                 </li>
             
                 <li>
-                    <a href="/2018/5/arturo-vidal-me-queda-un-ano-de-contrato-c/">Arturo Vidal: “Me queda un año de contrato con Bayern; si sigo o me voy tengo ...</a>
+                    <a href="/2018/6/arturo-vidal-y-sus-candidatos-a-la-copa-de/">Arturo Vidal y sus candidatos a la Copa del Mundo: “Alemania, Colombia por a mi amigo ...</a>
                 </li>
             
                 <li>
-                    <a href="/2018/5/vidal-y-polemica-con-bravo-ahora-ni-yo-ni/">Vidal y polémica con Bravo: “Ahora ni yo ni él estamos en la selección y el ...</a>
+                    <a href="/2018/6/arturo-vidal-con-la-roja-voy-a-estar-aca-h/">Arturo Vidal con la Roja: &quot;Voy a estar acá hasta el martes y después iré a ...</a>
                 </li>
             
         </ul>
@@ -6238,16 +6260,16 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/motor/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/3ce2fc927b6f4615dba63d51718e9e22/redgol-assets.s3.amazonaws.com/rg-assets_c705c63709477551d7c8a15d2f843fd0porta/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/29ea895124524883a00d8e2e6e5ff5d0/redgol-assets.s3.amazonaws.com/rg-assets_02efdda095cd977f32c031f74370ff3apage/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/">Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile ...</a>
+                        <a href="/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/">Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/6/pilotos-chilenos-se-reunieron-para-conocer/">Pilotos chilenos se reunieron para conocer las novedades del próximo Dakar, cien ...</a>
+                        <a href="/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/">Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista ...</a>
                     </li>
                 
         
@@ -6257,8 +6279,19 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         <ul>
             
                 <li>
+                    <a href="/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/">Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los ...</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/6/pilotos-chilenos-se-reunieron-para-conocer/">Pilotos chilenos se reunieron para conocer las novedades del próximo Dakar, cien por ciento peruano</a>
+                </li>
+            
+                <li>
                     <a href="/2018/5/benjamin-herrera-gano-a-lo-campeon-la-prim/">Benjamín Herrera ganó a lo campeón la primera fecha del Nacional de Enduro FIM en Concón</a>
                 </li>
+            
+        </ul>
+        <ul>
             
                 <li>
                     <a href="/2018/5/ignacio-casale-deja-los-quads-para-ser-el/">Ignacio Casale deja los quads para ser el primer chileno en ganar el Rally Dakar en ...</a>
@@ -6268,19 +6301,8 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                     <a href="/2018/5/alejandro-sepulveda-quiere-seguir-creciend/">Alejandro Sepúlveda quiere seguir creciendo en la Formula Total. &quot;Corro con los mejores de Sudamérica&quot;</a>
                 </li>
             
-        </ul>
-        <ul>
-            
                 <li>
                     <a href="/2018/5/la-formula-1-producira-un-programa-exclusi/">La Fórmula 1 producirá un programa exclusivo post GP que será transmitido por Twitter</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/4/wenger-invito-a-lewis-hamilton-a-entrenar/">Wenger invitó a Lewis Hamilton a entrenar con el Arsenal: &quot;Siempre tuve una gran admiración por ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/4/pedro-heller-gano-mirando-para-atras-en-la/">Pedro Heller ganó mirando para atrás en la fecha de RallyMobil más internacional de la historia, ...</a>
                 </li>
             
         </ul>
@@ -6296,22 +6318,37 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/videojuegos/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/5ed2858b0af6331b87a15e05953786fd/redgol-assets.s3.amazonaws.com/rg-assets_c27491242ac0d8500999fc97aeb5b9e7porta/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/19484838ca92abc1fe9dfa8c199ef29e/redgol-assets.s3.amazonaws.com/rg-assets_824904168abbd2e4a07982e407df958afifa19/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/notable-casemiro-le-dio-una-verdadera-pali-1/">¡Notable! Casemiro le dio una verdadera paliza a Dani Carvajal en el ...</a>
+                        <a href="/2018/6/cr7-y-real-madrid-ea-sports-anuncio-que-el/">CR7 y Real Madrid: EA Sports anunció que el 9 de junio ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/6/exclusiva-claudio-palma-confirmo-su-partic/">Exclusiva: Claudio Palma confirmó su participación en PES 2019 con un relato ...</a>
+                        <a href="/2018/6/palestino-y-u-catolica-jugaron-un-entreten/">Palestino y U. Católica jugaron un entretenido amistoso en la previa de ...</a>
                     </li>
                 
         
         </ul>
     </div>
     <div class="more-category-post">
+        <ul>
+            
+                <li>
+                    <a href="/2018/6/2k-celebra-los-20-anos-de-su-franquicia-de/">2K celebra los 20 años de su franquicia de básquetbol con LeBron James en la portada ...</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/6/notable-casemiro-le-dio-una-verdadera-pali-1/">¡Notable! Casemiro le dio una verdadera paliza a Dani Carvajal en el duelo Brasil-España por FIFA ...</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/6/exclusiva-claudio-palma-confirmo-su-partic/">Exclusiva: Claudio Palma confirmó su participación en PES 2019 con un relato renovado y futbolero</a>
+                </li>
+            
+        </ul>
         <ul>
             
                 <li>
@@ -6327,21 +6364,6 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 </li>
             
         </ul>
-        <ul>
-            
-                <li>
-                    <a href="/2018/5/la-copa-claro-gamer-de-esports-13-premiara/">La Copa Claro Gamer de eSports 13 premiará con 3 millones de pesos al campeón de ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/anfp-lanzo-su-primer-torneo-profesional-de/">ANFP lanzó su primer torneo profesional de eSports en FIFA 18 que disputarán 12 clubes chilenos</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/pes-2019-contara-con-7-nuevas-ligas-totalm/">PES 2019 contará con 7 nuevas ligas totalmente licenciadas y faltan 2 más por anunciar</a>
-                </li>
-            
-        </ul>
     </div>
 </div>
 
@@ -6354,22 +6376,37 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/nba/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/fd7086adc76f5982583bd982fbc50ed5/redgol-assets.s3.amazonaws.com/rg-assets_3c78d8b58fc2406ceddb177b19e78c3ccurry/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/3d3e2963d9fee3ae3ded9dbc71880da2/redgol-assets.s3.amazonaws.com/rg-assets_c1397bee5671f55733d11cc10c7c8202lebron/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/stephen-curry-aplasto-a-los-cavaliers-y-de/">Stephen Curry aplastó a los Cavaliers y dejó 2-0 a Golden State ...</a>
+                        <a href="/2018/6/bomba-lebron-james-se-reunira-con-los-gold/">Bomba: LeBron James se reunirá con los Golden State en verano para ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/5/golden-state-se-corono-campeon-del-oeste-t/">Golden State se coronó campeón del Oeste tras vencer a Houston y ...</a>
+                        <a href="/2018/6/kevin-durant-enterro-a-cleveland-y-dejo-a/">Kevin Durant enterró a Cleveland y dejó a los Warriors a un ...</a>
                     </li>
                 
         
         </ul>
     </div>
     <div class="more-category-post">
+        <ul>
+            
+                <li>
+                    <a href="/2018/6/2k-celebra-los-20-anos-de-su-franquicia-de/">2K celebra los 20 años de su franquicia de básquetbol con LeBron James en la portada ...</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/6/stephen-curry-aplasto-a-los-cavaliers-y-de/">Stephen Curry aplastó a los Cavaliers y dejó 2-0 a Golden State en la final de ...</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/5/golden-state-se-corono-campeon-del-oeste-t/">Golden State se coronó campeón del Oeste tras vencer a Houston y se medirá a los ...</a>
+                </li>
+            
+        </ul>
         <ul>
             
                 <li>
@@ -6382,21 +6419,6 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             
                 <li>
                     <a href="/2018/5/un-inspirado-lebron-james-guio-a-los-caval/">Un inspirado LeBron James guió a los Cavaliers para empatar la final de conferencia contra los ...</a>
-                </li>
-            
-        </ul>
-        <ul>
-            
-                <li>
-                    <a href="/2018/5/houston-rockets-derroto-a-golden-state-y-e/">Houston Rockets derrotó a Golden State y empató la final de la Conferencia Oeste de la ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/celtics-se-puso-2-0-en-la-final-de-la-conf/">Celtics se puso 2-0 en la final de la Conferencia Este y mandó a la basura ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/boston-celtics-aplasto-a-los-cavaliers-en/">Boston Celtics aplastó a los Cavaliers en el primer partido de la final de la Conferencia ...</a>
                 </li>
             
         </ul>
@@ -6581,32 +6603,680 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
 
 <article id="post-featured-articulo">
-	<a id="post-featured-imagen" href="/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/">
+	<a id="post-featured-imagen" href="/2018/6/tecnico-de-polonia-esta-feliz-de-jugar-con/">
 		
-			<img src="https://d.rgcdn.net/6a532c48b0ecd7ef23de8d0cc22f2213/redgol-assets.s3.amazonaws.com/rg-assets_ee1bde06be47a31f165c099ccd54f9b8GettyImages-805714556/670x/redgol-assets.s3.amazonaws.jpg" alt="Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo que no me pasen el buzo de la selección” - RedGol">
+			<img src="https://d.rgcdn.net/3b5914367376d0e339188d1526715dfa/redgol-assets.s3.amazonaws.com/rg-assets_be5a6a2f97ec9a8e6a3e781c18b8149cporta/670x/redgol-assets.s3.amazonaws.jpg" alt="Técnico de Polonia está &quot;feliz&quot; de jugar con Chile, porque según él nos parecemos &quot;a Colombia y a Senegal&quot; - RedGol">
 		
 	</a>
 	<div id="post-featured-contenido">
-		<p id="post-featured-titulo">Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo que no me pasen el buzo de la selección”</p>
+		<p id="post-featured-titulo">Técnico de Polonia está &quot;feliz&quot; de jugar con Chile, porque según él nos parecemos &quot;a Colombia y a Senegal&quot;</p>
 		<p id="post-featured-meta">
 			
-				<strong id="post-featured-strong">Daniel Beovic</strong>,
+				<strong id="post-featured-strong">Redgol</strong>,
 			
-			5 de Jun. de 2018, 14:23.
+			7 de Jun. de 2018, 19:45.
 		</p>
 	</div>
 	<div id="post-featured-social-fb">
-		<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/&title=Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo que no me pasen el buzo de la selección”" rel="nofollow" title="Compartir">
+		<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/tecnico-de-polonia-esta-feliz-de-jugar-con/&title=Técnico de Polonia está &quot;feliz&quot; de jugar con Chile, porque según él nos parecemos &quot;a Colombia y a Senegal&quot;" rel="nofollow" title="Compartir">
 			<img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
 		</a>
 	</div>
 	<div id="post-featured-social-tw">
-		<a href="http://twitter.com/intent/tweet?status=Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo que no me pasen el buzo de la selección”+http://redgol.cl/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/" rel="nofollow" title="Tweet">
+		<a href="http://twitter.com/intent/tweet?status=Técnico de Polonia está &quot;feliz&quot; de jugar con Chile, porque según él nos parecemos &quot;a Colombia y a Senegal&quot;+http://redgol.cl/2018/6/tecnico-de-polonia-esta-feliz-de-jugar-con/" rel="nofollow" title="Tweet">
 			<img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
 		</a>
 	</div>
-	<a id="post-featured-enlace" href="/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/"></a>
+	<a id="post-featured-enlace" href="/2018/6/tecnico-de-polonia-esta-feliz-de-jugar-con/"></a>
 </article>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/lorenzo-reyes-sigue-lejos-de-renovar-atlas/">
+            
+                <img src="https://d.rgcdn.net/42467670b1814769e5e2ff4f1c9c45c8/redgol-assets.s3.amazonaws.com/rg-assets_e0c4553bf82f61775fabc923542d65feA_UNO_948255/265x/redgol-assets.s3.amazonaws.jpg" alt="Lorenzo Reyes sigue lejos de renovar, Atlas confirmó interés y en la U. de Chile lo esperan la próxima semana - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/lorenzo-reyes-sigue-lejos-de-renovar-atlas/">Lorenzo Reyes sigue lejos de renovar, Atlas confirmó interés y en la U. de Chile lo esperan la próxima semana</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            7 de Jun. de 2018, 17:05.
+        </p>
+        <!--<p class="post-mini-encabezado">El volante finaliza contrato a finales de junio y a&uacute;n no logra firmar una nuevo v&iacute;nculo con Azul Azul. Rafael ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/lorenzo-reyes-sigue-lejos-de-renovar-atlas/&title=Lorenzo Reyes sigue lejos de renovar, Atlas confirmó interés y en la U. de Chile lo esperan la próxima semana" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Lorenzo Reyes sigue lejos de renovar, Atlas confirmó interés y en la U. de Chile lo esperan la próxima semana+http://redgol.cl/2018/6/lorenzo-reyes-sigue-lejos-de-renovar-atlas/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/reinaldo-rueda-y-el-recambio-en-el-plantel/">
+            
+                <img src="https://d.rgcdn.net/5951b2fc24ea3bfbacab803b7bf999d0/redgol-assets.s3.amazonaws.com/rg-assets_4877eeda6c124196cad9b1adc47ba62ajbjb/265x/redgol-assets.s3.amazonaws.jpg" alt="Reinaldo Rueda y el recambio: “En el plantel hay 14 nuevos respecto a marzo y solo tres del proceso anterior” - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/reinaldo-rueda-y-el-recambio-en-el-plantel/">Reinaldo Rueda y el recambio: “En el plantel hay 14 nuevos respecto a marzo y solo tres del proceso anterior”</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            7 de Jun. de 2018, 16:38.
+        </p>
+        <!--<p class="post-mini-encabezado">El t&eacute;cnico de la Selecci&oacute;n Chilena habl&oacute; en conferencia y destac&oacute; la importancia que tiene el amistoso ante Polonia y ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/reinaldo-rueda-y-el-recambio-en-el-plantel/&title=Reinaldo Rueda y el recambio: “En el plantel hay 14 nuevos respecto a marzo y solo tres del proceso anterior”" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Reinaldo Rueda y el recambio: “En el plantel hay 14 nuevos respecto a marzo y solo tres del proceso anterior”+http://redgol.cl/2018/6/reinaldo-rueda-y-el-recambio-en-el-plantel/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/rueda-tal-como-lewandowski-es-considerado/">
+            
+                <img src="https://d.rgcdn.net/168df2186e42fd0655a00cedd981e6ef/redgol-assets.s3.amazonaws.com/rg-assets_42b93399b4176fb0687e3efa1658f550egge/265x/redgol-assets.s3.amazonaws.jpg" alt="Rueda: “Tal como Lewandowski es considerado un rey en Polonia, Chile tiene a su rey, el Rey Arturo Vidal” - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/rueda-tal-como-lewandowski-es-considerado/">Rueda: “Tal como Lewandowski es considerado un rey en Polonia, Chile tiene a su rey, el Rey Arturo Vidal”</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            7 de Jun. de 2018, 16:16.
+        </p>
+        <!--<p class="post-mini-encabezado">El t&eacute;cnico de la Selecci&oacute;n Chilena alab&oacute; al &iacute;dolo luego de su llegada a la concentraci&oacute;n de la Roja. Lo ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/rueda-tal-como-lewandowski-es-considerado/&title=Rueda: “Tal como Lewandowski es considerado un rey en Polonia, Chile tiene a su rey, el Rey Arturo Vidal”" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Rueda: “Tal como Lewandowski es considerado un rey en Polonia, Chile tiene a su rey, el Rey Arturo Vidal”+http://redgol.cl/2018/6/rueda-tal-como-lewandowski-es-considerado/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/formacion-gabriel-arias-vuelve-a-ganarle-e/">
+            
+                <img src="https://d.rgcdn.net/aed41dad857680294611da917eeb4e55/redgol-assets.s3.amazonaws.com/rg-assets_dc96d4f88266a96d9b9b9354396cc17dpage/265x/redgol-assets.s3.amazonaws.jpg" alt="[Formación] Gabriel Arias vuelve a ganarle el arco a Toselli y Nico Castillo regresa en la Roja ante Polonia - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/formacion-gabriel-arias-vuelve-a-ganarle-e/">[Formación] Gabriel Arias vuelve a ganarle el arco a Toselli y Nico Castillo regresa en la Roja ante Polonia</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            7 de Jun. de 2018, 15:37.
+        </p>
+        <!--<p class="post-mini-encabezado">El arquero de La Calera parece haberse ganado la confianza de Reinaldo Rueda frente a un Toselli que no tiene ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/formacion-gabriel-arias-vuelve-a-ganarle-e/&title=[Formación] Gabriel Arias vuelve a ganarle el arco a Toselli y Nico Castillo regresa en la Roja ante Polonia" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=[Formación] Gabriel Arias vuelve a ganarle el arco a Toselli y Nico Castillo regresa en la Roja ante Polonia+http://redgol.cl/2018/6/formacion-gabriel-arias-vuelve-a-ganarle-e/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/fotos-arturo-vidal-se-subio-al-viaje-de-la/">
+            
+                <img src="https://d.rgcdn.net/d7fdde0cbc3fa3a753ab8da6b4f8640a/redgol-assets.s3.amazonaws.com/rg-assets_e37671e497933e9826ecceb455ade719porta/265x/redgol-assets.s3.amazonaws.jpg" alt="[Fotos] Arturo Vidal se subió al viaje de la selección a Polonia, donde se enfrentará a Lewandowski y compañía - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/fotos-arturo-vidal-se-subio-al-viaje-de-la/">[Fotos] Arturo Vidal se subió al viaje de la selección a Polonia, donde se enfrentará a Lewandowski y compañía</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            7 de Jun. de 2018, 10:35.
+        </p>
+        <!--<p class="post-mini-encabezado">El Rey Arturo se traslad&oacute; junto con el resto de la Roja de Reinaldo Rueda para el &uacute;ltimo amistoso de ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/fotos-arturo-vidal-se-subio-al-viaje-de-la/&title=[Fotos] Arturo Vidal se subió al viaje de la selección a Polonia, donde se enfrentará a Lewandowski y compañía" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=[Fotos] Arturo Vidal se subió al viaje de la selección a Polonia, donde se enfrentará a Lewandowski y compañía+http://redgol.cl/2018/6/fotos-arturo-vidal-se-subio-al-viaje-de-la/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/marcelo-salas-pude-llegar-a-sudafrica-2010/">
+            
+                <img src="https://d.rgcdn.net/c6de6bec67913173eaf59fb7fcf7d2a2/redgol-assets.s3.amazonaws.com/rg-assets_deb6d24d3e559e49425cf7dfcde30fe9ewf/265x/redgol-assets.s3.amazonaws.jpg" alt="Marcelo Salas: “Pude llegar a Sudáfrica 2010, si pensaba más tranquilo me operaba, vuelvo y juego un Mundial” - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/marcelo-salas-pude-llegar-a-sudafrica-2010/">Marcelo Salas: “Pude llegar a Sudáfrica 2010, si pensaba más tranquilo me operaba, vuelvo y juego un Mundial”</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            6 de Jun. de 2018, 20:04.
+        </p>
+        <!--<p class="post-mini-encabezado">El gran Matador record&oacute; su paso por Francia 1998 y tambi&eacute;n el retiro previo a Sud&aacute;frica 2010 torneo que reconoci&oacute; ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/marcelo-salas-pude-llegar-a-sudafrica-2010/&title=Marcelo Salas: “Pude llegar a Sudáfrica 2010, si pensaba más tranquilo me operaba, vuelvo y juego un Mundial”" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Marcelo Salas: “Pude llegar a Sudáfrica 2010, si pensaba más tranquilo me operaba, vuelvo y juego un Mundial”+http://redgol.cl/2018/6/marcelo-salas-pude-llegar-a-sudafrica-2010/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/hector-robles-y-el-oro-en-los-odesur-no-es/">
+            
+                <img src="https://d.rgcdn.net/76e6898941235c8bd42d01f2044f81e2/redgol-assets.s3.amazonaws.com/rg-assets_88feade8664666e4bfc19c481286206deg/265x/redgol-assets.s3.amazonaws.jpg" alt="Héctor Robles y el oro en los Odesur: “No es una revancha, en momentos de triunfo hay que tener humildad” - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/hector-robles-y-el-oro-en-los-odesur-no-es/">Héctor Robles y el oro en los Odesur: “No es una revancha, en momentos de triunfo hay que tener humildad”</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            6 de Jun. de 2018, 16:21.
+        </p>
+        <!--<p class="post-mini-encabezado">El t&eacute;cnico de la Selecci&oacute;n Chilena sub 20 analiz&oacute; el t&iacute;tulo en Bolivia y manifest&oacute; su agradecimiento a Arturo Salah ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/hector-robles-y-el-oro-en-los-odesur-no-es/&title=Héctor Robles y el oro en los Odesur: “No es una revancha, en momentos de triunfo hay que tener humildad”" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Héctor Robles y el oro en los Odesur: “No es una revancha, en momentos de triunfo hay que tener humildad”+http://redgol.cl/2018/6/hector-robles-y-el-oro-en-los-odesur-no-es/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/chile-sub-20-recibio-emocionado-la-medalla/">
+            
+                <img src="https://d.rgcdn.net/3b4bdd0cae43dd23aa19819f2a1c40ca/redgol-assets.s3.amazonaws.com/rg-assets_45995ff8bf66abc5c9539c34d50fe82eegegef/265x/redgol-assets.s3.amazonaws.jpg" alt="Chile sub 20 recibió emocionado la medalla de oro: “Estamos orgullosos de pertenecer al Team Chile” - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/chile-sub-20-recibio-emocionado-la-medalla/">Chile sub 20 recibió emocionado la medalla de oro: “Estamos orgullosos de pertenecer al Team Chile”</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            6 de Jun. de 2018, 16:00.
+        </p>
+        <!--<p class="post-mini-encabezado">El goleador Diego Valencia se mostr&oacute; feliz por el oro conseguido por la Selecci&oacute;n Chilena en los Odesur, adem&aacute;s Ignacio ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/chile-sub-20-recibio-emocionado-la-medalla/&title=Chile sub 20 recibió emocionado la medalla de oro: “Estamos orgullosos de pertenecer al Team Chile”" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Chile sub 20 recibió emocionado la medalla de oro: “Estamos orgullosos de pertenecer al Team Chile”+http://redgol.cl/2018/6/chile-sub-20-recibio-emocionado-la-medalla/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/reinaldo-rueda-felicito-a-los-campeones-de/">
+            
+                <img src="https://d.rgcdn.net/ce414b52c5eb4628ca40dd47114a16a5/redgol-assets.s3.amazonaws.com/rg-assets_9a39df30d493ba550a095b6c4739cc82page/265x/redgol-assets.s3.amazonaws.jpg" alt="Reinaldo Rueda felicitó a los campeones de los Odesur y ya proyecta el Sudamericano sub 20 en Chile - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/reinaldo-rueda-felicito-a-los-campeones-de/">Reinaldo Rueda felicitó a los campeones de los Odesur y ya proyecta el Sudamericano sub 20 en Chile</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            6 de Jun. de 2018, 13:35.
+        </p>
+        <!--<p class="post-mini-encabezado">El t&eacute;cnico de la Selecci&oacute;n Chilena envi&oacute; un mensaje al plantel de H&eacute;ctor Robles que se colg&oacute; la medalla de ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/reinaldo-rueda-felicito-a-los-campeones-de/&title=Reinaldo Rueda felicitó a los campeones de los Odesur y ya proyecta el Sudamericano sub 20 en Chile" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Reinaldo Rueda felicitó a los campeones de los Odesur y ya proyecta el Sudamericano sub 20 en Chile+http://redgol.cl/2018/6/reinaldo-rueda-felicito-a-los-campeones-de/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/arturo-vidal-celebra-el-oro-de-la-sub-20-e/">
+            
+                <img src="https://d.rgcdn.net/aaf6dc5358ae49c556b69946ba4ad877/redgol-assets.s3.amazonaws.com/rg-assets_2939132bc19382f3c25fd36d581d711apage/265x/redgol-assets.s3.amazonaws.jpg" alt="Arturo Vidal celebra el oro de la Sub 20 en los Odesur: &quot;En el futuro tienen que estar en la selección&quot; - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/arturo-vidal-celebra-el-oro-de-la-sub-20-e/">Arturo Vidal celebra el oro de la Sub 20 en los Odesur: &quot;En el futuro tienen que estar en la selección&quot;</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            6 de Jun. de 2018, 13:35.
+        </p>
+        <!--<p class="post-mini-encabezado">En su llegada a Austria, donde visitar&aacute; a la selecci&oacute;n en la &uacute;ltima parte de su gira de amistosos por ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/arturo-vidal-celebra-el-oro-de-la-sub-20-e/&title=Arturo Vidal celebra el oro de la Sub 20 en los Odesur: &quot;En el futuro tienen que estar en la selección&quot;" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Arturo Vidal celebra el oro de la Sub 20 en los Odesur: &quot;En el futuro tienen que estar en la selección&quot;+http://redgol.cl/2018/6/arturo-vidal-celebra-el-oro-de-la-sub-20-e/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/video-king-arturo-llego-a-austria-estoy-fe/">
+            
+                <img src="https://d.rgcdn.net/561080509337c8d2d27d53242c906acf/redgol-assets.s3.amazonaws.com/rg-assets_9160339005c5a727085309896b5b16fcvidal88/265x/redgol-assets.s3.amazonaws.jpg" alt="[Video] King Arturo llegó a Austria: &quot;Estoy feliz de estar acá, aunque tenga que perder días de vacaciones&quot; - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/video-king-arturo-llego-a-austria-estoy-fe/">[Video] King Arturo llegó a Austria: &quot;Estoy feliz de estar acá, aunque tenga que perder días de vacaciones&quot;</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">David Fernández</strong>,
+            
+            6 de Jun. de 2018, 13:03.
+        </p>
+        <!--<p class="post-mini-encabezado">Arturo Vidal aterriz&oacute; en Austria para acompa&ntilde;ar a los jugadores de la selecci&oacute;n, que el viernes juega ante Polonia.</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/video-king-arturo-llego-a-austria-estoy-fe/&title=[Video] King Arturo llegó a Austria: &quot;Estoy feliz de estar acá, aunque tenga que perder días de vacaciones&quot;" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=[Video] King Arturo llegó a Austria: &quot;Estoy feliz de estar acá, aunque tenga que perder días de vacaciones&quot;+http://redgol.cl/2018/6/video-king-arturo-llego-a-austria-estoy-fe/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/presidente-de-morelia-se-abre-a-la-venta-d/">
+            
+                <img src="https://d.rgcdn.net/94f431b2b0619fe35d609a8c5ef7130b/redgol-assets.s3.amazonaws.com/rg-assets_c83a53b307b7e981764b2bf4c8f9ec38porta/265x/redgol-assets.s3.amazonaws.jpg" alt="Presidente de Morelia se abre a la venta de Sebastián Vegas a River Plate: &quot;Si la oferta es buena, puede irse&quot; - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/presidente-de-morelia-se-abre-a-la-venta-d/">Presidente de Morelia se abre a la venta de Sebastián Vegas a River Plate: &quot;Si la oferta es buena, puede irse&quot;</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            6 de Jun. de 2018, 12:37.
+        </p>
+        <!--<p class="post-mini-encabezado">El presidente de los Monarcas confes&oacute; al diario La Cuarta que todav&iacute;a "no hay una propuesta oficial", pero que "de ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/presidente-de-morelia-se-abre-a-la-venta-d/&title=Presidente de Morelia se abre a la venta de Sebastián Vegas a River Plate: &quot;Si la oferta es buena, puede irse&quot;" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Presidente de Morelia se abre a la venta de Sebastián Vegas a River Plate: &quot;Si la oferta es buena, puede irse&quot;+http://redgol.cl/2018/6/presidente-de-morelia-se-abre-a-la-venta-d/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/el-capitan-claudio-bravo-apoyo-a-la-roja-s/">
+            
+                <img src="https://d.rgcdn.net/520bb415572807f35dcec3778c1b3b1e/redgol-assets.s3.amazonaws.com/rg-assets_732727e1833f2aeb63a05bbdaae85adepage/265x/redgol-assets.s3.amazonaws.jpg" alt="El capitán Claudio Bravo apoyó a la Roja sub 20 y los felicitó por el oro en los Odesur ante Uruguay - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/el-capitan-claudio-bravo-apoyo-a-la-roja-s/">El capitán Claudio Bravo apoyó a la Roja sub 20 y los felicitó por el oro en los Odesur ante Uruguay</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            6 de Jun. de 2018, 01:28.
+        </p>
+        <!--<p class="post-mini-encabezado">El &iacute;dolo Claudio Bravo envi&oacute; un mensaje una vez terminada la final del f&uacute;tbol masculino en los Juegos Sudamericanos en ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/el-capitan-claudio-bravo-apoyo-a-la-roja-s/&title=El capitán Claudio Bravo apoyó a la Roja sub 20 y los felicitó por el oro en los Odesur ante Uruguay" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=El capitán Claudio Bravo apoyó a la Roja sub 20 y los felicitó por el oro en los Odesur ante Uruguay+http://redgol.cl/2018/6/el-capitan-claudio-bravo-apoyo-a-la-roja-s/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/chile-gana-la-tercera-final-de-su-historia/">
+            
+                <img src="https://d.rgcdn.net/23eaa59a25bcea59e335a2c5bd021a9f/redgol-assets.s3.amazonaws.com/rg-assets_1ed6fd27f09fbab52c84433e779f8c97De-tlmOXkAARVn6/265x/redgol-assets.s3.amazonaws.jpg" alt="Chile gana la tercera final de su historia en fútbol tras colgarse la medalla de oro de los Odesur 2018 - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/chile-gana-la-tercera-final-de-su-historia/">Chile gana la tercera final de su historia en fútbol tras colgarse la medalla de oro de los Odesur 2018</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            6 de Jun. de 2018, 01:07.
+        </p>
+        <!--<p class="post-mini-encabezado">La Selecci&oacute;n Chilena sum&oacute; un nuevo t&iacute;tulo a la peque&ntilde;a vitrina de consagraciones del f&uacute;tbol nacional. Hay perdido cinco de ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/chile-gana-la-tercera-final-de-su-historia/&title=Chile gana la tercera final de su historia en fútbol tras colgarse la medalla de oro de los Odesur 2018" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Chile gana la tercera final de su historia en fútbol tras colgarse la medalla de oro de los Odesur 2018+http://redgol.cl/2018/6/chile-gana-la-tercera-final-de-su-historia/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/chile-se-consagro-campeon-de-los-odesur-en/">
+            
+                <img src="https://d.rgcdn.net/ad9de73d6aaa468c37106fad876d7242/redgol-assets.s3.amazonaws.com/rg-assets_fd8eea877081cf2b1e64043586dc26c2ewwe/265x/redgol-assets.s3.amazonaws.jpg" alt="Chile se consagró campeón de los Odesur en Cochabamba y gana su primera medalla de oro en el fútbol - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/chile-se-consagro-campeon-de-los-odesur-en/">Chile se consagró campeón de los Odesur en Cochabamba y gana su primera medalla de oro en el fútbol</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            6 de Jun. de 2018, 00:37.
+        </p>
+        <!--<p class="post-mini-encabezado">La Selecci&oacute;n Chilena se impuso 1-0 a Uruguay en la definici&oacute;n y con un gol sobre el final del segundo ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/chile-se-consagro-campeon-de-los-odesur-en/&title=Chile se consagró campeón de los Odesur en Cochabamba y gana su primera medalla de oro en el fútbol" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Chile se consagró campeón de los Odesur en Cochabamba y gana su primera medalla de oro en el fútbol+http://redgol.cl/2018/6/chile-se-consagro-campeon-de-los-odesur-en/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/problemas-en-la-senal-satelital-dejo-a-can/">
+            
+                <img src="https://d.rgcdn.net/c4a71a585b03067741d353d8a1ce2275/redgol-assets.s3.amazonaws.com/rg-assets_0eaef5ddc956078982ede0366387b5b3fweweff/265x/redgol-assets.s3.amazonaws.jpg" alt="Problemas en la señal satelital dejó a Canal 13 sin transmitir la final de los Odesur entre Chile y Uruguay - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/problemas-en-la-senal-satelital-dejo-a-can/">Problemas en la señal satelital dejó a Canal 13 sin transmitir la final de los Odesur entre Chile y Uruguay</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            5 de Jun. de 2018, 23:51.
+        </p>
+        <!--<p class="post-mini-encabezado">La estaci&oacute;n inform&oacute; mediante un mensaje en Twitter que no iban a emitir el duelo final del f&uacute;tbol masculino. El ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/problemas-en-la-senal-satelital-dejo-a-can/&title=Problemas en la señal satelital dejó a Canal 13 sin transmitir la final de los Odesur entre Chile y Uruguay" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Problemas en la señal satelital dejó a Canal 13 sin transmitir la final de los Odesur entre Chile y Uruguay+http://redgol.cl/2018/6/problemas-en-la-senal-satelital-dejo-a-can/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/la-seleccion-chilena-tiene-formacion-para/">
+            
+                <img src="https://d.rgcdn.net/74d10016cf184335a1d032d06de788a9/redgol-assets.s3.amazonaws.com/rg-assets_e234c7dc2b0e26ecbaf127f80f20bb8befw/265x/redgol-assets.s3.amazonaws.jpg" alt="La Selección Chilena enfrenta a Uruguay por el oro de los Juegos Sudamericanos de Cochabamba - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/la-seleccion-chilena-tiene-formacion-para/">La Selección Chilena enfrenta a Uruguay por el oro de los Juegos Sudamericanos de Cochabamba</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            5 de Jun. de 2018, 21:29.
+        </p>
+        <!--<p class="post-mini-encabezado">La Roja de H&eacute;ctor Robles buscar&aacute; ante Uruguay colgarse por primera vez en f&uacute;tbol la presea dorada. Se juega desde ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/la-seleccion-chilena-tiene-formacion-para/&title=La Selección Chilena enfrenta a Uruguay por el oro de los Juegos Sudamericanos de Cochabamba" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=La Selección Chilena enfrenta a Uruguay por el oro de los Juegos Sudamericanos de Cochabamba+http://redgol.cl/2018/6/la-seleccion-chilena-tiene-formacion-para/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/">
+            
+                <img src="https://d.rgcdn.net/08fc1ea1d2c67458810078afcbc51aff/redgol-assets.s3.amazonaws.com/rg-assets_ee1bde06be47a31f165c099ccd54f9b8GettyImages-805714556/265x/redgol-assets.s3.amazonaws.jpg" alt="Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo que no me pasen el buzo de la selección” - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/">Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo que no me pasen el buzo de la selección”</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            5 de Jun. de 2018, 14:23.
+        </p>
+        <!--<p class="post-mini-encabezado">El &iacute;dolo emprendi&oacute; camino a Europa donde se reunir&aacute; con el plantel de Reinaldo Rueda en medio de su gira. ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/&title=Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo que no me pasen el buzo de la selección”" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo que no me pasen el buzo de la selección”+http://redgol.cl/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
             
         
             
@@ -7332,678 +8002,30 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             
                 
 
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/con-allende-a-la-cabeza-la-roja-sub-20-ven/">
-            
-                <img src="https://d.rgcdn.net/4a73f31b1867f902ae31b535d895581a/redgol-assets.s3.amazonaws.com/rg-assets_3f1b02e2b61db8d08f82eaa6341d544fsagasgasgasghash/265x/redgol-assets.s3.amazonaws.jpg" alt="Con gol de Marcelo Allende, la selección Sub 20 venció a Venezuela y se metió en semis de Cochabamba 2018 - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/con-allende-a-la-cabeza-la-roja-sub-20-ven/">Con gol de Marcelo Allende, la selección Sub 20 venció a Venezuela y se metió en semis de Cochabamba 2018</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Sebastián Munizaga</strong>,
-            
-            1 de Jun. de 2018, 18:38.
-        </p>
-        <!--<p class="post-mini-encabezado">La selecci&oacute;n juvenil necesitaba ganar para inscribirse entre los cuatro mejores de los Odesur.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/con-allende-a-la-cabeza-la-roja-sub-20-ven/&title=Con gol de Marcelo Allende, la selección Sub 20 venció a Venezuela y se metió en semis de Cochabamba 2018" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Con gol de Marcelo Allende, la selección Sub 20 venció a Venezuela y se metió en semis de Cochabamba 2018+http://redgol.cl/2018/6/con-allende-a-la-cabeza-la-roja-sub-20-ven/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/paulo-diaz-existe-interes-de-clubes-de-muc/">
-            
-                <img src="https://d.rgcdn.net/b4009ab4eeb4156a1fc6e34f6d966ced/redgol-assets.s3.amazonaws.com/rg-assets_7c6c3c84a383dec6e7888e43d662d7feA_UNO_948246/265x/redgol-assets.s3.amazonaws.jpg" alt="Paulo Díaz: “Existe interés de clubes de mucho nombre, da mucho entusiasmo cerrar con alguno” - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/paulo-diaz-existe-interes-de-clubes-de-muc/">Paulo Díaz: “Existe interés de clubes de mucho nombre, da mucho entusiasmo cerrar con alguno”</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Daniel Beovic</strong>,
-            
-            1 de Jun. de 2018, 17:41.
-        </p>
-        <!--<p class="post-mini-encabezado">El zaguero de la Selecci&oacute;n&nbsp; Chilena habl&oacute; sobre la inminente partida a Europa luego del inter&eacute;s del Inter de Mil&aacute;n ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/paulo-diaz-existe-interes-de-clubes-de-muc/&title=Paulo Díaz: “Existe interés de clubes de mucho nombre, da mucho entusiasmo cerrar con alguno”" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Paulo Díaz: “Existe interés de clubes de mucho nombre, da mucho entusiasmo cerrar con alguno”+http://redgol.cl/2018/6/paulo-diaz-existe-interes-de-clubes-de-muc/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/arturo-vidal-con-la-roja-voy-a-estar-aca-h/">
-            
-                <img src="https://d.rgcdn.net/4314c7e780803b201cf0ed51a3dbe622/redgol-assets.s3.amazonaws.com/rg-assets_6752ee6ad61895bbd1e4f6a16e6881bcfffsfs/265x/redgol-assets.s3.amazonaws.jpg" alt="Arturo Vidal con la Roja: &quot;Voy a estar acá hasta el martes y después iré a darme una vuelta a la Selección” - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/arturo-vidal-con-la-roja-voy-a-estar-aca-h/">Arturo Vidal con la Roja: &quot;Voy a estar acá hasta el martes y después iré a darme una vuelta a la Selección”</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Sebastián Munizaga</strong>,
-            
-            1 de Jun. de 2018, 15:54.
-        </p>
-        <!--<p class="post-mini-encabezado">El King lanz&oacute; la camiseta del Rodelindo Rom&aacute;n al p&uacute;blico y aprovech&oacute; de hablar sobre la selecci&oacute;n chilena.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/arturo-vidal-con-la-roja-voy-a-estar-aca-h/&title=Arturo Vidal con la Roja: &quot;Voy a estar acá hasta el martes y después iré a darme una vuelta a la Selección”" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Arturo Vidal con la Roja: &quot;Voy a estar acá hasta el martes y después iré a darme una vuelta a la Selección”+http://redgol.cl/2018/6/arturo-vidal-con-la-roja-voy-a-estar-aca-h/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/igor-lichnovsky-donara-para-un-beneficio-l/">
-            
-                <img src="https://d.rgcdn.net/6b4a620939acaa17b14bbc2f7bd9d29e/redgol-assets.s3.amazonaws.com/rg-assets_072e6292c9170ecc1759442669900736page/265x/redgol-assets.s3.amazonaws.jpg" alt="Igor Lichnovsky donará para un beneficio la camiseta con su apellido mal escrito del amistoso Chile-Rumania - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/igor-lichnovsky-donara-para-un-beneficio-l/">Igor Lichnovsky donará para un beneficio la camiseta con su apellido mal escrito del amistoso Chile-Rumania</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Redgol</strong>,
-            
-            1 de Jun. de 2018, 13:53.
-        </p>
-        <!--<p class="post-mini-encabezado">El defensor de la Roja mostr&oacute; a trav&eacute;s de Instagram la tricota que tiene sobre el dorsal el apellido incompleto ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/igor-lichnovsky-donara-para-un-beneficio-l/&title=Igor Lichnovsky donará para un beneficio la camiseta con su apellido mal escrito del amistoso Chile-Rumania" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Igor Lichnovsky donará para un beneficio la camiseta con su apellido mal escrito del amistoso Chile-Rumania+http://redgol.cl/2018/6/igor-lichnovsky-donara-para-un-beneficio-l/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/pancho-eguiluz-se-desubico-con-nico-castil/">
-            
-                <img src="https://d.rgcdn.net/e42c40f57c71e7a9315e043dcfb78442/redgol-assets.s3.amazonaws.com/rg-assets_8d9d2faaf94b19e0da913abd819e9eb8page/265x/redgol-assets.s3.amazonaws.jpg" alt="Pancho Eguiluz se desubicó con Nico Castillo: &quot;Basta de Nicolás Tontillo, le faltan palos para el puente&quot; - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/pancho-eguiluz-se-desubico-con-nico-castil/">Pancho Eguiluz se desubicó con Nico Castillo: &quot;Basta de Nicolás Tontillo, le faltan palos para el puente&quot;</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Redgol</strong>,
-            
-            1 de Jun. de 2018, 00:01.
-        </p>
-        <!--<p class="post-mini-encabezado">El periodista de radio La Clave pidi&oacute; la salida del nuevo delantero de Benfica de la selecci&oacute;n chilena y critic&oacute; ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/pancho-eguiluz-se-desubico-con-nico-castil/&title=Pancho Eguiluz se desubicó con Nico Castillo: &quot;Basta de Nicolás Tontillo, le faltan palos para el puente&quot;" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Pancho Eguiluz se desubicó con Nico Castillo: &quot;Basta de Nicolás Tontillo, le faltan palos para el puente&quot;+http://redgol.cl/2018/6/pancho-eguiluz-se-desubico-con-nico-castil/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/el-arrepentimiento-de-nicolas-castillo-pid/">
-            
-                <img src="https://d.rgcdn.net/74e10bf3df082edd84b58d43a7b156b3/redgol-assets.s3.amazonaws.com/rg-assets_53b28b92c9b8f4d1fe2999c123663878castillo/265x/redgol-assets.s3.amazonaws.jpg" alt="El arrepentimiento de Nicolás Castillo: &quot;Pido disculpas a todo al equipo y al cuerpo técnico&quot; - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/el-arrepentimiento-de-nicolas-castillo-pid/">El arrepentimiento de Nicolás Castillo: &quot;Pido disculpas a todo al equipo y al cuerpo técnico&quot;</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            31 de Mayo de 2018, 18:46.
-        </p>
-        <!--<p class="post-mini-encabezado">El delantero de la selecci&oacute;n chilena pidi&oacute; perd&oacute;n por su tonta expulsi&oacute;n ante Rumania y avis&oacute; que "lo &uacute;nico que ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/el-arrepentimiento-de-nicolas-castillo-pid/&title=El arrepentimiento de Nicolás Castillo: &quot;Pido disculpas a todo al equipo y al cuerpo técnico&quot;" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=El arrepentimiento de Nicolás Castillo: &quot;Pido disculpas a todo al equipo y al cuerpo técnico&quot;+http://redgol.cl/2018/5/el-arrepentimiento-de-nicolas-castillo-pid/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/gary-medel-deja-atras-a-gonzalo-jara-y-es/">
-            
-                <img src="https://d.rgcdn.net/4c282106a07d6a99d1080060af03ada2/redgol-assets.s3.amazonaws.com/rg-assets_37e2e77d29493f143eaa77e7de70392fBU6F0044/265x/redgol-assets.s3.amazonaws.jpg" alt="Gary Medel deja atrás a Gonzalo Jara y es el tercer jugador con más partidos por la Roja - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/gary-medel-deja-atras-a-gonzalo-jara-y-es/">Gary Medel deja atrás a Gonzalo Jara y es el tercer jugador con más partidos por la Roja</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Diego Jeria</strong>,
-            
-            31 de Mayo de 2018, 18:27.
-        </p>
-        <!--<p class="post-mini-encabezado">El Pitbull paus&oacute; sus vacaciones para integrarse a la selecci&oacute;n chilena y dejar claro que su liderazgo es incondicional&hellip; Tras ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/gary-medel-deja-atras-a-gonzalo-jara-y-es/&title=Gary Medel deja atrás a Gonzalo Jara y es el tercer jugador con más partidos por la Roja" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Gary Medel deja atrás a Gonzalo Jara y es el tercer jugador con más partidos por la Roja+http://redgol.cl/2018/5/gary-medel-deja-atras-a-gonzalo-jara-y-es/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/la-anfp-dice-que-con-los-titulares-la-roja/">
-            
-                <img src="https://d.rgcdn.net/94e5dad4e28ca92e55f878c14101a954/redgol-assets.s3.amazonaws.com/rg-assets_3dd9ab10baa0748d287f41b9678ba351ere/265x/redgol-assets.s3.amazonaws.jpg" alt="La ANFP dice que con los titulares la Roja no habría jugado ante Rumania en el modesto estadio austriaco - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/la-anfp-dice-que-con-los-titulares-la-roja/">La ANFP dice que con los titulares la Roja no habría jugado ante Rumania en el modesto estadio austriaco</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Daniel Beovic</strong>,
-            
-            31 de Mayo de 2018, 16:14.
-        </p>
-        <!--<p class="post-mini-encabezado">Radio Cooperativa confirm&oacute; el di&aacute;logo que tuvo con la dirigencia nacional, que asumi&oacute; que el recinto no reun&iacute;a las condiciones. ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/la-anfp-dice-que-con-los-titulares-la-roja/&title=La ANFP dice que con los titulares la Roja no habría jugado ante Rumania en el modesto estadio austriaco" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=La ANFP dice que con los titulares la Roja no habría jugado ante Rumania en el modesto estadio austriaco+http://redgol.cl/2018/5/la-anfp-dice-que-con-los-titulares-la-roja/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/miiko-albornoz-tras-ser-capitan-de-la-roja/">
-            
-                <img src="https://d.rgcdn.net/0a43575e163be6289d015fdd3fe7d95f/redgol-assets.s3.amazonaws.com/rg-assets_45a15b70fc7963818b8bb4f4118db97cmiiko/265x/redgol-assets.s3.amazonaws.jpg" alt="Miiko Albornoz tras ser capitán de la Roja: &quot;Me emociona, es un día histórico porque no nací en el país&quot; - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/miiko-albornoz-tras-ser-capitan-de-la-roja/">Miiko Albornoz tras ser capitán de la Roja: &quot;Me emociona, es un día histórico porque no nací en el país&quot;</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            31 de Mayo de 2018, 15:32.
-        </p>
-        <!--<p class="post-mini-encabezado">El lateral zurdo del Hannover 96 ingres&oacute; en el segundo tiempo frente a Rumania y se qued&oacute; con la jineta.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/miiko-albornoz-tras-ser-capitan-de-la-roja/&title=Miiko Albornoz tras ser capitán de la Roja: &quot;Me emociona, es un día histórico porque no nací en el país&quot;" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Miiko Albornoz tras ser capitán de la Roja: &quot;Me emociona, es un día histórico porque no nací en el país&quot;+http://redgol.cl/2018/5/miiko-albornoz-tras-ser-capitan-de-la-roja/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/en-deuda-gonzalo-collao-propicio-dos-goles/">
-            
-                <img src="https://d.rgcdn.net/db071a9ce28b09058b54d884a9c403e3/redgol-assets.s3.amazonaws.com/rg-assets_b0431261526203349b0282dc80fc7e4fcollao/265x/redgol-assets.s3.amazonaws.jpg" alt="En deuda: Gonzalo Collao propició dos goles de Rumania y no convenció en su debut por la Roja - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/en-deuda-gonzalo-collao-propicio-dos-goles/">En deuda: Gonzalo Collao propició dos goles de Rumania y no convenció en su debut por la Roja</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            31 de Mayo de 2018, 13:48.
-        </p>
-        <!--<p class="post-mini-encabezado">El arquero de Cobreloa combin&oacute; buenas con malas, pero fall&oacute; en momentos decisivos en la derrota frente a Rumania.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/en-deuda-gonzalo-collao-propicio-dos-goles/&title=En deuda: Gonzalo Collao propició dos goles de Rumania y no convenció en su debut por la Roja" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=En deuda: Gonzalo Collao propició dos goles de Rumania y no convenció en su debut por la Roja+http://redgol.cl/2018/5/en-deuda-gonzalo-collao-propicio-dos-goles/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/reinaldo-rueda-ellos-desequilibraron-mas-p/">
-            
-                <img src="https://d.rgcdn.net/deef5c90ee04f995f2afd21225ca1a08/redgol-assets.s3.amazonaws.com/rg-assets_602b3f1c1302a3feba3dcab29a89b0b6A_UNO_948325/265x/redgol-assets.s3.amazonaws.jpg" alt="Reinaldo Rueda: “Ellos desequilibraron más por errores nuestros que por virtudes de ellos” - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/reinaldo-rueda-ellos-desequilibraron-mas-p/">Reinaldo Rueda: “Ellos desequilibraron más por errores nuestros que por virtudes de ellos”</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Daniel Beovic</strong>,
-            
-            31 de Mayo de 2018, 13:42.
-        </p>
-        <!--<p class="post-mini-encabezado">El t&eacute;cnico de la Selecci&oacute;n Chilena aplaudi&oacute; el ritmo del equipo y principalmente resalt&oacute; el car&aacute;cter que mostraron los jugadores ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/reinaldo-rueda-ellos-desequilibraron-mas-p/&title=Reinaldo Rueda: “Ellos desequilibraron más por errores nuestros que por virtudes de ellos”" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Reinaldo Rueda: “Ellos desequilibraron más por errores nuestros que por virtudes de ellos”+http://redgol.cl/2018/5/reinaldo-rueda-ellos-desequilibraron-mas-p/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/reinaldo-rueda-y-la-expulsion-de-castillo/">
-            
-                <img src="https://d.rgcdn.net/2e1220c3cebc76509f27e0816d4ea496/redgol-assets.s3.amazonaws.com/rg-assets_c006be32b3b1c087b00bb4a8f5c8da1bpage/265x/redgol-assets.s3.amazonaws.jpg" alt="Reinaldo Rueda y la expulsión de Castillo: “No puede suceder eso, indudablemente afectó mucho al equipo” - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/reinaldo-rueda-y-la-expulsion-de-castillo/">Reinaldo Rueda y la expulsión de Castillo: “No puede suceder eso, indudablemente afectó mucho al equipo”</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Daniel Beovic</strong>,
-            
-            31 de Mayo de 2018, 13:28.
-        </p>
-        <!--<p class="post-mini-encabezado">El DT de la Selecci&oacute;n Chilena habl&oacute; tras la derrota ante Rumania y dijo que no qued&oacute; feliz por el ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/reinaldo-rueda-y-la-expulsion-de-castillo/&title=Reinaldo Rueda y la expulsión de Castillo: “No puede suceder eso, indudablemente afectó mucho al equipo”" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Reinaldo Rueda y la expulsión de Castillo: “No puede suceder eso, indudablemente afectó mucho al equipo”+http://redgol.cl/2018/5/reinaldo-rueda-y-la-expulsion-de-castillo/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/historico-gary-medel-convirtio-a-miiko-alb/">
-            
-                <img src="https://d.rgcdn.net/c8fb18857ecf40b65745eafd25d63b27/redgol-assets.s3.amazonaws.com/rg-assets_3e3c2c2932599f8fdffecc332f391e60page/265x/redgol-assets.s3.amazonaws.jpg" alt="Histórico: Gary Medel convirtió a Miiko Albornoz en el primer capitán nacionalizado de la selección chilena - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/historico-gary-medel-convirtio-a-miiko-alb/">Histórico: Gary Medel convirtió a Miiko Albornoz en el primer capitán nacionalizado de la selección chilena</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Redgol</strong>,
-            
-            31 de Mayo de 2018, 13:19.
-        </p>
-        <!--<p class="post-mini-encabezado">Al ser reemplazado en el duelo de hoy contra Rumania, el Pitbull le pas&oacute; la jineta al jugador de origen ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/historico-gary-medel-convirtio-a-miiko-alb/&title=Histórico: Gary Medel convirtió a Miiko Albornoz en el primer capitán nacionalizado de la selección chilena" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Histórico: Gary Medel convirtió a Miiko Albornoz en el primer capitán nacionalizado de la selección chilena+http://redgol.cl/2018/5/historico-gary-medel-convirtio-a-miiko-alb/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/el-capitan-gary-medel-quiero-felicitar-a-l/">
-            
-                <img src="https://d.rgcdn.net/09a440d12f4b5845644b44c3ab1dca86/redgol-assets.s3.amazonaws.com/rg-assets_bba2aefd98813242bb086ca2a2d508a4A_UNO_948250/265x/redgol-assets.s3.amazonaws.jpg" alt="El capitán Gary Medel: “Quiero felicitar a los que debutaron, con uno menos hicimos un gran partido” - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/el-capitan-gary-medel-quiero-felicitar-a-l/">El capitán Gary Medel: “Quiero felicitar a los que debutaron, con uno menos hicimos un gran partido”</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Daniel Beovic</strong>,
-            
-            31 de Mayo de 2018, 13:12.
-        </p>
-        <!--<p class="post-mini-encabezado">El &iacute;dolo habl&oacute; tras la derrota de la Selecci&oacute;n Chilena ante Rumania y destac&oacute; a los jugadores que cumplieron sus ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/el-capitan-gary-medel-quiero-felicitar-a-l/&title=El capitán Gary Medel: “Quiero felicitar a los que debutaron, con uno menos hicimos un gran partido”" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=El capitán Gary Medel: “Quiero felicitar a los que debutaron, con uno menos hicimos un gran partido”+http://redgol.cl/2018/5/el-capitan-gary-medel-quiero-felicitar-a-l/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/una-locura-hinchas-chilenos-y-rumanos-salt/">
-            
-                <img src="https://d.rgcdn.net/8af67e744d012d21341c57a5d95be80b/redgol-assets.s3.amazonaws.com/rg-assets_bf6f6d752d275902d85a678233b2fd9934101785_2091303561192941_5826991759799877632_n/265x/redgol-assets.s3.amazonaws.jpg" alt="Una locura: hinchas chilenos y rumanos saltaron a la cancha para abrazar a los jugadores nacionales - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/una-locura-hinchas-chilenos-y-rumanos-salt/">Una locura: hinchas chilenos y rumanos saltaron a la cancha para abrazar a los jugadores nacionales</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            31 de Mayo de 2018, 13:11.
-        </p>
-        <!--<p class="post-mini-encabezado">Aprovechando las pobres medidas de seguridad del humilde estadio&nbsp;Sportzentrum Graz-Weinzodl, los hinchas invadieron la cancha tras el pitazo final del ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/una-locura-hinchas-chilenos-y-rumanos-salt/&title=Una locura: hinchas chilenos y rumanos saltaron a la cancha para abrazar a los jugadores nacionales" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Una locura: hinchas chilenos y rumanos saltaron a la cancha para abrazar a los jugadores nacionales+http://redgol.cl/2018/5/una-locura-hinchas-chilenos-y-rumanos-salt/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/primera-derrota-de-la-era-rueda-chile-luch/">
-            
-                <img src="https://d.rgcdn.net/b09262f3b6d26dfb9c62cf11d45cbf52/redgol-assets.s3.amazonaws.com/rg-assets_2e170f3d9722ce2a7abe49b0746bfff4lorenzo/265x/redgol-assets.s3.amazonaws.jpg" alt="Primera derrota de la era Rueda: Chile luchó con un jugador menos, pero terminó cediendo ante Rumania - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/primera-derrota-de-la-era-rueda-chile-luch/">Primera derrota de la era Rueda: Chile luchó con un jugador menos, pero terminó cediendo ante Rumania</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            31 de Mayo de 2018, 12:56.
-        </p>
-        <!--<p class="post-mini-encabezado">La selecci&oacute;n rumana derrot&oacute; por tercera vez consecutiva a Chile en un amistoso internacional jugado en Austria.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/primera-derrota-de-la-era-rueda-chile-luch/&title=Primera derrota de la era Rueda: Chile luchó con un jugador menos, pero terminó cediendo ante Rumania" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Primera derrota de la era Rueda: Chile luchó con un jugador menos, pero terminó cediendo ante Rumania+http://redgol.cl/2018/5/primera-derrota-de-la-era-rueda-chile-luch/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/pablo-pozo-explica-la-rara-expulsion-de-ca/">
-            
-                <img src="https://d.rgcdn.net/4c86c23a88605601c605d090c8e1b056/redgol-assets.s3.amazonaws.com/rg-assets_f869d9ab3249e177fa8896927e7e87d4page/265x/redgol-assets.s3.amazonaws.jpg" alt="Pablo Pozo explica la rara expulsión de Castillo, la repetición del tiro libre y el 1-1 de Chile ante Rumania - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/pablo-pozo-explica-la-rara-expulsion-de-ca/">Pablo Pozo explica la rara expulsión de Castillo, la repetición del tiro libre y el 1-1 de Chile ante Rumania</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Redgol</strong>,
-            
-            31 de Mayo de 2018, 12:22.
-        </p>
-        <!--<p class="post-mini-encabezado">El &eacute;x &aacute;rbitro mundialista asegura que el &aacute;rbitro interpret&oacute; que el codazo del delantero chileno se produjo antes de que ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/pablo-pozo-explica-la-rara-expulsion-de-ca/&title=Pablo Pozo explica la rara expulsión de Castillo, la repetición del tiro libre y el 1-1 de Chile ante Rumania" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Pablo Pozo explica la rara expulsión de Castillo, la repetición del tiro libre y el 1-1 de Chile ante Rumania+http://redgol.cl/2018/5/pablo-pozo-explica-la-rara-expulsion-de-ca/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/goool-lorenzo-reyes-anoto-con-una-patriada/">
-            
-                <img src="https://d.rgcdn.net/93dd4cc413c1785b007c74ddd3a024d1/redgol-assets.s3.amazonaws.com/rg-assets_ce24676da2619d621070a354e0880576lore/265x/redgol-assets.s3.amazonaws.jpg" alt="¡Goool! Lorenzo Reyes anotó con una patriada y Chile se puso en ventaja con un jugador menos - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/goool-lorenzo-reyes-anoto-con-una-patriada/">¡Goool! Lorenzo Reyes anotó con una patriada y Chile se puso en ventaja con un jugador menos</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            31 de Mayo de 2018, 12:16.
-        </p>
-        <!--<p class="post-mini-encabezado">A los 52 minutos, el volante de la U anot&oacute; su primer gol por la selecci&oacute;n chilena, tras una gran ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/goool-lorenzo-reyes-anoto-con-una-patriada/&title=¡Goool! Lorenzo Reyes anotó con una patriada y Chile se puso en ventaja con un jugador menos" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=¡Goool! Lorenzo Reyes anotó con una patriada y Chile se puso en ventaja con un jugador menos+http://redgol.cl/2018/5/goool-lorenzo-reyes-anoto-con-una-patriada/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
 <article class="post-medium-articulo">
-	<a class="post-medium-titulo" href="/2018/5/goool-maripan-le-marco-a-rumania-de-cabeza/">¡Goool! Maripán le marcó a Rumania de cabeza, justo después de que expulsaran a Nico Castillo</a>
+	<a class="post-medium-titulo" href="/2018/6/con-allende-a-la-cabeza-la-roja-sub-20-ven/">Con gol de Marcelo Allende, la selección Sub 20 venció a Venezuela y se metió en semis de Cochabamba 2018</a>
 	<div class="post-medium-imagen">
-		<a href="/2018/5/goool-maripan-le-marco-a-rumania-de-cabeza/">
+		<a href="/2018/6/con-allende-a-la-cabeza-la-roja-sub-20-ven/">
 			
-				<img src="https://d.rgcdn.net/5767f22775c1b1961598d24163997549/redgol-assets.s3.amazonaws.com/rg-assets_547503cac2d21ec062186951031866ac34047767_2091275751195722_4575138286279852032_n/670x275c/redgol-assets.s3.amazonaws.jpg" alt="¡Goool! Maripán le marcó a Rumania de cabeza, justo después de que expulsaran a Nico Castillo - RedGol">
+				<img src="https://d.rgcdn.net/dde8a68908254ce4565eac9fbddf4f26/redgol-assets.s3.amazonaws.com/rg-assets_3f1b02e2b61db8d08f82eaa6341d544fsagasgasgasghash/670x275c/redgol-assets.s3.amazonaws.jpg" alt="Con gol de Marcelo Allende, la selección Sub 20 venció a Venezuela y se metió en semis de Cochabamba 2018 - RedGol">
 			
 		</a>
 		<div class="post-medium-social-fb">
-			<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/goool-maripan-le-marco-a-rumania-de-cabeza/&title=¡Goool! Maripán le marcó a Rumania de cabeza, justo después de que expulsaran a Nico Castillo" rel="nofollow" title="Compartir">
+			<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/con-allende-a-la-cabeza-la-roja-sub-20-ven/&title=Con gol de Marcelo Allende, la selección Sub 20 venció a Venezuela y se metió en semis de Cochabamba 2018" rel="nofollow" title="Compartir">
 				<img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
 			</a>
 		</div>
 		<div class="post-medium-social-tw">
-			<a href="http://twitter.com/intent/tweet?status=¡Goool! Maripán le marcó a Rumania de cabeza, justo después de que expulsaran a Nico Castillo+http://redgol.cl/2018/5/goool-maripan-le-marco-a-rumania-de-cabeza/" rel="nofollow" title="Tweet">
+			<a href="http://twitter.com/intent/tweet?status=Con gol de Marcelo Allende, la selección Sub 20 venció a Venezuela y se metió en semis de Cochabamba 2018+http://redgol.cl/2018/6/con-allende-a-la-cabeza-la-roja-sub-20-ven/" rel="nofollow" title="Tweet">
 				<img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
 			</a>
 		</div>
 	</div>
 	<p class="post-medium-meta">
 		
-			<strong class="post-medium-strong">David Fernández</strong>,
+			<strong class="post-medium-strong">Sebastián Munizaga</strong>,
 		
-		31 de Mayo de 2018, 11:49.
+		1 de Jun. de 2018, 18:38.
 	</p>
 </article>
 <div class="post-medium-separador"></div>
@@ -8047,6 +8069,156 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
     </script>
 </div>
     <div class="di-schedule-content">
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Defensor Sporting v/s Peñarol</p>
+                    <p class="di-event-txt-description">Campeonato Uruguayo</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_f35992e8156e039d94ecf13917e47e3clogo" alt="Gol TV Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">15:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Inglaterra v/s Costa Rica</p>
+                    <p class="di-event-txt-description">Amistoso</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_9560bff23fdd980510788d093258dc3cespn2" alt="ESPN 2" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">16:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Islandia v/s Ghana</p>
+                    <p class="di-event-txt-description">Amistoso</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_01076c5a0d4151067ba30dcac359df9fFox_Sports_Logo" alt="Fox Sports" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event di-event-now">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day-number di-event-now">AHORA</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Zamora v/s Caracas</p>
+                    <p class="di-event-txt-description">Primera Venezuela</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event di-event-now">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day-number di-event-now">AHORA</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Fluminense v/s Flamengo</p>
+                    <p class="di-event-txt-description">Brasileirao</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">8</span>
+                        <span class="di-span di-event-hour">14:45</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Polonia v/s Chile</p>
+                    <p class="di-event-txt-description">Amistoso</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_91afa8b5858b6af0c83d33ec6b85730bFox_Sports_1_%28Chile%29" alt="Fox Sports 1" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">8</span>
+                        <span class="di-span di-event-hour">21:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Deportivo Cuenca v/s Delfín</p>
+                    <p class="di-event-txt-description">Primera Ecuador</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">8</span>
+                        <span class="di-span di-event-hour">21:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Cleveland Cavs v/s GS Warriors</p>
+                    <p class="di-event-txt-description">NBA Finals / Juego 4</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_b5c1bcb362edccec778b7f8b97b891efespn" alt="ESPN" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
         
     </div>
 </div>

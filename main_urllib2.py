@@ -10,6 +10,8 @@ import socket
 import time
 import re
 from openpyxl import load_workbook
+from openpyxl.utils import get_column_letter
+from openpyxl.styles.fills import PatternFill
 from bs4 import BeautifulSoup, UnicodeDammit
 
 # Configure opener to accept cookies and handle HTTP/HTTPS
@@ -50,24 +52,48 @@ def get_content(url):
 
     return content
 
+def clean_wb(wb,ws,ws2):
+#     wb.remove(ws2)
+#     wb.create_sheet("Output")
+
+    for row in ws['B2:D{0}'.format(ws.max_row)]:
+      for cell in row:
+        cell.value = None
+
+    for row in ws2['A1:{0}{1}'.format(get_column_letter(ws2.max_column),ws2.max_row)]:
+      for cell in row:
+        cell.value = None
+
+    wb.save("Ads_Crawler.xlsx")
+
 # EXCEL
 wb = load_workbook('Ads_Crawler.xlsx')
-ws = wb['Sheet1']
-search_set = set()
+ws = wb['Input']
+ws2 = wb['Output']
+search_list = []
 url_list = []
 src = ""
 html = ""
-    # Construct search_set
-for cell in ws['F']:
+
+clean_wb(wb,ws,ws2)
+
+# Construct search_list
+for col, cell in enumerate(ws['F'], start=1):
    if cell.value and cell.value != u'Search for:':
        cell_str = (cell.value).encode('utf-8').strip()
-       search_set.add(cell_str)
+       search_list.append(cell_str)
+
+       # Populate 'Output' tab headers
+       ws2.cell(row=1,column=col).value = cell_str
+
 # /EXCEL
 
 # EXCEL
+# Construct url_list
 for row in ws['A{}:A{}'.format(ws.min_row + 1, ws.max_row)]:
     for cell in row:
-        url_list.append("http://{0}/ads.txt".format( (cell.value).encode('utf-8').strip()) )
+        if cell.value:
+            url_list.append("http://{0}/ads.txt".format( (cell.value).encode('utf-8').strip()) )
 
 # Add one to list length to accound for start=2 below
 max_row = len(url_list) + 1
@@ -78,6 +104,8 @@ for row, url in enumerate(url_list, start=2):
     print "____________________________"
     print url
     print ""
+
+    ws2['{0}{1}'.format("A",row)] = url
 
     # Attempt to open URL
     try:
@@ -103,7 +131,7 @@ for row, url in enumerate(url_list, start=2):
         src = ""
         html = ""
     except socket.timeout as e:
-        print e.reason    #catched
+        print e    #catched
         src = ""
         html = ""
 
@@ -115,17 +143,40 @@ for row, url in enumerate(url_list, start=2):
     # If successful, continue with searches
     else:
         # Loop through search_set from wb
-        for search_str in search_set:
+        for col, search_str in enumerate(search_list, start=2):
+        # for search_str in search_set:
             # Check for desired text
             text_found = re.search(r'(\<|\,| ){0}(\>|\,| )'.format(search_str), src)
 
             # Confirm if found and choose column accordingly
             if text_found:
+                # Input tab
                 column = "B"
+
+                # Output tab
+                response = "Pass"
+                colorFill = PatternFill(start_color='00FF00',
+                   end_color='00FF00',
+                   fill_type='solid')
+
+                # Log response to terminal
                 print "{0} found!".format(search_str)
             else:
+                # Input tab
                 column = "C"
+
+                # Output tab
+                response = "Fail"
+                colorFill = PatternFill(start_color='FF0000',
+                   end_color='FF0000',
+                   fill_type='solid')
+
+                # Log response to terminal
                 print "{0} not found!".format(search_str)
+
+            # Populate 'Output' tab body
+            ws2.cell(row=row,column=col).value = response
+            ws2.cell(row=row,column=col).fill= colorFill
 
             # Populate spreadsheet using column above
             if ws['{0}{1}'.format(column,row)].value:

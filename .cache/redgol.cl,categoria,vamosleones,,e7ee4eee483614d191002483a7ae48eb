@@ -1,20 +1,20 @@
 status: 200
 expect-ct: max-age=604800,
  report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
-content-length: 484778
+content-length: 493292
 content-location: https://redgol.cl/categoria/vamosleones/
-set-cookie: __cfduid=d1489fd5f6c96ecec08c1ea20bc5a0b491528231227;
- expires=Wed, 05-Jun-19 20:40:27 GMT; path=/; domain=.redgol.cl; HttpOnly;
+set-cookie: __cfduid=d11e7fa06d3ab6fcf3fd68f1170b89be51528414122;
+ expires=Fri, 07-Jun-19 23:28:42 GMT; path=/; domain=.redgol.cl; HttpOnly;
  Secure
 vary: Accept-Encoding
 server: cloudflare
 connection: keep-alive
 -content-encoding: gzip
-date: Tue, 05 Jun 2018 20:40:28 GMT
+date: Thu, 07 Jun 2018 23:28:42 GMT
 access-control-allow-origin: *
 access-control-allow-methods: GET, POST, OPTIONS
 content-type: text/html; charset=utf-8
-cf-ray: 42657452cd4a9991-LAX
+cf-ray: 4276e5893aed53e4-LAX
 -varied-accept-encoding: gzip, deflate
 
 
@@ -5982,10 +5982,32 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
 
         
         
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '221817805287360');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=221817805287360&ev=PageView&noscript=1"/>
+        </noscript>
+        <!-- End Facebook Pixel Code -->
     </head>
 
     
-    <body id="rg-body" class="nativeRG">   
+    <body id="rg-body" class="nativeRG">
+        <script>
+            fbq('track', 'ViewContent', {
+                content_ids: 'view content - futbolsites',
+            });
+        </script>
     
         <div id="fb-root"></div>
         <script>
@@ -6119,16 +6141,16 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/alexis-sanchez/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/da144bf409b9c4d7879db386de27ab48/redgol-assets.s3.amazonaws.com/rg-assets_2ae81493f9ce7ac0681250b9f2d7e1f7fred/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/f356b901f7ac0285784448c4fcb4d8c6/redgol-assets.s3.amazonaws.com/rg-assets_827917d15b7a9a616dd8b951c097997dpage/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/nuevo-companero-de-alexis-manchester-unite/">Nuevo compañero de Alexis: Manchester United anunció el fichaje del brasileño Fred</a>
+                        <a href="/2018/6/marvel-publico-una-serie-de-comic-de-la-co/">Marvel publicó una serie de comic de la Copa del Mundo Rusia ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/6/alexis-sanchez-termino-su-torneo-en-tocopi/">Alexis Sánchez terminó su torneo en Tocopilla bailando al ritmo del sound ...</a>
+                        <a href="/2018/6/thibaut-courtois-recuerda-que-alexis-sanch/">Thibaut Courtois recuerda que Alexis Sánchez le dio el mismo golpe que ...</a>
                     </li>
                 
         
@@ -6138,8 +6160,19 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         <ul>
             
                 <li>
+                    <a href="/2018/6/nuevo-companero-de-alexis-manchester-unite/">Nuevo compañero de Alexis: Manchester United anunció el fichaje del brasileño Fred</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/6/alexis-sanchez-termino-su-torneo-en-tocopi/">Alexis Sánchez terminó su torneo en Tocopilla bailando al ritmo del sound del Grupo Alegría</a>
+                </li>
+            
+                <li>
                     <a href="/2018/6/el-gran-alexis-sanchez-esta-de-vacaciones/">El gran Alexis Sánchez está de vacaciones en Chile y organiza un torneo de futbolito para ...</a>
                 </li>
+            
+        </ul>
+        <ul>
             
                 <li>
                     <a href="/2018/5/alexis-sanchez-cae-11-lugares-en-ranking-d/">Alexis Sánchez cae 11 lugares en ránking de los deportistas más famosos del mundo de ESPN: ...</a>
@@ -6149,19 +6182,8 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                     <a href="/2018/5/vuelve-fotolog-recuerda-las-mejores-fotos/">¡Vuelve Fotolog! Recuerda las mejores fotos del joven crack Alexis Sánchez en la vetusta red social</a>
                 </li>
             
-        </ul>
-        <ul>
-            
                 <li>
                     <a href="/2018/5/reinaldo-rueda-confirma-las-jinetas-de-la/">Reinaldo Rueda confirma las jinetas de la Roja: &quot;Siempre ha habido tres capitanes: Bravo, Gary y ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/hijo-de-manuel-pellegrini-lo-confirma-trat/">Hijo de Manuel Pellegrini lo confirma: “Trató de llevar 200 veces a Alexis Sánchez y Arturo ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/eden-hazard-troleo-a-alexis-sanchez-por-ch/">Eden Hazard troleó a Alexis Sánchez por chico y el chileno cambió de mascota con Pogba ...</a>
                 </li>
             
         </ul>
@@ -6177,16 +6199,16 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/arturo-vidal/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/3709766171d9168d616208b199cc89a4/redgol-assets.s3.amazonaws.com/rg-assets_ee1bde06be47a31f165c099ccd54f9b8GettyImages-805714556/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/4431d1bd73978a2ede5b59da7942c919/redgol-assets.s3.amazonaws.com/rg-assets_42b93399b4176fb0687e3efa1658f550egge/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/">Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo ...</a>
+                        <a href="/2018/6/rueda-tal-como-lewandowski-es-considerado/">Rueda: “Tal como Lewandowski es considerado un rey en Polonia, Chile tiene ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/6/arturo-vidal-dejo-pagando-a-los-mas-de-600/">Arturo Vidal dejó pagando a los más de 600 hinchas que fueron ...</a>
+                        <a href="/2018/6/fotos-arturo-vidal-se-subio-al-viaje-de-la/">[Fotos] Arturo Vidal se subió al viaje de la selección a Polonia, ...</a>
                     </li>
                 
         
@@ -6196,30 +6218,30 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         <ul>
             
                 <li>
-                    <a href="/2018/6/arturo-vidal-y-sus-candidatos-a-la-copa-de/">Arturo Vidal y sus candidatos a la Copa del Mundo: “Alemania, Colombia por a mi amigo ...</a>
+                    <a href="/2018/6/arturo-vidal-celebra-el-oro-de-la-sub-20-e/">Arturo Vidal celebra el oro de la Sub 20 en los Odesur: &quot;En el futuro tienen ...</a>
                 </li>
             
                 <li>
-                    <a href="/2018/6/arturo-vidal-con-la-roja-voy-a-estar-aca-h/">Arturo Vidal con la Roja: &quot;Voy a estar acá hasta el martes y después iré a ...</a>
+                    <a href="/2018/6/video-king-arturo-llego-a-austria-estoy-fe/">[Video] King Arturo llegó a Austria: &quot;Estoy feliz de estar acá, aunque tenga que perder días ...</a>
                 </li>
             
                 <li>
-                    <a href="/2018/6/diario-bild-asegura-que-bayern-y-su-nuevo/">Diario Bild asegura que Bayern y su nuevo técnico declararon transferibles a Arturo Vidal, Boateng y ...</a>
+                    <a href="/2018/6/arturo-vidal-viaja-rumbo-a-encontrarse-con/">Arturo Vidal viaja a encontrarse con la Roja y bromea: “No creo que no me pasen ...</a>
                 </li>
             
         </ul>
         <ul>
             
                 <li>
-                    <a href="/2018/5/hijo-de-manuel-pellegrini-lo-confirma-trat/">Hijo de Manuel Pellegrini lo confirma: “Trató de llevar 200 veces a Alexis Sánchez y Arturo ...</a>
+                    <a href="/2018/6/arturo-vidal-dejo-pagando-a-los-mas-de-600/">Arturo Vidal dejó pagando a los más de 600 hinchas que fueron a verlo a él ...</a>
                 </li>
             
                 <li>
-                    <a href="/2018/5/arturo-vidal-me-queda-un-ano-de-contrato-c/">Arturo Vidal: “Me queda un año de contrato con Bayern; si sigo o me voy tengo ...</a>
+                    <a href="/2018/6/arturo-vidal-y-sus-candidatos-a-la-copa-de/">Arturo Vidal y sus candidatos a la Copa del Mundo: “Alemania, Colombia por a mi amigo ...</a>
                 </li>
             
                 <li>
-                    <a href="/2018/5/vidal-y-polemica-con-bravo-ahora-ni-yo-ni/">Vidal y polémica con Bravo: “Ahora ni yo ni él estamos en la selección y el ...</a>
+                    <a href="/2018/6/arturo-vidal-con-la-roja-voy-a-estar-aca-h/">Arturo Vidal con la Roja: &quot;Voy a estar acá hasta el martes y después iré a ...</a>
                 </li>
             
         </ul>
@@ -6238,16 +6260,16 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/motor/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/3ce2fc927b6f4615dba63d51718e9e22/redgol-assets.s3.amazonaws.com/rg-assets_c705c63709477551d7c8a15d2f843fd0porta/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/29ea895124524883a00d8e2e6e5ff5d0/redgol-assets.s3.amazonaws.com/rg-assets_02efdda095cd977f32c031f74370ff3apage/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/">Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile ...</a>
+                        <a href="/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/">Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/6/pilotos-chilenos-se-reunieron-para-conocer/">Pilotos chilenos se reunieron para conocer las novedades del próximo Dakar, cien ...</a>
+                        <a href="/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/">Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista ...</a>
                     </li>
                 
         
@@ -6257,8 +6279,19 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         <ul>
             
                 <li>
+                    <a href="/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/">Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los ...</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/6/pilotos-chilenos-se-reunieron-para-conocer/">Pilotos chilenos se reunieron para conocer las novedades del próximo Dakar, cien por ciento peruano</a>
+                </li>
+            
+                <li>
                     <a href="/2018/5/benjamin-herrera-gano-a-lo-campeon-la-prim/">Benjamín Herrera ganó a lo campeón la primera fecha del Nacional de Enduro FIM en Concón</a>
                 </li>
+            
+        </ul>
+        <ul>
             
                 <li>
                     <a href="/2018/5/ignacio-casale-deja-los-quads-para-ser-el/">Ignacio Casale deja los quads para ser el primer chileno en ganar el Rally Dakar en ...</a>
@@ -6268,19 +6301,8 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                     <a href="/2018/5/alejandro-sepulveda-quiere-seguir-creciend/">Alejandro Sepúlveda quiere seguir creciendo en la Formula Total. &quot;Corro con los mejores de Sudamérica&quot;</a>
                 </li>
             
-        </ul>
-        <ul>
-            
                 <li>
                     <a href="/2018/5/la-formula-1-producira-un-programa-exclusi/">La Fórmula 1 producirá un programa exclusivo post GP que será transmitido por Twitter</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/4/wenger-invito-a-lewis-hamilton-a-entrenar/">Wenger invitó a Lewis Hamilton a entrenar con el Arsenal: &quot;Siempre tuve una gran admiración por ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/4/pedro-heller-gano-mirando-para-atras-en-la/">Pedro Heller ganó mirando para atrás en la fecha de RallyMobil más internacional de la historia, ...</a>
                 </li>
             
         </ul>
@@ -6296,22 +6318,37 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/videojuegos/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/5ed2858b0af6331b87a15e05953786fd/redgol-assets.s3.amazonaws.com/rg-assets_c27491242ac0d8500999fc97aeb5b9e7porta/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/19484838ca92abc1fe9dfa8c199ef29e/redgol-assets.s3.amazonaws.com/rg-assets_824904168abbd2e4a07982e407df958afifa19/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/notable-casemiro-le-dio-una-verdadera-pali-1/">¡Notable! Casemiro le dio una verdadera paliza a Dani Carvajal en el ...</a>
+                        <a href="/2018/6/cr7-y-real-madrid-ea-sports-anuncio-que-el/">CR7 y Real Madrid: EA Sports anunció que el 9 de junio ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/6/exclusiva-claudio-palma-confirmo-su-partic/">Exclusiva: Claudio Palma confirmó su participación en PES 2019 con un relato ...</a>
+                        <a href="/2018/6/palestino-y-u-catolica-jugaron-un-entreten/">Palestino y U. Católica jugaron un entretenido amistoso en la previa de ...</a>
                     </li>
                 
         
         </ul>
     </div>
     <div class="more-category-post">
+        <ul>
+            
+                <li>
+                    <a href="/2018/6/2k-celebra-los-20-anos-de-su-franquicia-de/">2K celebra los 20 años de su franquicia de básquetbol con LeBron James en la portada ...</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/6/notable-casemiro-le-dio-una-verdadera-pali-1/">¡Notable! Casemiro le dio una verdadera paliza a Dani Carvajal en el duelo Brasil-España por FIFA ...</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/6/exclusiva-claudio-palma-confirmo-su-partic/">Exclusiva: Claudio Palma confirmó su participación en PES 2019 con un relato renovado y futbolero</a>
+                </li>
+            
+        </ul>
         <ul>
             
                 <li>
@@ -6327,21 +6364,6 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 </li>
             
         </ul>
-        <ul>
-            
-                <li>
-                    <a href="/2018/5/la-copa-claro-gamer-de-esports-13-premiara/">La Copa Claro Gamer de eSports 13 premiará con 3 millones de pesos al campeón de ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/anfp-lanzo-su-primer-torneo-profesional-de/">ANFP lanzó su primer torneo profesional de eSports en FIFA 18 que disputarán 12 clubes chilenos</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/pes-2019-contara-con-7-nuevas-ligas-totalm/">PES 2019 contará con 7 nuevas ligas totalmente licenciadas y faltan 2 más por anunciar</a>
-                </li>
-            
-        </ul>
     </div>
 </div>
 
@@ -6354,22 +6376,37 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
                     <li class="principal-category-post">
                         <a href="/categoria/nba/" style="margin-left: 0px; width: 240px;">
-                            <img src="https://d.rgcdn.net/fd7086adc76f5982583bd982fbc50ed5/redgol-assets.s3.amazonaws.com/rg-assets_3c78d8b58fc2406ceddb177b19e78c3ccurry/225x150c/redgol-assets.s3.amazonaws.jpg">
+                            <img src="https://d.rgcdn.net/3d3e2963d9fee3ae3ded9dbc71880da2/redgol-assets.s3.amazonaws.com/rg-assets_c1397bee5671f55733d11cc10c7c8202lebron/225x150c/redgol-assets.s3.amazonaws.jpg">
                         </a>
-                        <a href="/2018/6/stephen-curry-aplasto-a-los-cavaliers-y-de/">Stephen Curry aplastó a los Cavaliers y dejó 2-0 a Golden State ...</a>
+                        <a href="/2018/6/bomba-lebron-james-se-reunira-con-los-gold/">Bomba: LeBron James se reunirá con los Golden State en verano para ...</a>
                     </li>
                 
         
             <ul>
                 
                      <li>
-                        <a href="/2018/5/golden-state-se-corono-campeon-del-oeste-t/">Golden State se coronó campeón del Oeste tras vencer a Houston y ...</a>
+                        <a href="/2018/6/kevin-durant-enterro-a-cleveland-y-dejo-a/">Kevin Durant enterró a Cleveland y dejó a los Warriors a un ...</a>
                     </li>
                 
         
         </ul>
     </div>
     <div class="more-category-post">
+        <ul>
+            
+                <li>
+                    <a href="/2018/6/2k-celebra-los-20-anos-de-su-franquicia-de/">2K celebra los 20 años de su franquicia de básquetbol con LeBron James en la portada ...</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/6/stephen-curry-aplasto-a-los-cavaliers-y-de/">Stephen Curry aplastó a los Cavaliers y dejó 2-0 a Golden State en la final de ...</a>
+                </li>
+            
+                <li>
+                    <a href="/2018/5/golden-state-se-corono-campeon-del-oeste-t/">Golden State se coronó campeón del Oeste tras vencer a Houston y se medirá a los ...</a>
+                </li>
+            
+        </ul>
         <ul>
             
                 <li>
@@ -6382,21 +6419,6 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             
                 <li>
                     <a href="/2018/5/un-inspirado-lebron-james-guio-a-los-caval/">Un inspirado LeBron James guió a los Cavaliers para empatar la final de conferencia contra los ...</a>
-                </li>
-            
-        </ul>
-        <ul>
-            
-                <li>
-                    <a href="/2018/5/houston-rockets-derroto-a-golden-state-y-e/">Houston Rockets derrotó a Golden State y empató la final de la Conferencia Oeste de la ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/celtics-se-puso-2-0-en-la-final-de-la-conf/">Celtics se puso 2-0 en la final de la Conferencia Este y mandó a la basura ...</a>
-                </li>
-            
-                <li>
-                    <a href="/2018/5/boston-celtics-aplasto-a-los-cavaliers-en/">Boston Celtics aplastó a los Cavaliers en el primer partido de la final de la Conferencia ...</a>
                 </li>
             
         </ul>
@@ -6598,32 +6620,140 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
 
 <article id="post-featured-articulo">
-	<a id="post-featured-imagen" href="/2018/6/programacion-colo-colo-la-u-y-la-uc-inicia/">
+	<a id="post-featured-imagen" href="/2018/6/mauricio-pinilla-revelo-las-reliquias-hist/">
 		
-			<img src="https://d.rgcdn.net/ec7c8e95ef9290861ea9e5135fd4399c/redgol-assets.s3.amazonaws.com/rg-assets_85d781632055bd001ab4358cef7d82e4page/670x/redgol-assets.s3.amazonaws.jpg" alt="[Programación] Colo Colo, la U y la UC inician el semestre en Copa Chile ante la Primera B este fin de semana - RedGol">
+			<img src="https://d.rgcdn.net/aa48fb977a6a633b4b7214b36ec1db78/redgol-assets.s3.amazonaws.com/rg-assets_39ce9f7c8536dc09c13a56cf8d3432cepage/670x/redgol-assets.s3.amazonaws.jpg" alt="Mauricio Pinilla reveló las reliquias históricas de su carrera: &quot;Le &#39;robé&#39; la camiseta a Thierry Henry&quot; - RedGol">
 		
 	</a>
 	<div id="post-featured-contenido">
-		<p id="post-featured-titulo">[Programación] Colo Colo, la U y la UC inician el semestre en Copa Chile ante la Primera B este fin de semana</p>
+		<p id="post-featured-titulo">Mauricio Pinilla reveló las reliquias históricas de su carrera: &quot;Le &#39;robé&#39; la camiseta a Thierry Henry&quot;</p>
 		<p id="post-featured-meta">
 			
 				<strong id="post-featured-strong">Redgol</strong>,
 			
-			5 de Jun. de 2018, 14:04.
+			7 de Jun. de 2018, 10:06.
 		</p>
 	</div>
 	<div id="post-featured-social-fb">
-		<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/programacion-colo-colo-la-u-y-la-uc-inicia/&title=[Programación] Colo Colo, la U y la UC inician el semestre en Copa Chile ante la Primera B este fin de semana" rel="nofollow" title="Compartir">
+		<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/mauricio-pinilla-revelo-las-reliquias-hist/&title=Mauricio Pinilla reveló las reliquias históricas de su carrera: &quot;Le &#39;robé&#39; la camiseta a Thierry Henry&quot;" rel="nofollow" title="Compartir">
 			<img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
 		</a>
 	</div>
 	<div id="post-featured-social-tw">
-		<a href="http://twitter.com/intent/tweet?status=[Programación] Colo Colo, la U y la UC inician el semestre en Copa Chile ante la Primera B este fin de semana+http://redgol.cl/2018/6/programacion-colo-colo-la-u-y-la-uc-inicia/" rel="nofollow" title="Tweet">
+		<a href="http://twitter.com/intent/tweet?status=Mauricio Pinilla reveló las reliquias históricas de su carrera: &quot;Le &#39;robé&#39; la camiseta a Thierry Henry&quot;+http://redgol.cl/2018/6/mauricio-pinilla-revelo-las-reliquias-hist/" rel="nofollow" title="Tweet">
 			<img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
 		</a>
 	</div>
-	<a id="post-featured-enlace" href="/2018/6/programacion-colo-colo-la-u-y-la-uc-inicia/"></a>
+	<a id="post-featured-enlace" href="/2018/6/mauricio-pinilla-revelo-las-reliquias-hist/"></a>
 </article>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/morelia-culpa-a-sergio-gioino-del-fracaso/">
+            
+                <img src="https://d.rgcdn.net/a4e41dea99556fdefd2bbf83ab11c783/redgol-assets.s3.amazonaws.com/rg-assets_9c87a6639f157833859f6075e682e1f4cats/265x/redgol-assets.s3.amazonaws.jpg" alt="Morelia culpa a Sergio Gioino del fracaso en el traspaso de Felipe Mora desde Cruz Azul: &quot;Entorpeció todo&quot; - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/morelia-culpa-a-sergio-gioino-del-fracaso/">Morelia culpa a Sergio Gioino del fracaso en el traspaso de Felipe Mora desde Cruz Azul: &quot;Entorpeció todo&quot;</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            7 de Jun. de 2018, 09:40.
+        </p>
+        <!--<p class="post-mini-encabezado">El agente fue indicado como responsable de que se cayera el traspaso del delantero nacional.</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/morelia-culpa-a-sergio-gioino-del-fracaso/&title=Morelia culpa a Sergio Gioino del fracaso en el traspaso de Felipe Mora desde Cruz Azul: &quot;Entorpeció todo&quot;" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Morelia culpa a Sergio Gioino del fracaso en el traspaso de Felipe Mora desde Cruz Azul: &quot;Entorpeció todo&quot;+http://redgol.cl/2018/6/morelia-culpa-a-sergio-gioino-del-fracaso/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/mauricio-pinilla-habla-de-lo-humano-y-lo-d/">
+            
+                <img src="https://d.rgcdn.net/b3e8f2d7ef3171bef474699a502dfb12/redgol-assets.s3.amazonaws.com/rg-assets_d42b001df9bdc818a93b4d74a76c7ebfpini/265x/redgol-assets.s3.amazonaws.jpg" alt="Mauricio Pinilla habla de lo humano y lo divino con Los de Abajo: &quot;Hace poco aprendí a disfrutar la piscolita&quot; - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/mauricio-pinilla-habla-de-lo-humano-y-lo-d/">Mauricio Pinilla habla de lo humano y lo divino con Los de Abajo: &quot;Hace poco aprendí a disfrutar la piscolita&quot;</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            7 de Jun. de 2018, 09:12.
+        </p>
+        <!--<p class="post-mini-encabezado">El delantero de Universidad de Chile se confes&oacute; en una extensa entrevista con el canal de Youtube de la barra ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/mauricio-pinilla-habla-de-lo-humano-y-lo-d/&title=Mauricio Pinilla habla de lo humano y lo divino con Los de Abajo: &quot;Hace poco aprendí a disfrutar la piscolita&quot;" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Mauricio Pinilla habla de lo humano y lo divino con Los de Abajo: &quot;Hace poco aprendí a disfrutar la piscolita&quot;+http://redgol.cl/2018/6/mauricio-pinilla-habla-de-lo-humano-y-lo-d/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/programacion-colo-colo-la-u-y-la-uc-inicia/">
+            
+                <img src="https://d.rgcdn.net/9ee626f2fc78c9754809f43efeac5f97/redgol-assets.s3.amazonaws.com/rg-assets_85d781632055bd001ab4358cef7d82e4page/265x/redgol-assets.s3.amazonaws.jpg" alt="[Programación] Colo Colo, la U y la UC inician el semestre en Copa Chile ante la Primera B este fin de semana - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/programacion-colo-colo-la-u-y-la-uc-inicia/">[Programación] Colo Colo, la U y la UC inician el semestre en Copa Chile ante la Primera B este fin de semana</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            5 de Jun. de 2018, 14:04.
+        </p>
+        <!--<p class="post-mini-encabezado">Revisa la agenda y el horario de las llaves de la segunda ronda del certamen copero, que comienzan este s&aacute;bado ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/programacion-colo-colo-la-u-y-la-uc-inicia/&title=[Programación] Colo Colo, la U y la UC inician el semestre en Copa Chile ante la Primera B este fin de semana" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=[Programación] Colo Colo, la U y la UC inician el semestre en Copa Chile ante la Primera B este fin de semana+http://redgol.cl/2018/6/programacion-colo-colo-la-u-y-la-uc-inicia/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
             
         
             
@@ -7889,129 +8019,21 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             
                 
 
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/tabla-al-minuto-condoro-de-jara-le-regala/">
-            
-                <img src="https://d.rgcdn.net/2e90856b60ebf75338965f4a0f0ef7fe/redgol-assets.s3.amazonaws.com/rg-assets_d9702c1e05f053a4d7c04ded0f8a7ad4pora/265x/redgol-assets.s3.amazonaws.jpg" alt="Tabla al minuto: Condoro de Jara le regala el 2-0 a Vasco y deja a la U sin Libertadores ni Copa Sudamericana - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/tabla-al-minuto-condoro-de-jara-le-regala/">Tabla al minuto: Condoro de Jara le regala el 2-0 a Vasco y deja a la U sin Libertadores ni Copa Sudamericana</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Redgol</strong>,
-            
-            22 de Mayo de 2018, 23:18.
-        </p>
-        <!--<p class="post-mini-encabezado">El zaguero de Universidad de Chile err&oacute; en el ep&iacute;logo del partido y permiti&oacute; el gol brasile&ntilde;o que deja a ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/tabla-al-minuto-condoro-de-jara-le-regala/&title=Tabla al minuto: Condoro de Jara le regala el 2-0 a Vasco y deja a la U sin Libertadores ni Copa Sudamericana" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Tabla al minuto: Condoro de Jara le regala el 2-0 a Vasco y deja a la U sin Libertadores ni Copa Sudamericana+http://redgol.cl/2018/5/tabla-al-minuto-condoro-de-jara-le-regala/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/tabla-al-minuto-vasco-derrota-a-la-u-y-que/">
-            
-                <img src="https://d.rgcdn.net/a0c40a9d145e98fd72d8e9fed7427050/redgol-assets.s3.amazonaws.com/rg-assets_37dbaf39953c099105387395ba9fff81porta/265x/redgol-assets.s3.amazonaws.jpg" alt="Tabla al minuto: Vasco derrota a la U y queda a un gol de eliminar a los azules de todo torneo internacional - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/tabla-al-minuto-vasco-derrota-a-la-u-y-que/">Tabla al minuto: Vasco derrota a la U y queda a un gol de eliminar a los azules de todo torneo internacional</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Redgol</strong>,
-            
-            22 de Mayo de 2018, 21:54.
-        </p>
-        <!--<p class="post-mini-encabezado">El conjunto universitario tropez&oacute; de entrada en el encuentro final del Grupo E de la Copa Libertadores y puso en ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/tabla-al-minuto-vasco-derrota-a-la-u-y-que/&title=Tabla al minuto: Vasco derrota a la U y queda a un gol de eliminar a los azules de todo torneo internacional" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Tabla al minuto: Vasco derrota a la U y queda a un gol de eliminar a los azules de todo torneo internacional+http://redgol.cl/2018/5/tabla-al-minuto-vasco-derrota-a-la-u-y-que/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/superman-vargas-ratifica-dos-reuniones-con/">
-            
-                <img src="https://d.rgcdn.net/dbdb5d246ae16053420ded766c40a9e9/redgol-assets.s3.amazonaws.com/rg-assets_454ca31356216c2ff435284155f0446epage/265x/redgol-assets.s3.amazonaws.jpg" alt="Superman Vargas ratifica dos reuniones con Azul Azul y anuncia a La Bruja Aredes como ayudante si llega a la U - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/superman-vargas-ratifica-dos-reuniones-con/">Superman Vargas ratifica dos reuniones con Azul Azul y anuncia a La Bruja Aredes como ayudante si llega a la U</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Redgol</strong>,
-            
-            22 de Mayo de 2018, 16:44.
-        </p>
-        <!--<p class="post-mini-encabezado">El Tenor Superh&eacute;roe aprovech&oacute; su tribuna en ADN Radio para explicar el curso de su negociaci&oacute;n para tomar el mando ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/superman-vargas-ratifica-dos-reuniones-con/&title=Superman Vargas ratifica dos reuniones con Azul Azul y anuncia a La Bruja Aredes como ayudante si llega a la U" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Superman Vargas ratifica dos reuniones con Azul Azul y anuncia a La Bruja Aredes como ayudante si llega a la U+http://redgol.cl/2018/5/superman-vargas-ratifica-dos-reuniones-con/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
 <article class="post-medium-articulo">
-	<a class="post-medium-titulo" href="/2018/5/formacion-david-pizarro-se-cae-a-ultima-ho/">Formación: David Pizarro se cae a última hora y el joven Yerko Leiva parchará a la U ante Vasco esta noche</a>
+	<a class="post-medium-titulo" href="/2018/5/tabla-al-minuto-condoro-de-jara-le-regala/">Tabla al minuto: Condoro de Jara le regala el 2-0 a Vasco y deja a la U sin Libertadores ni Copa Sudamericana</a>
 	<div class="post-medium-imagen">
-		<a href="/2018/5/formacion-david-pizarro-se-cae-a-ultima-ho/">
+		<a href="/2018/5/tabla-al-minuto-condoro-de-jara-le-regala/">
 			
-				<img src="https://d.rgcdn.net/76b1a97d36ad2e83a1d7bd478ad0863a/redgol-assets.s3.amazonaws.com/rg-assets_09fec542c8b0a647848104548fe35fc6porta/670x275c/redgol-assets.s3.amazonaws.jpg" alt="Formación: David Pizarro se cae a última hora y el joven Yerko Leiva parchará a la U ante Vasco esta noche - RedGol">
+				<img src="https://d.rgcdn.net/37a64a95efc77311f9986e8d5b6f9241/redgol-assets.s3.amazonaws.com/rg-assets_d9702c1e05f053a4d7c04ded0f8a7ad4pora/670x275c/redgol-assets.s3.amazonaws.jpg" alt="Tabla al minuto: Condoro de Jara le regala el 2-0 a Vasco y deja a la U sin Libertadores ni Copa Sudamericana - RedGol">
 			
 		</a>
 		<div class="post-medium-social-fb">
-			<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/formacion-david-pizarro-se-cae-a-ultima-ho/&title=Formación: David Pizarro se cae a última hora y el joven Yerko Leiva parchará a la U ante Vasco esta noche" rel="nofollow" title="Compartir">
+			<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/tabla-al-minuto-condoro-de-jara-le-regala/&title=Tabla al minuto: Condoro de Jara le regala el 2-0 a Vasco y deja a la U sin Libertadores ni Copa Sudamericana" rel="nofollow" title="Compartir">
 				<img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
 			</a>
 		</div>
 		<div class="post-medium-social-tw">
-			<a href="http://twitter.com/intent/tweet?status=Formación: David Pizarro se cae a última hora y el joven Yerko Leiva parchará a la U ante Vasco esta noche+http://redgol.cl/2018/5/formacion-david-pizarro-se-cae-a-ultima-ho/" rel="nofollow" title="Tweet">
+			<a href="http://twitter.com/intent/tweet?status=Tabla al minuto: Condoro de Jara le regala el 2-0 a Vasco y deja a la U sin Libertadores ni Copa Sudamericana+http://redgol.cl/2018/5/tabla-al-minuto-condoro-de-jara-le-regala/" rel="nofollow" title="Tweet">
 				<img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
 			</a>
 		</div>
@@ -8020,7 +8042,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
 		
 			<strong class="post-medium-strong">Redgol</strong>,
 		
-		22 de Mayo de 2018, 16:12.
+		22 de Mayo de 2018, 23:18.
 	</p>
 </article>
 <div class="post-medium-separador"></div>
@@ -8064,6 +8086,156 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
     </script>
 </div>
     <div class="di-schedule-content">
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Defensor Sporting v/s Peñarol</p>
+                    <p class="di-event-txt-description">Campeonato Uruguayo</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_f35992e8156e039d94ecf13917e47e3clogo" alt="Gol TV Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">15:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Inglaterra v/s Costa Rica</p>
+                    <p class="di-event-txt-description">Amistoso</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_9560bff23fdd980510788d093258dc3cespn2" alt="ESPN 2" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">16:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Islandia v/s Ghana</p>
+                    <p class="di-event-txt-description">Amistoso</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_01076c5a0d4151067ba30dcac359df9fFox_Sports_Logo" alt="Fox Sports" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event di-event-now">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day-number di-event-now">AHORA</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Zamora v/s Caracas</p>
+                    <p class="di-event-txt-description">Primera Venezuela</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event di-event-now">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day-number di-event-now">AHORA</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Fluminense v/s Flamengo</p>
+                    <p class="di-event-txt-description">Brasileirao</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">8</span>
+                        <span class="di-span di-event-hour">14:45</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Polonia v/s Chile</p>
+                    <p class="di-event-txt-description">Amistoso</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_91afa8b5858b6af0c83d33ec6b85730bFox_Sports_1_%28Chile%29" alt="Fox Sports 1" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">8</span>
+                        <span class="di-span di-event-hour">21:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Deportivo Cuenca v/s Delfín</p>
+                    <p class="di-event-txt-description">Primera Ecuador</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">8</span>
+                        <span class="di-span di-event-hour">21:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Cleveland Cavs v/s GS Warriors</p>
+                    <p class="di-event-txt-description">NBA Finals / Juego 4</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_b5c1bcb362edccec778b7f8b97b891efespn" alt="ESPN" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
         
     </div>
 </div>

@@ -1,20 +1,20 @@
 status: 200
 expect-ct: max-age=604800,
  report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
-content-length: 464676
+content-length: 473586
 content-location: https://redgol.cl/categoria/redsport/
-set-cookie: __cfduid=de4c0f4c93b19832f4f0f90ae848c8d141528231191;
- expires=Wed, 05-Jun-19 20:39:51 GMT; path=/; domain=.redgol.cl; HttpOnly;
+set-cookie: __cfduid=da592c2dc960951e36b31207afc8cc0ae1528414078;
+ expires=Fri, 07-Jun-19 23:27:58 GMT; path=/; domain=.redgol.cl; HttpOnly;
  Secure
 vary: Accept-Encoding
 server: cloudflare
 connection: keep-alive
 -content-encoding: gzip
-date: Tue, 05 Jun 2018 20:39:52 GMT
+date: Thu, 07 Jun 2018 23:27:58 GMT
 access-control-allow-origin: *
 access-control-allow-methods: GET, POST, OPTIONS
 content-type: text/html; charset=utf-8
-cf-ray: 42657375b84e53cc-LAX
+cf-ray: 4276e478fdca53f6-LAX
 -varied-accept-encoding: gzip, deflate
 
 
@@ -5982,10 +5982,32 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
 
         
         
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '221817805287360');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=221817805287360&ev=PageView&noscript=1"/>
+        </noscript>
+        <!-- End Facebook Pixel Code -->
     </head>
 
     
-    <body id="rg-body" class="nativeRG">   
+    <body id="rg-body" class="nativeRG">
+        <script>
+            fbq('track', 'ViewContent', {
+                content_ids: 'view content - futbolsites',
+            });
+        </script>
     
         <div id="fb-root"></div>
         <script>
@@ -6213,32 +6235,572 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
 
 <article id="post-featured-articulo">
-	<a id="post-featured-imagen" href="/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/">
+	<a id="post-featured-imagen" href="/2018/6/bomba-lebron-james-se-reunira-con-los-gold/">
 		
-			<img src="https://d.rgcdn.net/82a4d90d0932a49a0c415ff1d72622a6/redgol-assets.s3.amazonaws.com/rg-assets_f10855a884bc48f6461dfa3bf8f4c36cfinnbalor/670x/redgol-assets.s3.amazonaws.jpg" alt="Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto - RedGol">
+			<img src="https://d.rgcdn.net/a2bacdc124b54606b94b01ce40b11ca3/redgol-assets.s3.amazonaws.com/rg-assets_c1397bee5671f55733d11cc10c7c8202lebron/670x/redgol-assets.s3.amazonaws.jpg" alt="Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso - RedGol">
 		
 	</a>
 	<div id="post-featured-contenido">
-		<p id="post-featured-titulo">Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto</p>
+		<p id="post-featured-titulo">Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso</p>
 		<p id="post-featured-meta">
 			
 				<strong id="post-featured-strong">Felipe Kaponi</strong>,
 			
-			5 de Jun. de 2018, 16:32.
+			7 de Jun. de 2018, 15:12.
 		</p>
 	</div>
 	<div id="post-featured-social-fb">
-		<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/&title=Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto" rel="nofollow" title="Compartir">
+		<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/bomba-lebron-james-se-reunira-con-los-gold/&title=Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso" rel="nofollow" title="Compartir">
 			<img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
 		</a>
 	</div>
 	<div id="post-featured-social-tw">
-		<a href="http://twitter.com/intent/tweet?status=Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto+http://redgol.cl/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/" rel="nofollow" title="Tweet">
+		<a href="http://twitter.com/intent/tweet?status=Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso+http://redgol.cl/2018/6/bomba-lebron-james-se-reunira-con-los-gold/" rel="nofollow" title="Tweet">
 			<img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
 		</a>
 	</div>
-	<a id="post-featured-enlace" href="/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/"></a>
+	<a id="post-featured-enlace" href="/2018/6/bomba-lebron-james-se-reunira-con-los-gold/"></a>
 </article>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/chile-llego-a-35-medallas-de-oro-en-los-ju/">
+            
+                <img src="https://d.rgcdn.net/ef0d2ff5170ac18683abbdc9ea7be847/redgol-assets.s3.amazonaws.com/rg-assets_70778943b439d13155e78fd575fd2079canotaje/265x/redgol-assets.s3.amazonaws.jpg" alt="Chile llegó a 35 medallas de oro en los Juegos Odesur con la victoria en el K-4 500 del canotaje femenino - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/chile-llego-a-35-medallas-de-oro-en-los-ju/">Chile llegó a 35 medallas de oro en los Juegos Odesur con la victoria en el K-4 500 del canotaje femenino</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            7 de Jun. de 2018, 13:14.
+        </p>
+        <!--<p class="post-mini-encabezado">Fabiola Zamorano, Fernanda Iracheta, Ysumy Orellana y Goviana Reyes se quedaron con la victoria tras un genial remate para vencer ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/chile-llego-a-35-medallas-de-oro-en-los-ju/&title=Chile llegó a 35 medallas de oro en los Juegos Odesur con la victoria en el K-4 500 del canotaje femenino" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Chile llegó a 35 medallas de oro en los Juegos Odesur con la victoria en el K-4 500 del canotaje femenino+http://redgol.cl/2018/6/chile-llego-a-35-medallas-de-oro-en-los-ju/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/natalia-duco-impuso-record-suramericano-tr/">
+            
+                <img src="https://d.rgcdn.net/ddfd66580cd79b02bcc766447d520a63/redgol-assets.s3.amazonaws.com/rg-assets_1280cac2afdcaa347226b21fb29dbb41duco/265x/redgol-assets.s3.amazonaws.jpg" alt="Natalia Ducó impuso récord suramericano tras ganar el oro en el lanzamiento de la bala - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/natalia-duco-impuso-record-suramericano-tr/">Natalia Ducó impuso récord suramericano tras ganar el oro en el lanzamiento de la bala</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            7 de Jun. de 2018, 11:54.
+        </p>
+        <!--<p class="post-mini-encabezado">La chilena rompi&oacute; el r&eacute;cord de los Juegos Odesur con una marca de 18.15 metros.</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/natalia-duco-impuso-record-suramericano-tr/&title=Natalia Ducó impuso récord suramericano tras ganar el oro en el lanzamiento de la bala" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Natalia Ducó impuso récord suramericano tras ganar el oro en el lanzamiento de la bala+http://redgol.cl/2018/6/natalia-duco-impuso-record-suramericano-tr/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/kevin-durant-enterro-a-cleveland-y-dejo-a/">
+            
+                <img src="https://d.rgcdn.net/25c4ba0e45bbcc6cff98ffee51b68ff8/redgol-assets.s3.amazonaws.com/rg-assets_d93373b9cf6eeb1bda1fffcb75fe8df1kd/265x/redgol-assets.s3.amazonaws.jpg" alt="Kevin Durant enterró a Cleveland y dejó a los Warriors a un triunfo del título en la final de la NBA - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/kevin-durant-enterro-a-cleveland-y-dejo-a/">Kevin Durant enterró a Cleveland y dejó a los Warriors a un triunfo del título en la final de la NBA</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            7 de Jun. de 2018, 11:43.
+        </p>
+        <!--<p class="post-mini-encabezado">El alero de los Golden State hizo 43 puntos y cuando quedaba menos de un minuto en el partido se ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/kevin-durant-enterro-a-cleveland-y-dejo-a/&title=Kevin Durant enterró a Cleveland y dejó a los Warriors a un triunfo del título en la final de la NBA" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Kevin Durant enterró a Cleveland y dejó a los Warriors a un triunfo del título en la final de la NBA+http://redgol.cl/2018/6/kevin-durant-enterro-a-cleveland-y-dejo-a/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/ignacio-morales-se-quedo-con-la-medalla-de/">
+            
+                <img src="https://d.rgcdn.net/bce70490b0df081a81ad129b4f2abc7d/redgol-assets.s3.amazonaws.com/rg-assets_6c3d789c17aba1265adeeed0d1980f5532oros/265x/redgol-assets.s3.amazonaws.jpg" alt="Ignacio Morales se quedó con la medalla de oro del taekwondo en la categoría de los 68 kg en los Juegos Odesur - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/ignacio-morales-se-quedo-con-la-medalla-de/">Ignacio Morales se quedó con la medalla de oro del taekwondo en la categoría de los 68 kg en los Juegos Odesur</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            6 de Jun. de 2018, 19:56.
+        </p>
+        <!--<p class="post-mini-encabezado">El peleador nacional gan&oacute; la final por 16-13 y dej&oacute; a Chile con 32 medallas de oro en Cochabamba 2018.</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/ignacio-morales-se-quedo-con-la-medalla-de/&title=Ignacio Morales se quedó con la medalla de oro del taekwondo en la categoría de los 68 kg en los Juegos Odesur" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Ignacio Morales se quedó con la medalla de oro del taekwondo en la categoría de los 68 kg en los Juegos Odesur+http://redgol.cl/2018/6/ignacio-morales-se-quedo-con-la-medalla-de/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/peleadora-del-ufc-critico-a-reebok-por-el/">
+            
+                <img src="https://d.rgcdn.net/cf550522b18bbe2b29e6ffbda3161b56/redgol-assets.s3.amazonaws.com/rg-assets_2d422b909dcf6152f25ac810e1b86a64MMA/265x/redgol-assets.s3.amazonaws.jpg" alt="Peleadora del UFC criticó a Reebok por el mal funcionamiento de los sostenes deportivos femeninos - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/peleadora-del-ufc-critico-a-reebok-por-el/">Peleadora del UFC criticó a Reebok por el mal funcionamiento de los sostenes deportivos femeninos</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            6 de Jun. de 2018, 18:44.
+        </p>
+        <!--<p class="post-mini-encabezado">Con una imagen expl&iacute;cita, Angela Maga&ntilde;a rega&ntilde;&oacute; a a la marca deportiva por los malos vestuarios que realizan para la ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/peleadora-del-ufc-critico-a-reebok-por-el/&title=Peleadora del UFC criticó a Reebok por el mal funcionamiento de los sostenes deportivos femeninos" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Peleadora del UFC criticó a Reebok por el mal funcionamiento de los sostenes deportivos femeninos+http://redgol.cl/2018/6/peleadora-del-ufc-critico-a-reebok-por-el/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/ya-son-31-carlos-diaz-gano-la-medalla-de-o/">
+            
+                <img src="https://d.rgcdn.net/8971e0c39770180aea23d0035c8957c2/redgol-assets.s3.amazonaws.com/rg-assets_6279a6de7a78736ee7c623d46bb9f45e31/265x/redgol-assets.s3.amazonaws.jpg" alt="Ya son 31: Carlos Díaz ganó la medalla de oro en los 1500 metros planos de los Juegos Odesur - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/ya-son-31-carlos-diaz-gano-la-medalla-de-o/">Ya son 31: Carlos Díaz ganó la medalla de oro en los 1500 metros planos de los Juegos Odesur</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            6 de Jun. de 2018, 18:06.
+        </p>
+        <!--<p class="post-mini-encabezado">El atletismo sum&oacute; su primera presea dorada de la mano del velocista que culmin&oacute; la prueba con un registro de ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/ya-son-31-carlos-diaz-gano-la-medalla-de-o/&title=Ya son 31: Carlos Díaz ganó la medalla de oro en los 1500 metros planos de los Juegos Odesur" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Ya son 31: Carlos Díaz ganó la medalla de oro en los 1500 metros planos de los Juegos Odesur+http://redgol.cl/2018/6/ya-son-31-carlos-diaz-gano-la-medalla-de-o/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/donde-ver-a-la-seleccion-chilena-de-basque/">
+            
+                <img src="https://d.rgcdn.net/31d956165736a1d64788e16a11ecf77f/redgol-assets.s3.amazonaws.com/rg-assets_ec33754cec0221567a5a5ba44bcc0fe5porrtadaredgol01/265x/redgol-assets.s3.amazonaws.jpg" alt="Dónde ver a la Selección Chilena de Básquetbol Sub 18, en el premundial: Cuándo juegan, hora, TV y streaming - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/donde-ver-a-la-seleccion-chilena-de-basque/">Dónde ver a la Selección Chilena de Básquetbol Sub 18, en el premundial: Cuándo juegan, hora, TV y streaming</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            6 de Jun. de 2018, 15:53.
+        </p>
+        <!--<p class="post-mini-encabezado">El combinado nacional inicia su traves&iacute;a hacia el mundial de la especialidad que se desarrollar&aacute; el 2019. El primer obst&aacute;culo, ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/donde-ver-a-la-seleccion-chilena-de-basque/&title=Dónde ver a la Selección Chilena de Básquetbol Sub 18, en el premundial: Cuándo juegan, hora, TV y streaming" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Dónde ver a la Selección Chilena de Básquetbol Sub 18, en el premundial: Cuándo juegan, hora, TV y streaming+http://redgol.cl/2018/6/donde-ver-a-la-seleccion-chilena-de-basque/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/los-mejores-momentos-de-smackdown-becky-ly/">
+            
+                <img src="https://d.rgcdn.net/4d9dfdf0ec984d3309c5743ef52f37d0/redgol-assets.s3.amazonaws.com/rg-assets_3526a34f73a0d10475671b74a9aa0c7ebecky/265x/redgol-assets.s3.amazonaws.jpg" alt="Los mejores momentos de SmackDown: Becky Lynch hizo rendir a Charlotte y Nakamura tiene loco a AJ Styles - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/los-mejores-momentos-de-smackdown-becky-ly/">Los mejores momentos de SmackDown: Becky Lynch hizo rendir a Charlotte y Nakamura tiene loco a AJ Styles</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            6 de Jun. de 2018, 15:25.
+        </p>
+        <!--<p class="post-mini-encabezado">Money In The Bank est&aacute; a la vuelta de la esquina y las superstrellas del show azul est&aacute;n explotando. El ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/los-mejores-momentos-de-smackdown-becky-ly/&title=Los mejores momentos de SmackDown: Becky Lynch hizo rendir a Charlotte y Nakamura tiene loco a AJ Styles" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Los mejores momentos de SmackDown: Becky Lynch hizo rendir a Charlotte y Nakamura tiene loco a AJ Styles+http://redgol.cl/2018/6/los-mejores-momentos-de-smackdown-becky-ly/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/isi-jimenez-rompio-el-record-chileno-en-lo/">
+            
+                <img src="https://d.rgcdn.net/d1ece2cdef58ccab4ed679b68e0a4430/redgol-assets.s3.amazonaws.com/rg-assets_a4ccc63968ba31439eba246c73fd26f2isi/265x/redgol-assets.s3.amazonaws.jpg" alt="Isi Jiménez rompió el récord chileno en los 100 metros planos y disputará el oro en los Juegos Odesur - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/isi-jimenez-rompio-el-record-chileno-en-lo/">Isi Jiménez rompió el récord chileno en los 100 metros planos y disputará el oro en los Juegos Odesur</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            6 de Jun. de 2018, 15:01.
+        </p>
+        <!--<p class="post-mini-encabezado">La mujer m&aacute;s r&aacute;pida del pa&iacute;s se meti&oacute; en la final de los 100 metros planos tras lograr una marca ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/isi-jimenez-rompio-el-record-chileno-en-lo/&title=Isi Jiménez rompió el récord chileno en los 100 metros planos y disputará el oro en los Juegos Odesur" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Isi Jiménez rompió el récord chileno en los 100 metros planos y disputará el oro en los Juegos Odesur+http://redgol.cl/2018/6/isi-jimenez-rompio-el-record-chileno-en-lo/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/nicolas-jarry-perdio-en-cuartos-de-final-y/">
+            
+                <img src="https://d.rgcdn.net/d1436e61b0075914a95d8561a1ddc5f7/redgol-assets.s3.amazonaws.com/rg-assets_8fe071f237dde88d1c6c6951b30abe05jarry/265x/redgol-assets.s3.amazonaws.jpg" alt="Nicolás Jarry perdió en cuartos de final y se despidió del dobles de Roland Garros - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/nicolas-jarry-perdio-en-cuartos-de-final-y/">Nicolás Jarry perdió en cuartos de final y se despidió del dobles de Roland Garros</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">David Fernández</strong>,
+            
+            6 de Jun. de 2018, 10:22.
+        </p>
+        <!--<p class="post-mini-encabezado">El tenista chileno junto a M&aacute;ximo Gonz&aacute;lez cayeron en la ronda de los ocho mejores en el torneo franc&eacute;s.</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/nicolas-jarry-perdio-en-cuartos-de-final-y/&title=Nicolás Jarry perdió en cuartos de final y se despidió del dobles de Roland Garros" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Nicolás Jarry perdió en cuartos de final y se despidió del dobles de Roland Garros+http://redgol.cl/2018/6/nicolas-jarry-perdio-en-cuartos-de-final-y/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/">
+            
+                <img src="https://d.rgcdn.net/c95bfc381d859699f4940e7bfe33fc9b/redgol-assets.s3.amazonaws.com/rg-assets_61d4552796690c7df78be013a1afdb30page/265x/redgol-assets.s3.amazonaws.jpg" alt="Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista con la Formula 1 el fin de semana - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/">Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista con la Formula 1 el fin de semana</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            5 de Jun. de 2018, 21:28.
+        </p>
+        <!--<p class="post-mini-encabezado">El joven piloto chileno regresa a la categor&iacute;a norteamericana del Cavallino Rampante y pisar&aacute; el mismo asfalto que en la ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/&title=Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista con la Formula 1 el fin de semana" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista con la Formula 1 el fin de semana+http://redgol.cl/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/">
+            
+                <img src="https://d.rgcdn.net/c389ce5e234e5feb8237d26b7c7e44c7/redgol-assets.s3.amazonaws.com/rg-assets_02efdda095cd977f32c031f74370ff3apage/265x/redgol-assets.s3.amazonaws.jpg" alt="Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista con la Formula 1 el fin de semana - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/">Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista con la Formula 1 el fin de semana</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            5 de Jun. de 2018, 21:28.
+        </p>
+        <!--<p class="post-mini-encabezado">El joven piloto chileno regresa a la categor&iacute;a norteamericana del Cavallino Rampante y pisar&aacute; el mismo asfalto que en la ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/&title=Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista con la Formula 1 el fin de semana" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Benjamín Hites vuelve a la Ferrari Challenge en Montreal y compartirá pista con la Formula 1 el fin de semana+http://redgol.cl/2018/6/benjamin-hites-vuelve-a-la-ferrari-challen/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/yasmani-acosta-gano-la-medalla-de-oro-en-l/">
+            
+                <img src="https://d.rgcdn.net/3e668f419a2561046aa5ed6de7a842ed/redgol-assets.s3.amazonaws.com/rg-assets_5165a157d2db5980b758138849f915c5yasmani/265x/redgol-assets.s3.amazonaws.jpg" alt="Yasmani Acosta ganó la medalla de oro en lucha grecorromana de los Juegos Odesur - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/yasmani-acosta-gano-la-medalla-de-oro-en-l/">Yasmani Acosta ganó la medalla de oro en lucha grecorromana de los Juegos Odesur</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            5 de Jun. de 2018, 20:56.
+        </p>
+        <!--<p class="post-mini-encabezado">Chile lleg&oacute; a 29 preseas doradas y est&aacute; tercero en el medallero de Cochabomba 2018.</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/yasmani-acosta-gano-la-medalla-de-oro-en-l/&title=Yasmani Acosta ganó la medalla de oro en lucha grecorromana de los Juegos Odesur" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Yasmani Acosta ganó la medalla de oro en lucha grecorromana de los Juegos Odesur+http://redgol.cl/2018/6/yasmani-acosta-gano-la-medalla-de-oro-en-l/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/2k-celebra-los-20-anos-de-su-franquicia-de/">
+            
+                <img src="https://d.rgcdn.net/a3b1a840b48aa14cd508cc0de0ea9e52/redgol-assets.s3.amazonaws.com/rg-assets_990d97620f34c2e095dc82857c8bd64anba2k/265x/redgol-assets.s3.amazonaws.jpg" alt="2K celebra los 20 años de su franquicia de básquetbol con LeBron James en la portada del NBA 2K19 - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/2k-celebra-los-20-anos-de-su-franquicia-de/">2K celebra los 20 años de su franquicia de básquetbol con LeBron James en la portada del NBA 2K19</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            5 de Jun. de 2018, 18:19.
+        </p>
+        <!--<p class="post-mini-encabezado">El videojuego sale a la venta el pr&oacute;ximo 11 de septiembre y la compra anticipada ya est&aacute; activada en Xbox ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/2k-celebra-los-20-anos-de-su-franquicia-de/&title=2K celebra los 20 años de su franquicia de básquetbol con LeBron James en la portada del NBA 2K19" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=2K celebra los 20 años de su franquicia de básquetbol con LeBron James en la portada del NBA 2K19+http://redgol.cl/2018/6/2k-celebra-los-20-anos-de-su-franquicia-de/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/">
+            
+                <img src="https://d.rgcdn.net/f0871da5fc64033f2748535bfe5feb6e/redgol-assets.s3.amazonaws.com/rg-assets_f10855a884bc48f6461dfa3bf8f4c36cfinnbalor/265x/redgol-assets.s3.amazonaws.jpg" alt="Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/">Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            5 de Jun. de 2018, 16:32.
+        </p>
+        <!--<p class="post-mini-encabezado">A dos semanas de Money In The Bank, RAW tiene a dos luchadores que se perfilen como ganadores del malet&iacute;n. ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/&title=Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto+http://redgol.cl/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
             
         
             
@@ -7072,570 +7634,30 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             
                 
 
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/">
-            
-                <img src="https://d.rgcdn.net/0b33cd8a50efb8d41bf288813446bb68/redgol-assets.s3.amazonaws.com/rg-assets_8d321b172dcc1b769b70ea509d66a1f7lebron/265x/redgol-assets.s3.amazonaws.jpg" alt="Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/">Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            28 de Mayo de 2018, 11:41.
-        </p>
-        <!--<p class="post-mini-encabezado">Cleveland Cavaliers clasific&oacute; a la final de la NBA luego de vencer a Boston Celtics en la definici&oacute;n de la ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/&title=Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA+http://redgol.cl/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/on-fire-en-los-odesur-el-team-chile-consig/">
-            
-                <img src="https://d.rgcdn.net/6138dcdf167531e7e156981a2e4e7e18/redgol-assets.s3.amazonaws.com/rg-assets_33dc4c741dd25b2b7e23bac8d651981aabraham/265x/redgol-assets.s3.amazonaws.jpg" alt="On fire en los Odesur: el Team Chile consiguió seis medallas de oro en un día - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/on-fire-en-los-odesur-el-team-chile-consig/">On fire en los Odesur: el Team Chile consiguió seis medallas de oro en un día</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            28 de Mayo de 2018, 11:02.
-        </p>
-        <!--<p class="post-mini-encabezado">Este domingo los chilenos conquistaron un total de 13 medallas y seis de ellas fueron de oro.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/on-fire-en-los-odesur-el-team-chile-consig/&title=On fire en los Odesur: el Team Chile consiguió seis medallas de oro en un día" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=On fire en los Odesur: el Team Chile consiguió seis medallas de oro en un día+http://redgol.cl/2018/5/on-fire-en-los-odesur-el-team-chile-consig/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/nico-jarry-llego-hasta-el-quinto-set-pero/">
-            
-                <img src="https://d.rgcdn.net/888b4c1f260accd031ebd666bca930b8/redgol-assets.s3.amazonaws.com/rg-assets_f72be7bfce55c1ab4ddcf29743ddf612jarry6/265x/redgol-assets.s3.amazonaws.jpg" alt="Nico Jarry llegó hasta el quinto set, pero quedó eliminado en primera ronda de Roland Garros - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/nico-jarry-llego-hasta-el-quinto-set-pero/">Nico Jarry llegó hasta el quinto set, pero quedó eliminado en primera ronda de Roland Garros</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            27 de Mayo de 2018, 11:59.
-        </p>
-        <!--<p class="post-mini-encabezado">La primera raqueta nacional perdi&oacute; en su estreno frente al estadounidense Jared Donaldson.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/nico-jarry-llego-hasta-el-quinto-set-pero/&title=Nico Jarry llegó hasta el quinto set, pero quedó eliminado en primera ronda de Roland Garros" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Nico Jarry llegó hasta el quinto set, pero quedó eliminado en primera ronda de Roland Garros+http://redgol.cl/2018/5/nico-jarry-llego-hasta-el-quinto-set-pero/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/sorteo-listo-nicolas-jarry-debutara-ante-j/">
-            
-                <img src="https://d.rgcdn.net/9b425ed6252789f57e5ce53018dc12e3/redgol-assets.s3.amazonaws.com/rg-assets_ea809e078c70448ffc559f88c7d6a067jarry/265x/redgol-assets.s3.amazonaws.jpg" alt="Sorteo listo: Nicolás Jarry debutará ante Jared Donaldson en Roland Garros - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/sorteo-listo-nicolas-jarry-debutara-ante-j/">Sorteo listo: Nicolás Jarry debutará ante Jared Donaldson en Roland Garros</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            24 de Mayo de 2018, 14:46.
-        </p>
-        <!--<p class="post-mini-encabezado">La primera raqueta nacional se enfrentar&aacute; al 57 del mundo entre el domingo y martes. De avanzar de ronda podr&iacute;a ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/sorteo-listo-nicolas-jarry-debutara-ante-j/&title=Sorteo listo: Nicolás Jarry debutará ante Jared Donaldson en Roland Garros" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Sorteo listo: Nicolás Jarry debutará ante Jared Donaldson en Roland Garros+http://redgol.cl/2018/5/sorteo-listo-nicolas-jarry-debutara-ante-j/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/celtics-se-hizo-fuerte-de-local-para-super/">
-            
-                <img src="https://d.rgcdn.net/4fb1ff6eacd72890af9dcd4ed59150e6/redgol-assets.s3.amazonaws.com/rg-assets_0e8e8b089f80c0956e630cd23a2c2a66celtics/265x/redgol-assets.s3.amazonaws.jpg" alt="Celtics se hizo fuerte de local para superar a los Cavs y quedaron a una victoria de la súper final - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/celtics-se-hizo-fuerte-de-local-para-super/">Celtics se hizo fuerte de local para superar a los Cavs y quedaron a una victoria de la súper final</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            24 de Mayo de 2018, 12:55.
-        </p>
-        <!--<p class="post-mini-encabezado">El equipo de Boston volvi&oacute; a tener un gran trabajo defensivo para anular a LeBron James y compa&ntilde;&iacute;a.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/celtics-se-hizo-fuerte-de-local-para-super/&title=Celtics se hizo fuerte de local para superar a los Cavs y quedaron a una victoria de la súper final" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Celtics se hizo fuerte de local para superar a los Cavs y quedaron a una victoria de la súper final+http://redgol.cl/2018/5/celtics-se-hizo-fuerte-de-local-para-super/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/nicolas-jarry-aseguro-su-ingreso-a-wimbled/">
-            
-                <img src="https://d.rgcdn.net/6ed49530656a6e99322a0c30e3e251db/redgol-assets.s3.amazonaws.com/rg-assets_862398c3940e75ad28312817f1976846porta/265x/redgol-assets.s3.amazonaws.jpg" alt="Nicolás Jarry aseguró su ingreso a Wimbledon y buscará el primer triunfo de su carrera en un Grand Slam - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/nicolas-jarry-aseguro-su-ingreso-a-wimbled/">Nicolás Jarry aseguró su ingreso a Wimbledon y buscará el primer triunfo de su carrera en un Grand Slam</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Redgol</strong>,
-            
-            24 de Mayo de 2018, 04:01.
-        </p>
-        <!--<p class="post-mini-encabezado">La primera raqueta del tenis chileno destaca en el Entry List del que ser&aacute; su cuarto torneo grande en el ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/nicolas-jarry-aseguro-su-ingreso-a-wimbled/&title=Nicolás Jarry aseguró su ingreso a Wimbledon y buscará el primer triunfo de su carrera en un Grand Slam" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Nicolás Jarry aseguró su ingreso a Wimbledon y buscará el primer triunfo de su carrera en un Grand Slam+http://redgol.cl/2018/5/nicolas-jarry-aseguro-su-ingreso-a-wimbled/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/nicolas-jarry-estara-en-el-cuadro-principa/">
-            
-                <img src="https://d.rgcdn.net/0ed8ef80f55511129f397274f7c9e591/redgol-assets.s3.amazonaws.com/rg-assets_6c3576403d3698ddbeaccf8a3269600fjarry/265x/redgol-assets.s3.amazonaws.jpg" alt="Nicolás Jarry estará en el cuadro principal de Wimbledon y defiende una gran cantidad de puntos - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/nicolas-jarry-estara-en-el-cuadro-principa/">Nicolás Jarry estará en el cuadro principal de Wimbledon y defiende una gran cantidad de puntos</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            23 de Mayo de 2018, 18:11.
-        </p>
-        <!--<p class="post-mini-encabezado">La primera raqueta nacional fue confirmado en el tercer Grand Slam del a&ntilde;o y debe llegar al menos a octavos ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/nicolas-jarry-estara-en-el-cuadro-principa/&title=Nicolás Jarry estará en el cuadro principal de Wimbledon y defiende una gran cantidad de puntos" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Nicolás Jarry estará en el cuadro principal de Wimbledon y defiende una gran cantidad de puntos+http://redgol.cl/2018/5/nicolas-jarry-estara-en-el-cuadro-principa/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/los-10-mejores-momentos-de-smackdown-danie/">
-            
-                <img src="https://d.rgcdn.net/7f15928eca7e4a76525d6dcd3b73c805/redgol-assets.s3.amazonaws.com/rg-assets_6313ec47b70e0d8100627a5755927762db/265x/redgol-assets.s3.amazonaws.jpg" alt="Los 10 mejores momentos de SmackDown: Daniel Bryan ganó su última oportunidad de pelar en Money In The Bank - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/los-10-mejores-momentos-de-smackdown-danie/">Los 10 mejores momentos de SmackDown: Daniel Bryan ganó su última oportunidad de pelar en Money In The Bank</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            23 de Mayo de 2018, 17:15.
-        </p>
-        <!--<p class="post-mini-encabezado">Daniel Bryan se midi&oacute; a Jeff Hardy en una pelea de los sue&ntilde;os, Nakamura eligi&oacute; la estipulaci&oacute;n para la pelea ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/los-10-mejores-momentos-de-smackdown-danie/&title=Los 10 mejores momentos de SmackDown: Daniel Bryan ganó su última oportunidad de pelar en Money In The Bank" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Los 10 mejores momentos de SmackDown: Daniel Bryan ganó su última oportunidad de pelar en Money In The Bank+http://redgol.cl/2018/5/los-10-mejores-momentos-de-smackdown-danie/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/wwe-regresa-a-chile-el-5-de-diciembre-y-ma/">
-            
-                <img src="https://d.rgcdn.net/dd661ba7e38e98c2a9b0c3f951d7a51e/redgol-assets.s3.amazonaws.com/rg-assets_f9a1bccc50d492387dbf97f05f060cc7wwe/265x/redgol-assets.s3.amazonaws.jpg" alt="WWE regresa a Chile el 5 de diciembre y mañana comienza la venta de entradas - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/wwe-regresa-a-chile-el-5-de-diciembre-y-ma/">WWE regresa a Chile el 5 de diciembre y mañana comienza la venta de entradas</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            22 de Mayo de 2018, 19:28.
-        </p>
-        <!--<p class="post-mini-encabezado">El evento estar&aacute; a cargo de RAW con estrellas como Roman Reigns, Seth Rollins, Finn B&aacute;lor, Braun Strowman, Alexa Bliss ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/wwe-regresa-a-chile-el-5-de-diciembre-y-ma/&title=WWE regresa a Chile el 5 de diciembre y mañana comienza la venta de entradas" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=WWE regresa a Chile el 5 de diciembre y mañana comienza la venta de entradas+http://redgol.cl/2018/5/wwe-regresa-a-chile-el-5-de-diciembre-y-ma/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/julio-peralta-vencio-a-nicolas-jarry-en-el/">
-            
-                <img src="https://d.rgcdn.net/fd89711b11565d253563149cc9e2ea1c/redgol-assets.s3.amazonaws.com/rg-assets_64a448cd5fcae3f27aa9dedae9c4ad0bperalta/265x/redgol-assets.s3.amazonaws.jpg" alt="Julio Peralta venció a Nicolás Jarry en el dobles y se metió en cuartos de final del ATP de Lyon - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/julio-peralta-vencio-a-nicolas-jarry-en-el/">Julio Peralta venció a Nicolás Jarry en el dobles y se metió en cuartos de final del ATP de Lyon</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            22 de Mayo de 2018, 19:02.
-        </p>
-        <!--<p class="post-mini-encabezado">La primera raqueta nacional del dobles se impuso a Nico Jarry en el debut en el ATP 250 de Lyon.&nbsp;</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/julio-peralta-vencio-a-nicolas-jarry-en-el/&title=Julio Peralta venció a Nicolás Jarry en el dobles y se metió en cuartos de final del ATP de Lyon" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Julio Peralta venció a Nicolás Jarry en el dobles y se metió en cuartos de final del ATP de Lyon+http://redgol.cl/2018/5/julio-peralta-vencio-a-nicolas-jarry-en-el/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/un-inspirado-lebron-james-guio-a-los-caval/">
-            
-                <img src="https://d.rgcdn.net/7d46b506fb2c9530ce34bd2dc9355978/redgol-assets.s3.amazonaws.com/rg-assets_89bcf6b516c6a1597ac14822c476121ajames/265x/redgol-assets.s3.amazonaws.jpg" alt="Un inspirado LeBron James guió a los Cavaliers para empatar la final de conferencia contra los Celtics - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/un-inspirado-lebron-james-guio-a-los-caval/">Un inspirado LeBron James guió a los Cavaliers para empatar la final de conferencia contra los Celtics</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            22 de Mayo de 2018, 17:27.
-        </p>
-        <!--<p class="post-mini-encabezado">El Rey aport&oacute; con 44 puntos para lograr el segundo triunfo consecutivo de los Cavs. El cuarto duelo de la ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/un-inspirado-lebron-james-guio-a-los-caval/&title=Un inspirado LeBron James guió a los Cavaliers para empatar la final de conferencia contra los Celtics" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Un inspirado LeBron James guió a los Cavaliers para empatar la final de conferencia contra los Celtics+http://redgol.cl/2018/5/un-inspirado-lebron-james-guio-a-los-caval/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/nicolas-jarry-se-mando-un-maravilloso-glob/">
-            
-                <img src="https://d.rgcdn.net/b51a0abc1a35d254b85d0f0630c7e086/redgol-assets.s3.amazonaws.com/rg-assets_b6637afdeb03610193c71be1ada07dcejarry/265x/redgol-assets.s3.amazonaws.jpg" alt="Nicolás Jarry se mandó un maravilloso globo con la &quot;Gran Willy&quot; y desató la locura del estadio - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/nicolas-jarry-se-mando-un-maravilloso-glob/">Nicolás Jarry se mandó un maravilloso globo con la &quot;Gran Willy&quot; y desató la locura del estadio</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            22 de Mayo de 2018, 16:36.
-        </p>
-        <!--<p class="post-mini-encabezado">El chileno se consagr&oacute; campe&oacute;n en un torneo de exhibici&oacute;n en Holanda y realiz&oacute; una jugada magistral.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/nicolas-jarry-se-mando-un-maravilloso-glob/&title=Nicolás Jarry se mandó un maravilloso globo con la &quot;Gran Willy&quot; y desató la locura del estadio" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Nicolás Jarry se mandó un maravilloso globo con la &quot;Gran Willy&quot; y desató la locura del estadio+http://redgol.cl/2018/5/nicolas-jarry-se-mando-un-maravilloso-glob/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/los-10-mejores-momentos-de-raw-ronda-rouse/">
-            
-                <img src="https://d.rgcdn.net/56be98329eb61b630e149844e9ee9c7f/redgol-assets.s3.amazonaws.com/rg-assets_e00a77e6ebca80723582de9c39c2ddc7ronda/265x/redgol-assets.s3.amazonaws.jpg" alt="Los 10 mejores momentos de RAW: Ronda Rousey le dejó una dura advertencia a Nia Jax - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/los-10-mejores-momentos-de-raw-ronda-rouse/">Los 10 mejores momentos de RAW: Ronda Rousey le dejó una dura advertencia a Nia Jax</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            22 de Mayo de 2018, 15:52.
-        </p>
-        <!--<p class="post-mini-encabezado">La ex campeona de UFC pelear&aacute; por el cetro femenino en Money In The Bank y avis&oacute; que llevar&aacute; el ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/los-10-mejores-momentos-de-raw-ronda-rouse/&title=Los 10 mejores momentos de RAW: Ronda Rousey le dejó una dura advertencia a Nia Jax" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Los 10 mejores momentos de RAW: Ronda Rousey le dejó una dura advertencia a Nia Jax+http://redgol.cl/2018/5/los-10-mejores-momentos-de-raw-ronda-rouse/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/christian-garin-se-despidio-de-la-qualy-de/">
-            
-                <img src="https://d.rgcdn.net/db275844affd54bc2415b19e9fb0da5f/redgol-assets.s3.amazonaws.com/rg-assets_a985b823cb6327efb3d89167b42aee83garin/265x/redgol-assets.s3.amazonaws.jpg" alt="El Tanque Garín estuvo cerca, pero terminó despidiéndose en primera ronda de la qualy de Roland Garros - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/christian-garin-se-despidio-de-la-qualy-de/">El Tanque Garín estuvo cerca, pero terminó despidiéndose en primera ronda de la qualy de Roland Garros</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            22 de Mayo de 2018, 10:34.
-        </p>
-        <!--<p class="post-mini-encabezado">El chileno ven&iacute;a en alza luego de disputar la final del Challenger de Lisboa.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/christian-garin-se-despidio-de-la-qualy-de/&title=El Tanque Garín estuvo cerca, pero terminó despidiéndose en primera ronda de la qualy de Roland Garros" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=El Tanque Garín estuvo cerca, pero terminó despidiéndose en primera ronda de la qualy de Roland Garros+http://redgol.cl/2018/5/christian-garin-se-despidio-de-la-qualy-de/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/rafa-nadal-volvio-a-ser-numero-uno-y-los-c/">
-            
-                <img src="https://d.rgcdn.net/37cd05e1d8a150d15b2ed620104657e6/redgol-assets.s3.amazonaws.com/rg-assets_c3e476fb5cac71d096f450ee74c33df7jarry56/265x/redgol-assets.s3.amazonaws.jpg" alt="Rafa Nadal volvió a ser número uno y los chilenos alcanzaron su mejor ranking histórico - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/rafa-nadal-volvio-a-ser-numero-uno-y-los-c/">Rafa Nadal volvió a ser número uno y los chilenos alcanzaron su mejor ranking histórico</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            21 de Mayo de 2018, 11:53.
-        </p>
-        <!--<p class="post-mini-encabezado">Este lunes Jarry y Gar&iacute;n consiguieron el mejor ranking de su carrera en la clasificaci&oacute;n ATP.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/rafa-nadal-volvio-a-ser-numero-uno-y-los-c/&title=Rafa Nadal volvió a ser número uno y los chilenos alcanzaron su mejor ranking histórico" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Rafa Nadal volvió a ser número uno y los chilenos alcanzaron su mejor ranking histórico+http://redgol.cl/2018/5/rafa-nadal-volvio-a-ser-numero-uno-y-los-c/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
 <article class="post-medium-articulo">
-	<a class="post-medium-titulo" href="/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/">El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento</a>
+	<a class="post-medium-titulo" href="/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/">Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA</a>
 	<div class="post-medium-imagen">
-		<a href="/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/">
+		<a href="/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/">
 			
-				<img src="https://d.rgcdn.net/3946c40c14545e53e1ef2bd9d956ce57/redgol-assets.s3.amazonaws.com/rg-assets_92a50871bb3b159b2ff2a1e55e08a3a4rivas/670x275c/redgol-assets.s3.amazonaws.jpg" alt="El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento - RedGol">
+				<img src="https://d.rgcdn.net/cbf130f80b9f9bb5061d114f1d3bf8d3/redgol-assets.s3.amazonaws.com/rg-assets_8d321b172dcc1b769b70ea509d66a1f7lebron/670x275c/redgol-assets.s3.amazonaws.jpg" alt="Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA - RedGol">
 			
 		</a>
 		<div class="post-medium-social-fb">
-			<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/&title=El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento" rel="nofollow" title="Compartir">
+			<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/&title=Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA" rel="nofollow" title="Compartir">
 				<img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
 			</a>
 		</div>
 		<div class="post-medium-social-tw">
-			<a href="http://twitter.com/intent/tweet?status=El vicepresidente del UFC quedó loco con el ambiente chileno y avisó que van a volver con otro evento+http://redgol.cl/2018/5/el-vicepresidente-del-ufc-quedo-loco-con-e/" rel="nofollow" title="Tweet">
+			<a href="http://twitter.com/intent/tweet?status=Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA+http://redgol.cl/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/" rel="nofollow" title="Tweet">
 				<img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
 			</a>
 		</div>
 	</div>
 	<p class="post-medium-meta">
 		
-			<strong class="post-medium-strong">Felipe Kaponi</strong>,
+			<strong class="post-medium-strong">David Fernández</strong>,
 		
-		20 de Mayo de 2018, 16:30.
+		28 de Mayo de 2018, 11:41.
 	</p>
 </article>
 <div class="post-medium-separador"></div>
@@ -7679,6 +7701,156 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
     </script>
 </div>
     <div class="di-schedule-content">
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Defensor Sporting v/s Peñarol</p>
+                    <p class="di-event-txt-description">Campeonato Uruguayo</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_f35992e8156e039d94ecf13917e47e3clogo" alt="Gol TV Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">15:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Inglaterra v/s Costa Rica</p>
+                    <p class="di-event-txt-description">Amistoso</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_9560bff23fdd980510788d093258dc3cespn2" alt="ESPN 2" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">16:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Islandia v/s Ghana</p>
+                    <p class="di-event-txt-description">Amistoso</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_01076c5a0d4151067ba30dcac359df9fFox_Sports_Logo" alt="Fox Sports" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event di-event-now">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day-number di-event-now">AHORA</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Zamora v/s Caracas</p>
+                    <p class="di-event-txt-description">Primera Venezuela</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event di-event-now">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day-number di-event-now">AHORA</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Fluminense v/s Flamengo</p>
+                    <p class="di-event-txt-description">Brasileirao</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">8</span>
+                        <span class="di-span di-event-hour">14:45</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Polonia v/s Chile</p>
+                    <p class="di-event-txt-description">Amistoso</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_91afa8b5858b6af0c83d33ec6b85730bFox_Sports_1_%28Chile%29" alt="Fox Sports 1" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">8</span>
+                        <span class="di-span di-event-hour">21:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Deportivo Cuenca v/s Delfín</p>
+                    <p class="di-event-txt-description">Primera Ecuador</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">8</span>
+                        <span class="di-span di-event-hour">21:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Cleveland Cavs v/s GS Warriors</p>
+                    <p class="di-event-txt-description">NBA Finals / Juego 4</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_b5c1bcb362edccec778b7f8b97b891efespn" alt="ESPN" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
         
     </div>
 </div>
