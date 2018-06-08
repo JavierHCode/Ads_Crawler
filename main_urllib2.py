@@ -53,8 +53,8 @@ def get_content(url):
     return content
 
 def clean_wb(wb,ws,ws2):
-#     wb.remove(ws2)
-#     wb.create_sheet("Output")
+
+    clearFill = PatternFill(fill_type=None)
 
     for row in ws['B2:D{0}'.format(ws.max_row)]:
       for cell in row:
@@ -63,6 +63,7 @@ def clean_wb(wb,ws,ws2):
     for row in ws2['A1:{0}{1}'.format(get_column_letter(ws2.max_column),ws2.max_row)]:
       for cell in row:
         cell.value = None
+        cell.fill = clearFill
 
     wb.save("Ads_Crawler.xlsx")
 

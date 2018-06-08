@@ -1,5 +1,5 @@
 status: 200
-content-length: 109692
+content-length: 109693
 cf-cache-status: HIT
 vary: Cookie, Accept-Encoding,X-UA-Device
 x-ua-device: pc
@@ -7,17 +7,17 @@ content-language: es
 x-ua-compatible: IE=edge,chrome=1
 cache-control: public, max-age=180
 x-cache: MISS
-set-cookie: __cfduid=d006d932a18e5482fdd312f29100751641528413541;
- expires=Fri, 07-Jun-19 23:19:01 GMT; path=/; domain=.elespectador.com;
+set-cookie: __cfduid=d7c5b9cab380f7e3d90c31499815092fa1528418650;
+ expires=Sat, 08-Jun-19 00:44:10 GMT; path=/; domain=.elespectador.com;
  HttpOnly
 expires: Sun, 19 Nov 1978 05:00:00 GMT
-last-modified: Thu, 07 Jun 2018 23:18:43 GMT
+last-modified: Fri, 08 Jun 2018 00:42:21 GMT
 x-forwarded-proto: https
 link: <https://www.elespectador.com/cromos>;
  rel="canonical",<https://www.elespectador.com/taxonomy/term/88670>;
  rel="shortlink"
-date: Thu, 07 Jun 2018 23:19:01 GMT
-cf-ray: 4276d7589a6a2132-LAX
+date: Fri, 08 Jun 2018 00:44:10 GMT
+cf-ray: 427754165cb4222e-LAX
 expect-ct: max-age=604800,
  report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 x-drupal-cache: HIT
@@ -312,19 +312,19 @@ _taboola.push(window.tabbola_type_obj);
 <script type="text/javascript">
     function slotDfp(){
 
-      if( typeof googletag.slots["out_of_page_seccionms4dm"] == "undefined" ){
+      if( typeof googletag.slots["out_of_page_seccion78jsj"] == "undefined" ){
         var mapping = googletag.sizeMapping()
                 .build();
         googletag.cmd.push(function() {
-          googletag.slots["out_of_page_seccionms4dm"] = googletag.defineSlot( "100249493/elespectador/cromos", [0, 0], "dfp-ad-out_of_page_seccionms4dm")
+          googletag.slots["out_of_page_seccion78jsj"] = googletag.defineSlot( "100249493/elespectador/cromos", [0, 0], "dfp-ad-out_of_page_seccion78jsj")
                               .setTargeting('ad_group',Adomik.randomAdGroup())
                               .addService(googletag.pubads())
                                                                                                 .setTargeting("especial", "[node:url:args:value:0]")
                                                                                             .defineSizeMapping(mapping);
-          googletag.display("dfp-ad-out_of_page_seccionms4dm");
+          googletag.display("dfp-ad-out_of_page_seccion78jsj");
         });
       }else{
-        googletag.cmd.push(function() { googletag.display("dfp-ad-out_of_page_seccionms4dm"); });
+        googletag.cmd.push(function() { googletag.display("dfp-ad-out_of_page_seccion78jsj"); });
       }
     }
     window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
@@ -352,7 +352,7 @@ if (event.size[0] > 800 && event.size[1] > 500) {
 <script type="text/javascript">
     function slotDfp(){
 
-      if( typeof googletag.slots["mega_banner_top_secciontt2lg"] == "undefined" ){
+      if( typeof googletag.slots["mega_banner_top_seccionzuxl4"] == "undefined" ){
         var mapping = googletag.sizeMapping()
                 .addSize([1050, 200],[[1000, 40], [1300, 730], [1300, 600], [728, 90]])
                 .addSize([750, 200],[[320, 50], [300, 50]])
@@ -360,7 +360,7 @@ if (event.size[0] > 800 && event.size[1] > 500) {
                 .addSize([320, 400],[[300, 50], [320, 50]])
                 .build();
         googletag.cmd.push(function() {
-          googletag.slots["mega_banner_top_secciontt2lg"] = googletag.defineSlot( "100249493/elespectador/cromos", [[1000, 40], [1300, 730], [728, 90], [1000, 90], [1300, 600], [728, 90]], "dfp-ad-mega_banner_top_secciontt2lg")
+          googletag.slots["mega_banner_top_seccionzuxl4"] = googletag.defineSlot( "100249493/elespectador/cromos", [[1000, 40], [1300, 730], [728, 90], [1000, 90], [1300, 600], [728, 90]], "dfp-ad-mega_banner_top_seccionzuxl4")
                               .setTargeting('ad_group',Adomik.randomAdGroup())
                               .addService(googletag.pubads())
                                                                                                 .setTargeting("Posicion", "Top")
@@ -368,10 +368,10 @@ if (event.size[0] > 800 && event.size[1] > 500) {
                                                                                                                                 .setTargeting("especial", "[node:url:args:value:0]")
                                                                                                                                 .setTargeting("second_section", "[term:url:args:value:1][node:url:args:value:1]")
                                                                                             .defineSizeMapping(mapping);
-          googletag.display("dfp-ad-mega_banner_top_secciontt2lg");
+          googletag.display("dfp-ad-mega_banner_top_seccionzuxl4");
         });
       }else{
-        googletag.cmd.push(function() { googletag.display("dfp-ad-mega_banner_top_secciontt2lg"); });
+        googletag.cmd.push(function() { googletag.display("dfp-ad-mega_banner_top_seccionzuxl4"); });
       }
     }
     window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
@@ -437,7 +437,7 @@ jueves 07 de junio </div>
 <input placeholder="Escriba las palabras clave." type="text" id="edit-keys-6" name="keys_6" value="" size="15" maxlength="128" class="form-text" />
 </div>
 <input type="hidden" name="id" value="6" />
-<div class="button_submit"></div><div class="search_submit"><input type="submit" id="edit-submit-6" name="op" value="Buscar" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-WyJVtqhdBGAnO1HQxuecYSM1WLhngEr-ohptsk3mIOw" />
+<div class="button_submit"></div><div class="search_submit"><input type="submit" id="edit-submit-6" name="op" value="Buscar" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-DhhqMa2Ffa4SykFU9KoZP6AxWAjp5Y6ePVNCfte9xlg" />
 <input type="hidden" name="form_id" value="search_api_page_search_form_content" />
 </div></form> </div>
 </div>
@@ -454,7 +454,7 @@ jueves 07 de junio </div>
 </div>
 <ul><li><a href="/user/register" title="Create a new user account.">Crear nueva cuenta</a></li>
 <li><a href="/user/password" title="Request new password via e-mail.">Solicitar una nueva contraseña</a></li>
-</ul><input type="hidden" name="form_build_id" value="form-Po28r8e7riEysdfxicMBxZOUo0o5Djjx7z8WC-JFZJk" />
+</ul><input type="hidden" name="form_build_id" value="form--nCZOVFFbOhhpkWMjOi6SXM2rV5ZzaR6XTgK2cUWEH8" />
 <input type="hidden" name="form_id" value="user_login_block" />
 <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Iniciar sesión" class="form-submit" /></div><div class="hybridauth-widget-wrapper">
 <h3> </h3><ul class="hybridauth-widget"><li><a href="/hybridauth/window/Facebook?destination=taxonomy/term/88670&amp;destination_error=taxonomy/term/88670" title="Facebook" class="hybridauth-widget-provider hybridauth-onclick-popup" rel="nofollow" data-hybridauth-provider="Facebook" data-hybridauth-url="/hybridauth/window/Facebook?destination=taxonomy/term/88670&amp;destination_error=taxonomy/term/88670" data-ajax="false" data-hybridauth-width="800" data-hybridauth-height="500"><span class="hybridauth-icon facebook hybridauth-icon-hybridauth-48 hybridauth-facebook hybridauth-facebook-hybridauth-48" title="Facebook"></span>
@@ -560,7 +560,7 @@ jueves 07 de junio </div>
 <!-- <![endif]-->
 </picture></a> </div>
 </div>
-</div><div class="group-text-content field-group-div text-content"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/un-viaje-en-el-tiempo-traves-de-las-portadas-de-cromos-galeria-793090">Un viaje en el tiempo a través de las portadas de Cromos</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="group-node-info field-group-div node-info"><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos" class="active">Cromos</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden">Hace 2 horas</div></div></div></div>
+</div><div class="group-text-content field-group-div text-content"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/un-viaje-en-el-tiempo-traves-de-las-portadas-de-cromos-galeria-793090">Un viaje en el tiempo a través de las portadas de Cromos</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="group-node-info field-group-div node-info"><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos" class="active">Cromos</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden">Hace 3 horas</div></div></div></div>
 </div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article view-mode-average_height node--average-height node--article--average-height clearfix">
 <div class="node-image field field--name-field-main-picture field--type-image field--label-hidden"><a href="/cromos/gastronomia/camarones-salteados-con-garbanzo-y-calabacin-sobre-arroz-con-tomate-articulo-793032"><picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
@@ -573,28 +573,28 @@ jueves 07 de junio </div>
 <!--[if !lt IE 9]><!-->
 <img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="" title="" />
 <!-- <![endif]-->
-</picture></a></div><div class="group-container-teaser"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/gastronomia/camarones-salteados-con-garbanzo-y-calabacin-sobre-arroz-con-tomate-articulo-793032">Camarones salteados con garbanzo y calabacín sobre arroz con tomate</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/gastronomia">Gastronomía</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>Hace 5 horas</span></div></div></div>
+</picture></a></div><div class="group-container-teaser"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/gastronomia/camarones-salteados-con-garbanzo-y-calabacin-sobre-arroz-con-tomate-articulo-793032">Camarones salteados con garbanzo y calabacín sobre arroz con tomate</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/gastronomia">Gastronomía</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>Hace 7 horas</span></div></div></div>
 </div><div class="object block-dfp-roba_pagina_top_seccion"><div id="dfp-ad-roba_pagina_top_seccion-wrapper" class="dfp-tag-wrapper"><div class="fake_dfp" id="dfp-ad-roba_pagina_top_seccion" class="dfp-tag-wrapper">
 <script type="text/javascript">
     function slotDfp(){
 
-      if( typeof googletag.slots["roba_pagina_top_seccionrpn2o"] == "undefined" ){
+      if( typeof googletag.slots["roba_pagina_top_seccionpp447"] == "undefined" ){
         var mapping = googletag.sizeMapping()
                 .addSize([1050, 200],[300, 250])
                 .addSize([750, 200],[[320, 50], [300, 50]])
                 .addSize([320, 480],[[300, 250], [320, 50], [300, 50]])
                 .build();
         googletag.cmd.push(function() {
-          googletag.slots["roba_pagina_top_seccionrpn2o"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_top_seccionrpn2o")
+          googletag.slots["roba_pagina_top_seccionpp447"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_top_seccionpp447")
                               .setTargeting('ad_group',Adomik.randomAdGroup())
                               .addService(googletag.pubads())
                                                                                                 .setTargeting("Posicion", "Top2")
                                                                                                                                                                                               .setTargeting("especial", "[node:url:args:value:0]")
                                                                                             .defineSizeMapping(mapping);
-          googletag.display("dfp-ad-roba_pagina_top_seccionrpn2o");
+          googletag.display("dfp-ad-roba_pagina_top_seccionpp447");
         });
       }else{
-        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_top_seccionrpn2o"); });
+        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_top_seccionpp447"); });
       }
     }
     window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
@@ -612,9 +612,9 @@ jueves 07 de junio </div>
 <!--[if !lt IE 9]><!-->
 <img class="lazyload" data-aspectratio="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 1w" alt="" title="" />
 <!-- <![endif]-->
-</picture></a></div><div class="group-container-teaser"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/estilo-de-vida/cuando-es-amor-y-cuando-es-apego-articulo-792988">¿Cuándo es amor y cuándo es apego?</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/estilo-de-vida">Estilo de Vida</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>Hace 9 horas</span></div></div></div>
+</picture></a></div><div class="group-container-teaser"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h3><a href="/cromos/estilo-de-vida/cuando-es-amor-y-cuando-es-apego-articulo-792988">¿Cuándo es amor y cuándo es apego?</a></h3><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/estilo-de-vida">Estilo de Vida</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>Hace 11 horas</span></div></div></div>
 </div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article view-mode-featured node--featured node--article--featured clearfix">
-<div class="group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h2><a href="/cromos/moda/ropa-barata-y-para-todos-los-cuerpos-articulo-792985">Ropa barata y para todos los cuerpos</a></h2><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/moda">Moda</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>Hace 10 horas</span></div></div></div>
+<div class="group-text-content field-group-html-element"><div class="node-title field field--name-title field--type-ds field--label-hidden"><h2><a href="/cromos/moda/ropa-barata-y-para-todos-los-cuerpos-articulo-792985">Ropa barata y para todos los cuerpos</a></h2><script type="text/javascript">window.tabbola_type = "article";</script></div><div class="node-term field field--name-field-section field--type-taxonomy-term-reference field--label-hidden"><a href="/cromos/moda">Moda</a></div><div class="node-post-date field field--name-post-date field--type-ds field--label-hidden"><span>Hace 11 horas</span></div></div></div>
 </div></div><div class="col-xs-12 col-md-12 col-lg-4"><div class="object node-node"><div data-section-color="#f5364c" class="ds-1col node node--article node-teaser view-mode-teaser node--teaser node--article--teaser clearfix">
 <div class="node-image"><a href="/cromos/gastronomia/pernil-de-pavo-sobre-tortilla-de-maiz-con-salsa-de-guisantes-y-mango-articulo-792878"><picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
@@ -727,24 +727,24 @@ jueves 07 de junio </div>
 <script type="text/javascript">
     function slotDfp(){
 
-      if( typeof googletag.slots["roba_pagina_mid_seccioniy76p"] == "undefined" ){
+      if( typeof googletag.slots["roba_pagina_mid_seccion9tkk3"] == "undefined" ){
         var mapping = googletag.sizeMapping()
                 .addSize([1050, 200],[300, 250])
                 .addSize([750, 200],[[320, 50], [300, 50]])
                 .addSize([320, 480],[[300, 250], [320, 50], [300, 50]])
                 .build();
         googletag.cmd.push(function() {
-          googletag.slots["roba_pagina_mid_seccioniy76p"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_mid_seccioniy76p")
+          googletag.slots["roba_pagina_mid_seccion9tkk3"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_mid_seccion9tkk3")
                               .setTargeting('ad_group',Adomik.randomAdGroup())
                               .addService(googletag.pubads())
                                                                                                 .setTargeting("Posicion", "Mid")
                                                                                                                                 .setTargeting("especial", "[node:url:args:value:0]")
                                                                                                                                 .setTargeting("second_section", "[term:url:args:value:1][node:url:args:value:1]")
                                                                                             .defineSizeMapping(mapping);
-          googletag.display("dfp-ad-roba_pagina_mid_seccioniy76p");
+          googletag.display("dfp-ad-roba_pagina_mid_seccion9tkk3");
         });
       }else{
-        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_mid_seccioniy76p"); });
+        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_mid_seccion9tkk3"); });
       }
     }
     window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
@@ -860,24 +860,24 @@ jueves 07 de junio </div>
 <script type="text/javascript">
     function slotDfp(){
 
-      if( typeof googletag.slots["roba_pagina_bot_seccionds2pk"] == "undefined" ){
+      if( typeof googletag.slots["roba_pagina_bot_seccionaqnky"] == "undefined" ){
         var mapping = googletag.sizeMapping()
                 .addSize([1050, 200],[300, 250])
                 .addSize([750, 200],[[320, 50], [300, 50]])
                 .addSize([320, 480],[[300, 250], [320, 50], [300, 50]])
                 .build();
         googletag.cmd.push(function() {
-          googletag.slots["roba_pagina_bot_seccionds2pk"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_bot_seccionds2pk")
+          googletag.slots["roba_pagina_bot_seccionaqnky"] = googletag.defineSlot( "100249493/elespectador/cromos", [[320, 250], [300, 250]], "dfp-ad-roba_pagina_bot_seccionaqnky")
                               .setTargeting('ad_group',Adomik.randomAdGroup())
                               .addService(googletag.pubads())
                                                                                                 .setTargeting("Posicion", "Bot")
                                                                                                                                 .setTargeting("especial", "[node:url:args:value:0]")
                                                                                                                                 .setTargeting("second_section", "[term:url:args:value:1][node:url:args:value:1]")
                                                                                             .defineSizeMapping(mapping);
-          googletag.display("dfp-ad-roba_pagina_bot_seccionds2pk");
+          googletag.display("dfp-ad-roba_pagina_bot_seccionaqnky");
         });
       }else{
-        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_bot_seccionds2pk"); });
+        googletag.cmd.push(function() { googletag.display("dfp-ad-roba_pagina_bot_seccionaqnky"); });
       }
     }
     window.addEventListener("load", function() { slotDfp(); }, false); if( typeof googletag != "undefined" ){ slotDfp(); }
@@ -1001,7 +1001,7 @@ jueves 07 de junio </div>
 </ul></div>
 <div class="copyright">
 El uso de este sitio web implica la aceptación de los <a href="/terminos-y-condiciones-basic-page-683793" title="Terminos y condiciones">Términos y Condiciones</a> y <a href="/politica-de-tratamiento-de-datos-basic-page-705163" title="Políticas de Privacidad">Políticas de privacidad</a> de COMUNICAN S.A. Todos los Derechos Reservados D.R.A. Prohibida su reproducción total o parcial, así como su traducción a cualquier idioma sin la autorización escrita de su titular. Reproduction in whole or in part, or translation without written permission is prohibited. All rights reserved 2018
-<p>Servicio al cliente: LÍNEA NACIONAL 01 8000 510903. EN BOGOTÁ: 4055540, <a href="/cdn-cgi/l/email-protection#62110710140b010b0d030e010e0b070c160722070e07111207011603060d104c010d0f"><span class="__cf_email__" data-cfemail="67140215110e040e08060b040b0e0209130227020b021417020413060308154904080a49">[email&#160;protected]</span></a></p>
+<p>Servicio al cliente: LÍNEA NACIONAL 01 8000 510903. EN BOGOTÁ: 4055540, <a href="/cdn-cgi/l/email-protection#a6d5c3d4d0cfc5cfc9c7cac5cacfc3c8d2c3e6c3cac3d5d6c3c5d2c7c2c9d488c5c9cb"><span class="__cf_email__" data-cfemail="1f6c7a6d69767c76707e737c73767a716b7a5f7a737a6c6f7a7c6b7e7b706d317c707231">[email&#160;protected]</span></a></p>
 </div>
 </div>
 </div>
