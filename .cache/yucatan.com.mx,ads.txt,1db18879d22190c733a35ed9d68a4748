@@ -1,15 +1,15 @@
 status: 200
 content-length: 79
 content-location: http://yucatan.com.mx/ads.txt
-set-cookie: __cfduid=dd47755821fdba7a4d794466d811d5dac1528414137;
- expires=Fri, 07-Jun-19 23:28:57 GMT; path=/; domain=.yucatan.com.mx; HttpOnly
+set-cookie: __cfduid=d183a26b53e0ae4fd1ea9e31355fc7ff51529367814;
+ expires=Wed, 19-Jun-19 00:23:34 GMT; path=/; domain=.yucatan.com.mx; HttpOnly
 server: cloudflare
 last-modified: Tue, 10 Apr 2018 18:21:35 GMT
 connection: keep-alive
 -content-encoding: gzip
 etag: "5acd00af-4f"
-date: Thu, 07 Jun 2018 23:28:57 GMT
-cf-ray: 4276e5e5643b53c0-LAX
+date: Tue, 19 Jun 2018 00:23:34 GMT
+cf-ray: 42d1d90a37ae2276-LAX
 content-type: text/html
 
 <meta http-equiv="refresh" content="0;url=http://www.yucatan.com.mx/ads.txt"/>

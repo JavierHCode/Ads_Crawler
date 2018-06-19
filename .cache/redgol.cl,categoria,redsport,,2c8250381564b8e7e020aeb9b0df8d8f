@@ -1,20 +1,20 @@
 status: 200
 expect-ct: max-age=604800,
  report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
-content-length: 473586
+content-length: 539399
 content-location: https://redgol.cl/categoria/redsport/
-set-cookie: __cfduid=da592c2dc960951e36b31207afc8cc0ae1528414078;
- expires=Fri, 07-Jun-19 23:27:58 GMT; path=/; domain=.redgol.cl; HttpOnly;
+set-cookie: __cfduid=dad6531f0ea11bb54f77c6e2aff83560e1529367737;
+ expires=Wed, 19-Jun-19 00:22:17 GMT; path=/; domain=.redgol.cl; HttpOnly;
  Secure
 vary: Accept-Encoding
 server: cloudflare
 connection: keep-alive
 -content-encoding: gzip
-date: Thu, 07 Jun 2018 23:27:58 GMT
+date: Tue, 19 Jun 2018 00:22:17 GMT
 access-control-allow-origin: *
 access-control-allow-methods: GET, POST, OPTIONS
 content-type: text/html; charset=utf-8
-cf-ray: 4276e478fdca53f6-LAX
+cf-ray: 42d1d725ca335378-LAX
 -varied-accept-encoding: gzip, deflate
 
 
@@ -5978,6 +5978,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             gtag('js', new Date());
 
             gtag('config', 'UA-426744-4');
+            gtag('config', 'DC-4943881');
         </script>
 
         
@@ -6235,32 +6236,896 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 
 
 <article id="post-featured-articulo">
-	<a id="post-featured-imagen" href="/2018/6/bomba-lebron-james-se-reunira-con-los-gold/">
+	<a id="post-featured-imagen" href="/2018/6/ronda-rousey-tuvo-un-impecable-combate-ant/">
 		
-			<img src="https://d.rgcdn.net/a2bacdc124b54606b94b01ce40b11ca3/redgol-assets.s3.amazonaws.com/rg-assets_c1397bee5671f55733d11cc10c7c8202lebron/670x/redgol-assets.s3.amazonaws.jpg" alt="Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso - RedGol">
+			<img src="https://d.rgcdn.net/4ea76deb3a2d7a61a6d9258a2ee67cbb/redgol-assets.s3.amazonaws.com/rg-assets_4a78d34188ca742ebdc15491fb5f743awwe/670x/redgol-assets.s3.amazonaws.jpg" alt="Ronda Rousey tuvo un impecable combate ante Nia Jax pero Alexa Bliss le arrebató el cinturón - RedGol">
 		
 	</a>
 	<div id="post-featured-contenido">
-		<p id="post-featured-titulo">Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso</p>
+		<p id="post-featured-titulo">Ronda Rousey tuvo un impecable combate ante Nia Jax pero Alexa Bliss le arrebató el cinturón</p>
 		<p id="post-featured-meta">
 			
 				<strong id="post-featured-strong">Felipe Kaponi</strong>,
 			
-			7 de Jun. de 2018, 15:12.
+			18 de Jun. de 2018, 12:54.
 		</p>
 	</div>
 	<div id="post-featured-social-fb">
-		<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/bomba-lebron-james-se-reunira-con-los-gold/&title=Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso" rel="nofollow" title="Compartir">
+		<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/ronda-rousey-tuvo-un-impecable-combate-ant/&title=Ronda Rousey tuvo un impecable combate ante Nia Jax pero Alexa Bliss le arrebató el cinturón" rel="nofollow" title="Compartir">
 			<img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
 		</a>
 	</div>
 	<div id="post-featured-social-tw">
-		<a href="http://twitter.com/intent/tweet?status=Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso+http://redgol.cl/2018/6/bomba-lebron-james-se-reunira-con-los-gold/" rel="nofollow" title="Tweet">
+		<a href="http://twitter.com/intent/tweet?status=Ronda Rousey tuvo un impecable combate ante Nia Jax pero Alexa Bliss le arrebató el cinturón+http://redgol.cl/2018/6/ronda-rousey-tuvo-un-impecable-combate-ant/" rel="nofollow" title="Tweet">
 			<img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
 		</a>
 	</div>
-	<a id="post-featured-enlace" href="/2018/6/bomba-lebron-james-se-reunira-con-los-gold/"></a>
+	<a id="post-featured-enlace" href="/2018/6/ronda-rousey-tuvo-un-impecable-combate-ant/"></a>
 </article>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/aj-styles-sera-el-protagonista-de-la-porta/">
+            
+                <img src="https://d.rgcdn.net/eb4706897c5573a6a8609b6636236c28/redgol-assets.s3.amazonaws.com/rg-assets_1f4764c6311403a3305c4d5a05c45280aj/265x/redgol-assets.s3.amazonaws.jpg" alt="AJ Styles será el protagonista de la portada del WWE 2K19 y existirá un reto por un millón de dólares - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/aj-styles-sera-el-protagonista-de-la-porta/">AJ Styles será el protagonista de la portada del WWE 2K19 y existirá un reto por un millón de dólares</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            18 de Jun. de 2018, 12:32.
+        </p>
+        <!--<p class="post-mini-encabezado">2K escogi&oacute; al campe&oacute;n de WWE como la nueva figura principal del videojuego de lucha libre que saldr&aacute; a la ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/aj-styles-sera-el-protagonista-de-la-porta/&title=AJ Styles será el protagonista de la portada del WWE 2K19 y existirá un reto por un millón de dólares" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=AJ Styles será el protagonista de la portada del WWE 2K19 y existirá un reto por un millón de dólares+http://redgol.cl/2018/6/aj-styles-sera-el-protagonista-de-la-porta/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/christian-garin-tuvo-un-debut-ganador-en-e/">
+            
+                <img src="https://d.rgcdn.net/c3558ceab9fbd747355412790d8897dd/redgol-assets.s3.amazonaws.com/rg-assets_36e719847bc9f3647f81b4a60b054950garin/265x/redgol-assets.s3.amazonaws.jpg" alt="Christian Garín tuvo un debut ganador en el Challenger de Blois y aseguró su mejor ránking histórico - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/christian-garin-tuvo-un-debut-ganador-en-e/">Christian Garín tuvo un debut ganador en el Challenger de Blois y aseguró su mejor ránking histórico</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            18 de Jun. de 2018, 12:14.
+        </p>
+        <!--<p class="post-mini-encabezado">La segunda raqueta nacional venci&oacute; en dos sets al local Jaimee Floyd Angele y subir&aacute; al puesto 164, el mejor ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/christian-garin-tuvo-un-debut-ganador-en-e/&title=Christian Garín tuvo un debut ganador en el Challenger de Blois y aseguró su mejor ránking histórico" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Christian Garín tuvo un debut ganador en el Challenger de Blois y aseguró su mejor ránking histórico+http://redgol.cl/2018/6/christian-garin-tuvo-un-debut-ganador-en-e/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/vuelve-a-ser-el-rey-roger-federer-vuelve-a/">
+            
+                <img src="https://d.rgcdn.net/0249382cb22fd6cae6076f2b8c6de503/redgol-assets.s3.amazonaws.com/rg-assets_213a63d62f83a5946fe89213124ccc0dfederer/265x/redgol-assets.s3.amazonaws.jpg" alt="Regresó al trono: Roger Federer vuelve a ser el número uno del mundo y Nico Jarry bajó dos puestos - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/vuelve-a-ser-el-rey-roger-federer-vuelve-a/">Regresó al trono: Roger Federer vuelve a ser el número uno del mundo y Nico Jarry bajó dos puestos</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            18 de Jun. de 2018, 11:49.
+        </p>
+        <!--<p class="post-mini-encabezado">El r&aacute;nking se actualiz&oacute; y el helv&eacute;tico regres&oacute; a lo m&aacute;s alto. Adem&aacute;s, Christian Gar&iacute;n ascendi&oacute; 6 escalones y qued&oacute; ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/vuelve-a-ser-el-rey-roger-federer-vuelve-a/&title=Regresó al trono: Roger Federer vuelve a ser el número uno del mundo y Nico Jarry bajó dos puestos" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Regresó al trono: Roger Federer vuelve a ser el número uno del mundo y Nico Jarry bajó dos puestos+http://redgol.cl/2018/6/vuelve-a-ser-el-rey-roger-federer-vuelve-a/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/kawhi-leonard-quiere-salir-de-san-antonio/">
+            
+                <img src="https://d.rgcdn.net/2b98609740bc84cfe7c1ffa1a0f387db/redgol-assets.s3.amazonaws.com/rg-assets_ae30856e5dfb1d3602a43535580bee55leonard/265x/redgol-assets.s3.amazonaws.jpg" alt="Kawhi Leonard quiere salir de San Antonio Spurs y busca llegar a Los Ángeles Lakers - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/kawhi-leonard-quiere-salir-de-san-antonio/">Kawhi Leonard quiere salir de San Antonio Spurs y busca llegar a Los Ángeles Lakers</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            17 de Jun. de 2018, 13:49.
+        </p>
+        <!--<p class="post-mini-encabezado">Seg&uacute;n varios medios de Estados Unidos el alero quiere dejar la franquicia de San Antonio para llegar a los Lakers, ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/kawhi-leonard-quiere-salir-de-san-antonio/&title=Kawhi Leonard quiere salir de San Antonio Spurs y busca llegar a Los Ángeles Lakers" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Kawhi Leonard quiere salir de San Antonio Spurs y busca llegar a Los Ángeles Lakers+http://redgol.cl/2018/6/kawhi-leonard-quiere-salir-de-san-antonio/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/roger-federer-es-nuevamente-el-numero-1-de/">
+            
+                <img src="https://d.rgcdn.net/bd13ce2f4765c5e3fef4400d12178ad7/redgol-assets.s3.amazonaws.com/rg-assets_20ff178d8c8be416e0516fc1a8f68322federer/265x/redgol-assets.s3.amazonaws.jpg" alt="Roger Federer es nuevamente el número 1 del mundo tras ser campeón en Sttutgart - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/roger-federer-es-nuevamente-el-numero-1-de/">Roger Federer es nuevamente el número 1 del mundo tras ser campeón en Sttutgart</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            17 de Jun. de 2018, 13:33.
+        </p>
+        <!--<p class="post-mini-encabezado">El suizo se impuso a&nbsp;Milo Raonic y asegur&oacute; su regreso a lo m&aacute;s alto del r&aacute;nking ATP. Adem&aacute;s, el helv&eacute;tico ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/roger-federer-es-nuevamente-el-numero-1-de/&title=Roger Federer es nuevamente el número 1 del mundo tras ser campeón en Sttutgart" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Roger Federer es nuevamente el número 1 del mundo tras ser campeón en Sttutgart+http://redgol.cl/2018/6/roger-federer-es-nuevamente-el-numero-1-de/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/junto-al-numero-1-christian-garin-prepara/">
+            
+                <img src="https://d.rgcdn.net/a4791b181559c826426dfd097d02b3af/redgol-assets.s3.amazonaws.com/rg-assets_95a881d24047445aaeb3bf1271f61214page/265x/redgol-assets.s3.amazonaws.jpg" alt="Junto al número 1: Christian Garín se prepara con Rafael Nadal en Mallorca para su participación en Wimbledon - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/junto-al-numero-1-christian-garin-prepara/">Junto al número 1: Christian Garín se prepara con Rafael Nadal en Mallorca para su participación en Wimbledon</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Redgol</strong>,
+            
+            16 de Jun. de 2018, 11:19.
+        </p>
+        <!--<p class="post-mini-encabezado">La segunda raqueta del tenis chileno volvi&oacute; a trabajar con el mallorqu&iacute;n, su t&iacute;o Toni Nadal y el ex n&uacute;mero ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/junto-al-numero-1-christian-garin-prepara/&title=Junto al número 1: Christian Garín se prepara con Rafael Nadal en Mallorca para su participación en Wimbledon" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Junto al número 1: Christian Garín se prepara con Rafael Nadal en Mallorca para su participación en Wimbledon+http://redgol.cl/2018/6/junto-al-numero-1-christian-garin-prepara/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/chile-sub-18-no-pudo-en-el-basquetbol-cayo/">
+            
+                <img src="https://d.rgcdn.net/b07d5582fd7d726e01b36805c285b8eb/redgol-assets.s3.amazonaws.com/rg-assets_ff0218aefa19139f74af1c5c300cb27degt/265x/redgol-assets.s3.amazonaws.jpg" alt="Chile sub 18 no pudo en el básquetbol, cayó en un partidazo ante Puerto Rico y se quedó sin Mundial 2019 - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/chile-sub-18-no-pudo-en-el-basquetbol-cayo/">Chile sub 18 no pudo en el básquetbol, cayó en un partidazo ante Puerto Rico y se quedó sin Mundial 2019</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            14 de Jun. de 2018, 20:34.
+        </p>
+        <!--<p class="post-mini-encabezado">El equipo nacional batall&oacute; hasta la &uacute;ltima posesi&oacute;n pero no pudo con el poder&iacute;o en la pintura de los centroamericanos. ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/chile-sub-18-no-pudo-en-el-basquetbol-cayo/&title=Chile sub 18 no pudo en el básquetbol, cayó en un partidazo ante Puerto Rico y se quedó sin Mundial 2019" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Chile sub 18 no pudo en el básquetbol, cayó en un partidazo ante Puerto Rico y se quedó sin Mundial 2019+http://redgol.cl/2018/6/chile-sub-18-no-pudo-en-el-basquetbol-cayo/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/hay-pelea-golovkin-y-canelo-tendran-su-tan/">
+            
+                <img src="https://d.rgcdn.net/9b2a65da8ba064b19ccdb11e4ee5b2bd/redgol-assets.s3.amazonaws.com/rg-assets_48cef0d2f9f4f13dfeb035b033c40436pelea/265x/redgol-assets.s3.amazonaws.jpg" alt="¡Hay pelea! Golovkin y Canelo tendrán su tan esperada revancha el 15 de septiembre - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/hay-pelea-golovkin-y-canelo-tendran-su-tan/">¡Hay pelea! Golovkin y Canelo tendrán su tan esperada revancha el 15 de septiembre</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            13 de Jun. de 2018, 19:27.
+        </p>
+        <!--<p class="post-mini-encabezado">El combate fue confirmado por &Oacute;scar de la Hoya tras llegar a acuerdo con el agente de GGG.</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/hay-pelea-golovkin-y-canelo-tendran-su-tan/&title=¡Hay pelea! Golovkin y Canelo tendrán su tan esperada revancha el 15 de septiembre" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=¡Hay pelea! Golovkin y Canelo tendrán su tan esperada revancha el 15 de septiembre+http://redgol.cl/2018/6/hay-pelea-golovkin-y-canelo-tendran-su-tan/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/video-asics-celebra-los-100-anos-de-su-fun/">
+            
+                <img src="https://d.rgcdn.net/79c1f947843b2e0e31758a52f74b00d2/redgol-assets.s3.amazonaws.com/rg-assets_0e5bdcfd2112ce429e727a76d7c72481fawsfaw/265x/redgol-assets.s3.amazonaws.jpg" alt="[Video] Asics celebra los 100 años de su fundador y te invita a participar a la Golden Run Santiago 2018 - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/video-asics-celebra-los-100-anos-de-su-fun/">[Video] Asics celebra los 100 años de su fundador y te invita a participar a la Golden Run Santiago 2018</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Sebastián Munizaga</strong>,
+            
+            13 de Jun. de 2018, 16:13.
+        </p>
+        <!--<p class="post-mini-encabezado">La marca nipona est&aacute; de fiesta y una de las formas para celebrar a futuro es corriendo en la atractiva ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/video-asics-celebra-los-100-anos-de-su-fun/&title=[Video] Asics celebra los 100 años de su fundador y te invita a participar a la Golden Run Santiago 2018" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=[Video] Asics celebra los 100 años de su fundador y te invita a participar a la Golden Run Santiago 2018+http://redgol.cl/2018/6/video-asics-celebra-los-100-anos-de-su-fun/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/los-mejores-10-momentos-de-smackdown-asuka/">
+            
+                <img src="https://d.rgcdn.net/07348922ede6dac04f6c61b8cd9301cd/redgol-assets.s3.amazonaws.com/rg-assets_13c57d66454f374fcd3aa3aa7f7f4a0cwwe/265x/redgol-assets.s3.amazonaws.jpg" alt="Los mejores 10 momentos de SmackDown: Asuka sometió a Cermella y sueña con el título en Money In The Bank - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/los-mejores-10-momentos-de-smackdown-asuka/">Los mejores 10 momentos de SmackDown: Asuka sometió a Cermella y sueña con el título en Money In The Bank</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            13 de Jun. de 2018, 14:38.
+        </p>
+        <!--<p class="post-mini-encabezado">El show azul dej&oacute; encendida la escena para el evento del domingo. AJ Styles asegur&oacute; que saldr&aacute; de Money In ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/los-mejores-10-momentos-de-smackdown-asuka/&title=Los mejores 10 momentos de SmackDown: Asuka sometió a Cermella y sueña con el título en Money In The Bank" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Los mejores 10 momentos de SmackDown: Asuka sometió a Cermella y sueña con el título en Money In The Bank+http://redgol.cl/2018/6/los-mejores-10-momentos-de-smackdown-asuka/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/donde-ver-a-chile-sub-18-contra-puerto-ric/">
+            
+                <img src="https://d.rgcdn.net/9e81ae0d1dbf1587cd9345099ed34300/redgol-assets.s3.amazonaws.com/rg-assets_7d37e18a496991666addbd4bf27eb203pr/265x/redgol-assets.s3.amazonaws.jpg" alt="Dónde ver a Chile Sub-18 contra Puerto Rico en el premundial de basket: Cuándo juegan, hora, TV y streaming - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/donde-ver-a-chile-sub-18-contra-puerto-ric/">Dónde ver a Chile Sub-18 contra Puerto Rico en el premundial de basket: Cuándo juegan, hora, TV y streaming</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            13 de Jun. de 2018, 14:07.
+        </p>
+        <!--<p class="post-mini-encabezado">La Roja se juega la clasificaci&oacute;n a la copa del mundo contra uno de los equipos favoritos del torneo que ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/donde-ver-a-chile-sub-18-contra-puerto-ric/&title=Dónde ver a Chile Sub-18 contra Puerto Rico en el premundial de basket: Cuándo juegan, hora, TV y streaming" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Dónde ver a Chile Sub-18 contra Puerto Rico en el premundial de basket: Cuándo juegan, hora, TV y streaming+http://redgol.cl/2018/6/donde-ver-a-chile-sub-18-contra-puerto-ric/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/chile-cayo-ante-canada-en-el-premundial-su/">
+            
+                <img src="https://d.rgcdn.net/4f84c10a2aef49b55f07ada4a7414adf/redgol-assets.s3.amazonaws.com/rg-assets_c631e1c81973ded2a7a9a4433f39f166canada/265x/redgol-assets.s3.amazonaws.jpg" alt="Chile cayó ante Canadá en el premundial sub-18 de básquetbol y en cuartos de final se medirá a Puerto Rico - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/chile-cayo-ante-canada-en-el-premundial-su/">Chile cayó ante Canadá en el premundial sub-18 de básquetbol y en cuartos de final se medirá a Puerto Rico</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            12 de Jun. de 2018, 23:06.
+        </p>
+        <!--<p class="post-mini-encabezado">El cuadro nacional tuvo poco que hacer ante el equipo norteamericano y perdi&oacute; por 37 puntos. En busca de la ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/chile-cayo-ante-canada-en-el-premundial-su/&title=Chile cayó ante Canadá en el premundial sub-18 de básquetbol y en cuartos de final se medirá a Puerto Rico" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Chile cayó ante Canadá en el premundial sub-18 de básquetbol y en cuartos de final se medirá a Puerto Rico+http://redgol.cl/2018/6/chile-cayo-ante-canada-en-el-premundial-su/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/marcelo-rios-destaco-con-especial-saludo-a/">
+            
+                <img src="https://d.rgcdn.net/0797efb1e6916e9c3276ffb368a51c5c/redgol-assets.s3.amazonaws.com/rg-assets_2ff09246d183ed668ee07ccb5ff234a0page/265x/redgol-assets.s3.amazonaws.jpg" alt="Marcelo Ríos destacó con especial saludo al Team Chile, en video con grandes deportistas chilenos - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/marcelo-rios-destaco-con-especial-saludo-a/">Marcelo Ríos destacó con especial saludo al Team Chile, en video con grandes deportistas chilenos</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Daniel Beovic</strong>,
+            
+            12 de Jun. de 2018, 22:09.
+        </p>
+        <!--<p class="post-mini-encabezado">Varios ex destacados deportistas y actuales emblemas del deporte nacional saludaron a la comitiva que realiz&oacute; una hist&oacute;rica actuaci&oacute;n en ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/marcelo-rios-destaco-con-especial-saludo-a/&title=Marcelo Ríos destacó con especial saludo al Team Chile, en video con grandes deportistas chilenos" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Marcelo Ríos destacó con especial saludo al Team Chile, en video con grandes deportistas chilenos+http://redgol.cl/2018/6/marcelo-rios-destaco-con-especial-saludo-a/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/lo-mejor-de-raw-ronda-rousey-exploto-y-le/">
+            
+                <img src="https://d.rgcdn.net/8025689ce210938303434034431c83e1/redgol-assets.s3.amazonaws.com/rg-assets_eafdd34f35d835574fdefa086bd647beronda/265x/redgol-assets.s3.amazonaws.jpg" alt="Lo mejor de RAW: Ronda Rousey explotó y le destrozó el brazo a Nia Jax - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/lo-mejor-de-raw-ronda-rousey-exploto-y-le/">Lo mejor de RAW: Ronda Rousey explotó y le destrozó el brazo a Nia Jax</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            12 de Jun. de 2018, 17:51.
+        </p>
+        <!--<p class="post-mini-encabezado">El domingo Ronda tendr&aacute; su primera oportunidad titular y le dej&oacute; un fuerte mensaje a la campeona. Adem&aacute;s, Braun Strowman ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/lo-mejor-de-raw-ronda-rousey-exploto-y-le/&title=Lo mejor de RAW: Ronda Rousey explotó y le destrozó el brazo a Nia Jax" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Lo mejor de RAW: Ronda Rousey explotó y le destrozó el brazo a Nia Jax+http://redgol.cl/2018/6/lo-mejor-de-raw-ronda-rousey-exploto-y-le/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/christian-garin-derroto-a-gerald-melzer-y/">
+            
+                <img src="https://d.rgcdn.net/159525a3cbcbb447fa2404fe2db92b94/redgol-assets.s3.amazonaws.com/rg-assets_e1022762b0a7349d2493b8524ac738c9garin/265x/redgol-assets.s3.amazonaws.jpg" alt="Christian Garín derrotó a Gerald Melzer y se metió en los octavos de final del Challenger de Lyon - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/christian-garin-derroto-a-gerald-melzer-y/">Christian Garín derrotó a Gerald Melzer y se metió en los octavos de final del Challenger de Lyon</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            12 de Jun. de 2018, 15:39.
+        </p>
+        <!--<p class="post-mini-encabezado">El n&uacute;mero 2 de Chile tuvo un genial debut en Francia y en busca de los cuartos de final se ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/christian-garin-derroto-a-gerald-melzer-y/&title=Christian Garín derrotó a Gerald Melzer y se metió en los octavos de final del Challenger de Lyon" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Christian Garín derrotó a Gerald Melzer y se metió en los octavos de final del Challenger de Lyon+http://redgol.cl/2018/6/christian-garin-derroto-a-gerald-melzer-y/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/donde-ver-a-chile-sub-18-contra-canada-en/">
+            
+                <img src="https://d.rgcdn.net/0f0352951e1fc1f45ff560b0912528c4/redgol-assets.s3.amazonaws.com/rg-assets_cf35da7053f8233cbf6b4e19fdb9e8f6chilecanada/265x/redgol-assets.s3.amazonaws.jpg" alt="Dónde ver a Chile Sub-18 contra Canadá en el premundial de básquetbol: Cuándo juegan, hora, TV y streaming - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/donde-ver-a-chile-sub-18-contra-canada-en/">Dónde ver a Chile Sub-18 contra Canadá en el premundial de básquetbol: Cuándo juegan, hora, TV y streaming</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            11 de Jun. de 2018, 21:12.
+        </p>
+        <!--<p class="post-mini-encabezado">El equipo nacional lleva un triunfo y una derrota en el torneo, y el siguiente rival que aparece en el ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/donde-ver-a-chile-sub-18-contra-canada-en/&title=Dónde ver a Chile Sub-18 contra Canadá en el premundial de básquetbol: Cuándo juegan, hora, TV y streaming" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Dónde ver a Chile Sub-18 contra Canadá en el premundial de básquetbol: Cuándo juegan, hora, TV y streaming+http://redgol.cl/2018/6/donde-ver-a-chile-sub-18-contra-canada-en/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/chile-cayo-ante-argentina-en-el-segundo-pa/">
+            
+                <img src="https://d.rgcdn.net/52aa934448ac6f466ce2959df6c3df2b/redgol-assets.s3.amazonaws.com/rg-assets_e5efdba9707437561ff6270d4198e7eachile/265x/redgol-assets.s3.amazonaws.jpg" alt="Chile cayó ante Argentina en el segundo partido del premundial sub-18 de básquetbol - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/chile-cayo-ante-argentina-en-el-segundo-pa/">Chile cayó ante Argentina en el segundo partido del premundial sub-18 de básquetbol</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            11 de Jun. de 2018, 20:55.
+        </p>
+        <!--<p class="post-mini-encabezado">La Roja tuvo una gran primera parte de partido, pero en los &uacute;ltimos dos cuartos baj&oacute; la intensidad y los ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/chile-cayo-ante-argentina-en-el-segundo-pa/&title=Chile cayó ante Argentina en el segundo partido del premundial sub-18 de básquetbol" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Chile cayó ante Argentina en el segundo partido del premundial sub-18 de básquetbol+http://redgol.cl/2018/6/chile-cayo-ante-argentina-en-el-segundo-pa/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/comenzo-la-caceria-gregg-popovich-quiere-c/">
+            
+                <img src="https://d.rgcdn.net/0067f7a410082dca48133189accb83ae/redgol-assets.s3.amazonaws.com/rg-assets_a34adc32f28d4fd281a5ee3e74bcbdb5lebron/265x/redgol-assets.s3.amazonaws.jpg" alt="Comenzó la cacería: Gregg Popovich quiere conversar con LeBron James para llevarlo a los San Antonio Spurs - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/comenzo-la-caceria-gregg-popovich-quiere-c/">Comenzó la cacería: Gregg Popovich quiere conversar con LeBron James para llevarlo a los San Antonio Spurs</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            11 de Jun. de 2018, 17:31.
+        </p>
+        <!--<p class="post-mini-encabezado">Seg&uacute;n el periodista Marc Stein el entrenador de los Spurs busca reunirse con James para ofrecerle un nuevo proyecto ganador.</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/comenzo-la-caceria-gregg-popovich-quiere-c/&title=Comenzó la cacería: Gregg Popovich quiere conversar con LeBron James para llevarlo a los San Antonio Spurs" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Comenzó la cacería: Gregg Popovich quiere conversar con LeBron James para llevarlo a los San Antonio Spurs+http://redgol.cl/2018/6/comenzo-la-caceria-gregg-popovich-quiere-c/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/punto-de-quiebre-roger-federer-rompe-con-n/">
+            
+                <img src="https://d.rgcdn.net/ca11933833056c9d894273621e919b74/redgol-assets.s3.amazonaws.com/rg-assets_5b1d7a66a420b529285e8a6764a304b8uniqlo/265x/redgol-assets.s3.amazonaws.jpg" alt="Punto de quiebre: Roger Federer rompe con Nike y fichará con Uniqlo por los próximos 10 años - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/punto-de-quiebre-roger-federer-rompe-con-n/">Punto de quiebre: Roger Federer rompe con Nike y fichará con Uniqlo por los próximos 10 años</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            11 de Jun. de 2018, 16:10.
+        </p>
+        <!--<p class="post-mini-encabezado">Los medios suizos dan por cerrado el acuerdo del tenista con la marca japonesa. El campe&oacute;n del Abierto de Australia ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/punto-de-quiebre-roger-federer-rompe-con-n/&title=Punto de quiebre: Roger Federer rompe con Nike y fichará con Uniqlo por los próximos 10 años" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Punto de quiebre: Roger Federer rompe con Nike y fichará con Uniqlo por los próximos 10 años+http://redgol.cl/2018/6/punto-de-quiebre-roger-federer-rompe-con-n/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/las-50-mejores-jugadas-de-los-playoffs-de/">
+            
+                <img src="https://d.rgcdn.net/61dfa69de4702bdd60192d5814c5c176/redgol-assets.s3.amazonaws.com/rg-assets_62ea9a035b79f90e5e4082d22d7d1831nba/265x/redgol-assets.s3.amazonaws.jpg" alt="Las 50 mejores jugadas de los playoffs de la NBA: Kevin Durant, LeBron James y Curry se roban el protagonismo - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/las-50-mejores-jugadas-de-los-playoffs-de/">Las 50 mejores jugadas de los playoffs de la NBA: Kevin Durant, LeBron James y Curry se roban el protagonismo</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            11 de Jun. de 2018, 13:28.
+        </p>
+        <!--<p class="post-mini-encabezado">La temporada 2018 de la NBA tuvo de todo y Golden State Warriors volvi&oacute; a imponerse como los reyes del ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/las-50-mejores-jugadas-de-los-playoffs-de/&title=Las 50 mejores jugadas de los playoffs de la NBA: Kevin Durant, LeBron James y Curry se roban el protagonismo" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Las 50 mejores jugadas de los playoffs de la NBA: Kevin Durant, LeBron James y Curry se roban el protagonismo+http://redgol.cl/2018/6/las-50-mejores-jugadas-de-los-playoffs-de/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/donde-ver-a-chile-sub-18-contra-argentina/">
+            
+                <img src="https://d.rgcdn.net/92633cb934fda30892523274598476d3/redgol-assets.s3.amazonaws.com/rg-assets_b6819a8327386c2725dc9c11d9d7ead6basket/265x/redgol-assets.s3.amazonaws.jpg" alt="Dónde ver a Chile Sub-18 contra Argentina en el premundial de básquetbol: Cuándo juegan, hora, TV y streaming - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/donde-ver-a-chile-sub-18-contra-argentina/">Dónde ver a Chile Sub-18 contra Argentina en el premundial de básquetbol: Cuándo juegan, hora, TV y streaming</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            10 de Jun. de 2018, 21:24.
+        </p>
+        <!--<p class="post-mini-encabezado">El equipo nacional tuvo un gran inicio en el premundial tras vencer a Ecuador y ahora se medir&aacute; al cuadro ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/donde-ver-a-chile-sub-18-contra-argentina/&title=Dónde ver a Chile Sub-18 contra Argentina en el premundial de básquetbol: Cuándo juegan, hora, TV y streaming" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Dónde ver a Chile Sub-18 contra Argentina en el premundial de básquetbol: Cuándo juegan, hora, TV y streaming+http://redgol.cl/2018/6/donde-ver-a-chile-sub-18-contra-argentina/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/chile-debuto-a-lo-grande-en-el-pre-mundial/">
+            
+                <img src="https://d.rgcdn.net/019b43d1d7bfc0140fb95698e2d718b6/redgol-assets.s3.amazonaws.com/rg-assets_1a8b7f602639b010e67cb2077dd221b7nasket/265x/redgol-assets.s3.amazonaws.jpg" alt="Chile debutó a lo grande en el Pre-Mundial sub-18 de básquetbol tras vencer a Ecuador - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/chile-debuto-a-lo-grande-en-el-pre-mundial/">Chile debutó a lo grande en el Pre-Mundial sub-18 de básquetbol tras vencer a Ecuador</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            10 de Jun. de 2018, 15:26.
+        </p>
+        <!--<p class="post-mini-encabezado">El equipo nacional comenz&oacute; con el pie derecho en el torneo con un s&oacute;lido triunfo ante Ecuador.</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/chile-debuto-a-lo-grande-en-el-pre-mundial/&title=Chile debutó a lo grande en el Pre-Mundial sub-18 de básquetbol tras vencer a Ecuador" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Chile debutó a lo grande en el Pre-Mundial sub-18 de básquetbol tras vencer a Ecuador+http://redgol.cl/2018/6/chile-debuto-a-lo-grande-en-el-pre-mundial/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/cm-punk-dio-un-triste-espectaculo-y-volvio/">
+            
+                <img src="https://d.rgcdn.net/d127b94b520d4bd3c5fc81a8f1796ca4/redgol-assets.s3.amazonaws.com/rg-assets_19178666febd515d2bf637c04342f33epunk/265x/redgol-assets.s3.amazonaws.jpg" alt="CM Punk dio un triste espectáculo y volvió a perder en su segundo combate en UFC - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/cm-punk-dio-un-triste-espectaculo-y-volvio/">CM Punk dio un triste espectáculo y volvió a perder en su segundo combate en UFC</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            10 de Jun. de 2018, 15:03.
+        </p>
+        <!--<p class="post-mini-encabezado">UFC 225 se realiz&oacute; en Chicago y el ex WWE tuvo la oportunidad de vovler a subirse al oct&aacute;gono, pero ...</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/cm-punk-dio-un-triste-espectaculo-y-volvio/&title=CM Punk dio un triste espectáculo y volvió a perder en su segundo combate en UFC" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=CM Punk dio un triste espectáculo y volvió a perder en su segundo combate en UFC+http://redgol.cl/2018/6/cm-punk-dio-un-triste-espectaculo-y-volvio/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
+            
+        
+            
+                
+
+<article class="post-mini-articulo">
+    <div class="post-mini-imagen">
+        <a href="/2018/6/bomba-lebron-james-se-reunira-con-los-gold/">
+            
+                <img src="https://d.rgcdn.net/bf37aa334e86a9e669d8b293f2ca551d/redgol-assets.s3.amazonaws.com/rg-assets_c1397bee5671f55733d11cc10c7c8202lebron/265x/redgol-assets.s3.amazonaws.jpg" alt="Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso - RedGol">
+            
+        </a>
+    </div>
+    <div class="post-mini-contenido">
+        <a class="post-mini-titulo" href="/2018/6/bomba-lebron-james-se-reunira-con-los-gold/">Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso</a>
+        <p class="post-mini-meta">
+            
+                <strong class="post-mini-strong">Felipe Kaponi</strong>,
+            
+            7 de Jun. de 2018, 15:12.
+        </p>
+        <!--<p class="post-mini-encabezado">El alero termina contrato con los Cavaliers y todo parece indicar que buscar&aacute; un nuevo equipo para la pr&oacute;xima temporada.</p>-->
+    </div>
+    <div class="post-mini-social-fb">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/bomba-lebron-james-se-reunira-con-los-gold/&title=Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso" rel="nofollow" title="Compartir">
+            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="post-mini-social-tw">
+        <a href="http://twitter.com/intent/tweet?status=Bomba: LeBron James se reunirá con los Golden State en verano para negociar un posible traspaso+http://redgol.cl/2018/6/bomba-lebron-james-se-reunira-con-los-gold/" rel="nofollow" title="Tweet">
+            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
+        </a>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="post-mini-separador"></div>
             
         
             
@@ -6770,894 +7635,30 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             
                 
 
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/">
-            
-                <img src="https://d.rgcdn.net/f0871da5fc64033f2748535bfe5feb6e/redgol-assets.s3.amazonaws.com/rg-assets_f10855a884bc48f6461dfa3bf8f4c36cfinnbalor/265x/redgol-assets.s3.amazonaws.jpg" alt="Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/">Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            5 de Jun. de 2018, 16:32.
-        </p>
-        <!--<p class="post-mini-encabezado">A dos semanas de Money In The Bank, RAW tiene a dos luchadores que se perfilen como ganadores del malet&iacute;n. ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/&title=Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto+http://redgol.cl/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/">
-            
-                <img src="https://d.rgcdn.net/1cbce9a546ca9a777f4642588bd504de/redgol-assets.s3.amazonaws.com/rg-assets_c705c63709477551d7c8a15d2f843fd0porta/265x/redgol-assets.s3.amazonaws.jpg" alt="Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/">Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Redgol</strong>,
-            
-            4 de Jun. de 2018, 18:41.
-        </p>
-        <!--<p class="post-mini-encabezado">La marca japonesa estar&aacute; presente en esta innovadora experiencia que mezclar&aacute; el deporte con la mejor m&uacute;sica en las calles ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/&title=Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Nissan se suma a la primera Rock ‘n’ Roll Marathon en Chile y guiará a los corredores con autos eléctricos+http://redgol.cl/2018/6/nissan-se-suma-a-la-primera-rock-n-roll-ma/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/pilotos-chilenos-se-reunieron-para-conocer/">
-            
-                <img src="https://d.rgcdn.net/84fa33ac5582b1e9b47c6ec8bccdc9ae/redgol-assets.s3.amazonaws.com/rg-assets_74113792e3135025473df7b877bb0068porta/265x/redgol-assets.s3.amazonaws.jpg" alt="Pilotos chilenos se reunieron para conocer las novedades del próximo Dakar, cien por ciento peruano - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/pilotos-chilenos-se-reunieron-para-conocer/">Pilotos chilenos se reunieron para conocer las novedades del próximo Dakar, cien por ciento peruano</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Redgol</strong>,
-            
-            4 de Jun. de 2018, 18:27.
-        </p>
-        <!--<p class="post-mini-encabezado">Liderados por Ignacio Casale y Pablo Quintanilla, los principales exponentes del rally de nuestro pa&iacute;s se citaron para ir adelantando ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/pilotos-chilenos-se-reunieron-para-conocer/&title=Pilotos chilenos se reunieron para conocer las novedades del próximo Dakar, cien por ciento peruano" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Pilotos chilenos se reunieron para conocer las novedades del próximo Dakar, cien por ciento peruano+http://redgol.cl/2018/6/pilotos-chilenos-se-reunieron-para-conocer/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/stephen-curry-aplasto-a-los-cavaliers-y-de/">
-            
-                <img src="https://d.rgcdn.net/52fc8b8002b523798353f4d7f1fd97d2/redgol-assets.s3.amazonaws.com/rg-assets_3c78d8b58fc2406ceddb177b19e78c3ccurry/265x/redgol-assets.s3.amazonaws.jpg" alt="Stephen Curry aplastó a los Cavaliers y dejó 2-0 a Golden State en la final de la NBA - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/stephen-curry-aplasto-a-los-cavaliers-y-de/">Stephen Curry aplastó a los Cavaliers y dejó 2-0 a Golden State en la final de la NBA</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            4 de Jun. de 2018, 15:00.
-        </p>
-        <!--<p class="post-mini-encabezado">El jugador de los Warriors alcanz&oacute; una marca hist&oacute;rica con 9 triples en un partido de las finales de la ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/stephen-curry-aplasto-a-los-cavaliers-y-de/&title=Stephen Curry aplastó a los Cavaliers y dejó 2-0 a Golden State en la final de la NBA" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Stephen Curry aplastó a los Cavaliers y dejó 2-0 a Golden State en la final de la NBA+http://redgol.cl/2018/6/stephen-curry-aplasto-a-los-cavaliers-y-de/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/nicolas-jarry-y-maximo-gonzalez-se-metiero-1/">
-            
-                <img src="https://d.rgcdn.net/277ed036f3588b5d730a8b3aadb759a6/redgol-assets.s3.amazonaws.com/rg-assets_b8e2383bb615cbe6f37e495f5a3099c7jarry/265x/redgol-assets.s3.amazonaws.jpg" alt="Nicolás Jarry y Máximo González se metieron entre las ocho mejores duplas de Roland Garros - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/nicolas-jarry-y-maximo-gonzalez-se-metiero-1/">Nicolás Jarry y Máximo González se metieron entre las ocho mejores duplas de Roland Garros</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            3 de Jun. de 2018, 10:26.
-        </p>
-        <!--<p class="post-mini-encabezado">El d&uacute;o sudamericano venci&oacute; en dos sets a Robert y Hemery por los octaos de final del Grand Slam franc&eacute;s.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/nicolas-jarry-y-maximo-gonzalez-se-metiero-1/&title=Nicolás Jarry y Máximo González se metieron entre las ocho mejores duplas de Roland Garros" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Nicolás Jarry y Máximo González se metieron entre las ocho mejores duplas de Roland Garros+http://redgol.cl/2018/6/nicolas-jarry-y-maximo-gonzalez-se-metiero-1/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/dani-seguel-y-alexa-guarachi-ganaron-la-me/">
-            
-                <img src="https://d.rgcdn.net/c4323d9ced2cb137b8aa2a8e058985c7/redgol-assets.s3.amazonaws.com/rg-assets_298b99c345fae562baef06151bd3ceeaoro/265x/redgol-assets.s3.amazonaws.jpg" alt="Dani Seguel y Alexa Guarachi ganaron la medalla de oro en el dobles femenino de los Juegos Odesur - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/dani-seguel-y-alexa-guarachi-ganaron-la-me/">Dani Seguel y Alexa Guarachi ganaron la medalla de oro en el dobles femenino de los Juegos Odesur</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            2 de Jun. de 2018, 20:16.
-        </p>
-        <!--<p class="post-mini-encabezado">Chile sum&oacute; una nueva presea dorada tras el triunfo de la dupla femenina nacional ante las paraguayas Montserrat Gonz&aacute;lez y ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/dani-seguel-y-alexa-guarachi-ganaron-la-me/&title=Dani Seguel y Alexa Guarachi ganaron la medalla de oro en el dobles femenino de los Juegos Odesur" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Dani Seguel y Alexa Guarachi ganaron la medalla de oro en el dobles femenino de los Juegos Odesur+http://redgol.cl/2018/6/dani-seguel-y-alexa-guarachi-ganaron-la-me/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/joaquin-niemann-se-mando-un-eagle-y-termin/">
-            
-                <img src="https://d.rgcdn.net/f39b4d2ad1043949747bb80c8b4c2eb0/redgol-assets.s3.amazonaws.com/rg-assets_2cbc7b2ef2111bdb7d780973342f36b3niemann/265x/redgol-assets.s3.amazonaws.jpg" alt="Joaquín Niemann se mandó un Eagle y terminó la tercera ronda con posibilidades de campeonar en el Memorial - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/joaquin-niemann-se-mando-un-eagle-y-termin/">Joaquín Niemann se mandó un Eagle y terminó la tercera ronda con posibilidades de campeonar en el Memorial</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            2 de Jun. de 2018, 19:36.
-        </p>
-        <!--<p class="post-mini-encabezado">El chileno fue el lider por la mitad de la jornada pero un par de errores lo dejaron una golpe ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/joaquin-niemann-se-mando-un-eagle-y-termin/&title=Joaquín Niemann se mandó un Eagle y terminó la tercera ronda con posibilidades de campeonar en el Memorial" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Joaquín Niemann se mandó un Eagle y terminó la tercera ronda con posibilidades de campeonar en el Memorial+http://redgol.cl/2018/6/joaquin-niemann-se-mando-un-eagle-y-termin/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/daniela-seguel-cayo-ante-montserrat-gonzal/">
-            
-                <img src="https://d.rgcdn.net/392eb8fbbe4ef9d739dc345854ae5cb9/redgol-assets.s3.amazonaws.com/rg-assets_f207f0f7a611fbc7d57db82cfd0c8e28seguel/265x/redgol-assets.s3.amazonaws.jpg" alt="Daniela Seguel cayó ante Montserrat González y se quedó con la medalla de plata en los Juegos Odesur - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/daniela-seguel-cayo-ante-montserrat-gonzal/">Daniela Seguel cayó ante Montserrat González y se quedó con la medalla de plata en los Juegos Odesur</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            2 de Jun. de 2018, 16:05.
-        </p>
-        <!--<p class="post-mini-encabezado">La Pantera comenz&oacute; ganando el primer set, pero en las mangas siguientes decay&oacute; y no pudo conseguir la presea dorada ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/daniela-seguel-cayo-ante-montserrat-gonzal/&title=Daniela Seguel cayó ante Montserrat González y se quedó con la medalla de plata en los Juegos Odesur" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Daniela Seguel cayó ante Montserrat González y se quedó con la medalla de plata en los Juegos Odesur+http://redgol.cl/2018/6/daniela-seguel-cayo-ante-montserrat-gonzal/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/nicolas-jarry-y-maximo-gonzalez-se-metiero/">
-            
-                <img src="https://d.rgcdn.net/53a5e653cb18614e18f21f8299f4f19a/redgol-assets.s3.amazonaws.com/rg-assets_7f6917ba19108a8bf4d7d945438c3a37jarry/265x/redgol-assets.s3.amazonaws.jpg" alt="Nicolás Jarry y Máximo González se metieron en los octavos de final del dobles de Roland Garros - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/nicolas-jarry-y-maximo-gonzalez-se-metiero/">Nicolás Jarry y Máximo González se metieron en los octavos de final del dobles de Roland Garros</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            2 de Jun. de 2018, 14:47.
-        </p>
-        <!--<p class="post-mini-encabezado">La dupla chileno-argentina clasific&oacute; tras derrotar al brit&aacute;nico Jamie Murray y el brasile&ntilde;o Bruno Soares en tres sets.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/nicolas-jarry-y-maximo-gonzalez-se-metiero/&title=Nicolás Jarry y Máximo González se metieron en los octavos de final del dobles de Roland Garros" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Nicolás Jarry y Máximo González se metieron en los octavos de final del dobles de Roland Garros+http://redgol.cl/2018/6/nicolas-jarry-y-maximo-gonzalez-se-metiero/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/6/tomas-barrios-gano-la-medalla-de-oro-del-t/">
-            
-                <img src="https://d.rgcdn.net/f02ff324b6dc2b534736163ef5b9fdb0/redgol-assets.s3.amazonaws.com/rg-assets_ae13a75eef8eeb0daa36fe9320fd24b3tomasbarrios/265x/redgol-assets.s3.amazonaws.jpg" alt="Tomás Barrios ganó la medalla de oro del tenis masculino en los Juegos Odesur - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/6/tomas-barrios-gano-la-medalla-de-oro-del-t/">Tomás Barrios ganó la medalla de oro del tenis masculino en los Juegos Odesur</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            2 de Jun. de 2018, 14:30.
-        </p>
-        <!--<p class="post-mini-encabezado">El chileno venci&oacute; en dos sets al argentino&nbsp;Francisco Cerundolo y logr&oacute; la primera presea dorada para nuestro pa&iacute;s en el ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/tomas-barrios-gano-la-medalla-de-oro-del-t/&title=Tomás Barrios ganó la medalla de oro del tenis masculino en los Juegos Odesur" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Tomás Barrios ganó la medalla de oro del tenis masculino en los Juegos Odesur+http://redgol.cl/2018/6/tomas-barrios-gano-la-medalla-de-oro-del-t/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/daniela-seguel-avanzo-a-la-semifinal-de-lo/">
-            
-                <img src="https://d.rgcdn.net/a2efffea23d4749e01d0c759b037af97/redgol-assets.s3.amazonaws.com/rg-assets_c9892265218f3d95a2def0d2593f3db5seguel/265x/redgol-assets.s3.amazonaws.jpg" alt="Daniela Seguel avanzó a la semifinal de los Odesur y aseguró luchar por una medalla - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/daniela-seguel-avanzo-a-la-semifinal-de-lo/">Daniela Seguel avanzó a la semifinal de los Odesur y aseguró luchar por una medalla</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            31 de Mayo de 2018, 18:13.
-        </p>
-        <!--<p class="post-mini-encabezado">La n&uacute;mero uno de Chile venci&oacute; a la local&nbsp;Noelia Zeballos y pelear&aacute; contra&nbsp;Mar&iacute;a Fernanda Herazo un cupo en la final.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/daniela-seguel-avanzo-a-la-semifinal-de-lo/&title=Daniela Seguel avanzó a la semifinal de los Odesur y aseguró luchar por una medalla" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Daniela Seguel avanzó a la semifinal de los Odesur y aseguró luchar por una medalla+http://redgol.cl/2018/5/daniela-seguel-avanzo-a-la-semifinal-de-lo/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/historico-joaquin-niemann-lidera-el-memori/">
-            
-                <img src="https://d.rgcdn.net/9e736b0632e42d1a491e86ca76a7470d/redgol-assets.s3.amazonaws.com/rg-assets_b7abe2596e7228f650f9d4c4b8f9563aNiemann/265x/redgol-assets.s3.amazonaws.jpg" alt="Histórico: Joaquín Niemann lidera el Memorial Tournament del PGA Tour - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/historico-joaquin-niemann-lidera-el-memori/">Histórico: Joaquín Niemann lidera el Memorial Tournament del PGA Tour</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            31 de Mayo de 2018, 16:05.
-        </p>
-        <!--<p class="post-mini-encabezado">El joven golfista es el primer chileno en ser el l&iacute;der de un torneo profesional del circuito PGA.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/historico-joaquin-niemann-lidera-el-memori/&title=Histórico: Joaquín Niemann lidera el Memorial Tournament del PGA Tour" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Histórico: Joaquín Niemann lidera el Memorial Tournament del PGA Tour+http://redgol.cl/2018/5/historico-joaquin-niemann-lidera-el-memori/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/maria-fernanda-valdes-gano-la-medalla-de-o/">
-            
-                <img src="https://d.rgcdn.net/df5bce7d45505c29faf7bb1469ac8c1e/redgol-assets.s3.amazonaws.com/rg-assets_750b2c1ca37752b19e97f180ea0ab41dmfv/265x/redgol-assets.s3.amazonaws.jpg" alt="María Fernanda Valdés ganó la medalla de oro en el levantamiento de pesas de los Juegos Odesur - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/maria-fernanda-valdes-gano-la-medalla-de-o/">María Fernanda Valdés ganó la medalla de oro en el levantamiento de pesas de los Juegos Odesur</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            31 de Mayo de 2018, 14:39.
-        </p>
-        <!--<p class="post-mini-encabezado">La pesista se impuso en el total ol&iacute;mpico con 250 kilos y dej&oacute; a Chile con 16 preseas doradas en ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/maria-fernanda-valdes-gano-la-medalla-de-o/&title=María Fernanda Valdés ganó la medalla de oro en el levantamiento de pesas de los Juegos Odesur" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=María Fernanda Valdés ganó la medalla de oro en el levantamiento de pesas de los Juegos Odesur+http://redgol.cl/2018/5/maria-fernanda-valdes-gano-la-medalla-de-o/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/top-10-de-smackdown-samoa-joe-alcanzo-el-u/">
-            
-                <img src="https://d.rgcdn.net/2a82a61473fd115eb5c3bf26e393a383/redgol-assets.s3.amazonaws.com/rg-assets_e3cf23bfd1e80560be7ff1331b6bd920samoa/265x/redgol-assets.s3.amazonaws.jpg" alt="Top 10 de SmackDown: Samoa Joe alcanzó el último cupo para Money In The Bank - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/top-10-de-smackdown-samoa-joe-alcanzo-el-u/">Top 10 de SmackDown: Samoa Joe alcanzó el último cupo para Money In The Bank</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            30 de Mayo de 2018, 17:44.
-        </p>
-        <!--<p class="post-mini-encabezado">El samoano se impuso a Daniel Bryan y Big Cass para estar en la lucha por el malet&iacute;n el 17 ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/top-10-de-smackdown-samoa-joe-alcanzo-el-u/&title=Top 10 de SmackDown: Samoa Joe alcanzó el último cupo para Money In The Bank" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Top 10 de SmackDown: Samoa Joe alcanzó el último cupo para Money In The Bank+http://redgol.cl/2018/5/top-10-de-smackdown-samoa-joe-alcanzo-el-u/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/amante-del-running-y-te-gusta-competir-la/">
-            
-                <img src="https://d.rgcdn.net/23a28927ecb2bac43a9addb5f634010a/redgol-assets.s3.amazonaws.com/rg-assets_76b7b18548d29c4bbd1f8467718d82b1cats/265x/redgol-assets.s3.amazonaws.jpg" alt="¿Amante del running y te gusta competir? La Asics Golden Run Santiago 2018 abrió sus inscripciones - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/amante-del-running-y-te-gusta-competir-la/">¿Amante del running y te gusta competir? La Asics Golden Run Santiago 2018 abrió sus inscripciones</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Sebastián Munizaga</strong>,
-            
-            30 de Mayo de 2018, 16:20.
-        </p>
-        <!--<p class="post-mini-encabezado">Este evento se disputar&aacute; el pr&oacute;ximo 19 de agosto en las calles santiaguinas y las inscripciones est&aacute;n completamente abiertas.&nbsp;</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/amante-del-running-y-te-gusta-competir-la/&title=¿Amante del running y te gusta competir? La Asics Golden Run Santiago 2018 abrió sus inscripciones" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=¿Amante del running y te gusta competir? La Asics Golden Run Santiago 2018 abrió sus inscripciones+http://redgol.cl/2018/5/amante-del-running-y-te-gusta-competir-la/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/arley-mendez-gano-la-medalla-de-oro-e-impu/">
-            
-                <img src="https://d.rgcdn.net/b7629f7bb2207f1e9835b0912e330966/redgol-assets.s3.amazonaws.com/rg-assets_79e47e027950a24e8bcf166bb9837bf1arley/265x/redgol-assets.s3.amazonaws.jpg" alt="Arley Méndez ganó la medalla de oro e impuso récord Panamericano en el levantamiento de pesas de los Odesur - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/arley-mendez-gano-la-medalla-de-oro-e-impu/">Arley Méndez ganó la medalla de oro e impuso récord Panamericano en el levantamiento de pesas de los Odesur</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            30 de Mayo de 2018, 16:00.
-        </p>
-        <!--<p class="post-mini-encabezado">El chileno le dio la d&eacute;cimo quinta presea dorada a Chile con una actuaci&oacute;n de 377 kilos en el total ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/arley-mendez-gano-la-medalla-de-oro-e-impu/&title=Arley Méndez ganó la medalla de oro e impuso récord Panamericano en el levantamiento de pesas de los Odesur" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Arley Méndez ganó la medalla de oro e impuso récord Panamericano en el levantamiento de pesas de los Odesur+http://redgol.cl/2018/5/arley-mendez-gano-la-medalla-de-oro-e-impu/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/nico-jarry-avanzo-a-segunda-ronda-del-dobl/">
-            
-                <img src="https://d.rgcdn.net/c3ada64f6db6e23b920039ce89b28252/redgol-assets.s3.amazonaws.com/rg-assets_48df8736fffb8815f0f262af8216312bjarry/265x/redgol-assets.s3.amazonaws.jpg" alt="Nico Jarry avanzó a segunda ronda del dobles de Roland Garros y se metió entre los 100 de la categoría - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/nico-jarry-avanzo-a-segunda-ronda-del-dobl/">Nico Jarry avanzó a segunda ronda del dobles de Roland Garros y se metió entre los 100 de la categoría</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            30 de Mayo de 2018, 11:32.
-        </p>
-        <!--<p class="post-mini-encabezado">El tenista nacional hizo pareja con M&aacute;ximo Gonz&aacute;lez y logr&oacute; sortear su primera llave en el doble del torneo franc&eacute;s.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/nico-jarry-avanzo-a-segunda-ronda-del-dobl/&title=Nico Jarry avanzó a segunda ronda del dobles de Roland Garros y se metió entre los 100 de la categoría" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Nico Jarry avanzó a segunda ronda del dobles de Roland Garros y se metió entre los 100 de la categoría+http://redgol.cl/2018/5/nico-jarry-avanzo-a-segunda-ronda-del-dobl/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/los-10-momentos-de-raw-sasha-banks-se-qued/">
-            
-                <img src="https://d.rgcdn.net/b4c21a0b860cc4dd197d43837601f502/redgol-assets.s3.amazonaws.com/rg-assets_1e1797777e461eacbb797e0468ec8967sasha/265x/redgol-assets.s3.amazonaws.jpg" alt="Los 10 momentos de RAW: Sasha Banks se quedó con el último cupo para Money In The Bank - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/los-10-momentos-de-raw-sasha-banks-se-qued/">Los 10 momentos de RAW: Sasha Banks se quedó con el último cupo para Money In The Bank</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            29 de Mayo de 2018, 21:00.
-        </p>
-        <!--<p class="post-mini-encabezado">La ex campeona femenina clasific&oacute; a la lucha por el malet&iacute;n tras imponerse a Ruby Riot en un combate de ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/los-10-momentos-de-raw-sasha-banks-se-qued/&title=Los 10 momentos de RAW: Sasha Banks se quedó con el último cupo para Money In The Bank" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Los 10 momentos de RAW: Sasha Banks se quedó con el último cupo para Money In The Bank+http://redgol.cl/2018/5/los-10-momentos-de-raw-sasha-banks-se-qued/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/golden-state-se-corono-campeon-del-oeste-t/">
-            
-                <img src="https://d.rgcdn.net/13f7e050b85a1c159f58b3468d25c14d/redgol-assets.s3.amazonaws.com/rg-assets_d7b8196f8803414741095a781cad0e9bwarriors/265x/redgol-assets.s3.amazonaws.jpg" alt="Golden State se coronó campeón del Oeste tras vencer a Houston y se medirá a los Cavs en la final de la NBA - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/golden-state-se-corono-campeon-del-oeste-t/">Golden State se coronó campeón del Oeste tras vencer a Houston y se medirá a los Cavs en la final de la NBA</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            29 de Mayo de 2018, 19:56.
-        </p>
-        <!--<p class="post-mini-encabezado">Kevin Durant y Stephen Curry guiaron a los Warriors para meterse en su cuarta final consecutiva de la NBA.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/golden-state-se-corono-campeon-del-oeste-t/&title=Golden State se coronó campeón del Oeste tras vencer a Houston y se medirá a los Cavs en la final de la NBA" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Golden State se coronó campeón del Oeste tras vencer a Houston y se medirá a los Cavs en la final de la NBA+http://redgol.cl/2018/5/golden-state-se-corono-campeon-del-oeste-t/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/tomas-gonzalez-se-quedo-con-la-medalla-de/">
-            
-                <img src="https://d.rgcdn.net/50aea1fb6c0fea2b650dd8c8ff0f6b10/redgol-assets.s3.amazonaws.com/rg-assets_fd939ab2d095de8e05ee0372f8a3137bgonzalez/265x/redgol-assets.s3.amazonaws.jpg" alt="Tomás González se quedó con la medalla de oro en la final de suelo de los Juegos Odesur 2018 - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/tomas-gonzalez-se-quedo-con-la-medalla-de/">Tomás González se quedó con la medalla de oro en la final de suelo de los Juegos Odesur 2018</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            29 de Mayo de 2018, 18:42.
-        </p>
-        <!--<p class="post-mini-encabezado">El mejor gimnasta chileno de la historia se impuso con una rutina de 14.250 puntos y dej&oacute; a Chile con ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/tomas-gonzalez-se-quedo-con-la-medalla-de/&title=Tomás González se quedó con la medalla de oro en la final de suelo de los Juegos Odesur 2018" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Tomás González se quedó con la medalla de oro en la final de suelo de los Juegos Odesur 2018+http://redgol.cl/2018/5/tomas-gonzalez-se-quedo-con-la-medalla-de/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/barbara-riveros-gano-la-medalla-de-oro-en/">
-            
-                <img src="https://d.rgcdn.net/9b8355dd82ee74ec97b22ff6244978ce/redgol-assets.s3.amazonaws.com/rg-assets_1298afc179257d4e59a8691359bb0180teamchile/265x/redgol-assets.s3.amazonaws.jpg" alt="Bárbara Riveros ganó la medalla de oro en el triatlón de los Juegos Odesur 2018 - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/barbara-riveros-gano-la-medalla-de-oro-en/">Bárbara Riveros ganó la medalla de oro en el triatlón de los Juegos Odesur 2018</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            29 de Mayo de 2018, 17:25.
-        </p>
-        <!--<p class="post-mini-encabezado">Chicka le dio a Chile la presea dorada n&uacute;mero 12 con un tremenda actuaci&oacute;n en Cochabamba 2018.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/barbara-riveros-gano-la-medalla-de-oro-en/&title=Bárbara Riveros ganó la medalla de oro en el triatlón de los Juegos Odesur 2018" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Bárbara Riveros ganó la medalla de oro en el triatlón de los Juegos Odesur 2018+http://redgol.cl/2018/5/barbara-riveros-gano-la-medalla-de-oro-en/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/julio-peralta-supero-con-exito-su-debut-en/">
-            
-                <img src="https://d.rgcdn.net/b2e4f1f37196f5f54d741a67478026af/redgol-assets.s3.amazonaws.com/rg-assets_dffdb51d082522aef5351704a8ddaf7bperalta/265x/redgol-assets.s3.amazonaws.jpg" alt="Julio Peralta superó con éxito su debut en el dobles de Roland Garros - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/julio-peralta-supero-con-exito-su-debut-en/">Julio Peralta superó con éxito su debut en el dobles de Roland Garros</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            29 de Mayo de 2018, 15:12.
-        </p>
-        <!--<p class="post-mini-encabezado">La dupla chileno-argentina necesit&oacute; menos de una hora para meterse en la segunda ronda del Grand Slam que se disputa ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/julio-peralta-supero-con-exito-su-debut-en/&title=Julio Peralta superó con éxito su debut en el dobles de Roland Garros" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Julio Peralta superó con éxito su debut en el dobles de Roland Garros+http://redgol.cl/2018/5/julio-peralta-supero-con-exito-su-debut-en/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/serena-williams-aparecio-con-un-curioso-en/">
-            
-                <img src="https://d.rgcdn.net/f2289599d4b9edb6777e18e0bbc85001/redgol-assets.s3.amazonaws.com/rg-assets_316e65345996244f5ec6ff087632ed38serena/265x/redgol-assets.s3.amazonaws.jpg" alt="Serena Williams apareció con un curioso enterito negro en su debut triunfador en Roland Garros - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/serena-williams-aparecio-con-un-curioso-en/">Serena Williams apareció con un curioso enterito negro en su debut triunfador en Roland Garros</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">Felipe Kaponi</strong>,
-            
-            29 de Mayo de 2018, 14:22.
-        </p>
-        <!--<p class="post-mini-encabezado">La estadounidense entr&oacute; al segundo Grand Slam del a&ntilde;o por su r&aacute;nking protegido, pero tuvo una dura rival en su ...</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/serena-williams-aparecio-con-un-curioso-en/&title=Serena Williams apareció con un curioso enterito negro en su debut triunfador en Roland Garros" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=Serena Williams apareció con un curioso enterito negro en su debut triunfador en Roland Garros+http://redgol.cl/2018/5/serena-williams-aparecio-con-un-curioso-en/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
-<article class="post-mini-articulo">
-    <div class="post-mini-imagen">
-        <a href="/2018/5/video-impacto-ramon-navarro-surfeo-la-ola/">
-            
-                <img src="https://d.rgcdn.net/d4f52d96af3793614b25e2320ef2e601/redgol-assets.s3.amazonaws.com/rg-assets_472d502f4fff0b9611cb7c3caf448b42navarro8/265x/redgol-assets.s3.amazonaws.jpg" alt="[Video] Impacto: Ramón Navarro surfeó la ola gigante de Fiji en medio de gritos de la gente - RedGol">
-            
-        </a>
-    </div>
-    <div class="post-mini-contenido">
-        <a class="post-mini-titulo" href="/2018/5/video-impacto-ramon-navarro-surfeo-la-ola/">[Video] Impacto: Ramón Navarro surfeó la ola gigante de Fiji en medio de gritos de la gente</a>
-        <p class="post-mini-meta">
-            
-                <strong class="post-mini-strong">David Fernández</strong>,
-            
-            28 de Mayo de 2018, 12:44.
-        </p>
-        <!--<p class="post-mini-encabezado">El surfista chileno logr&oacute; otro hito en su carrera, luego de conseguir surfear la famosa Cloudbreak de Fiji.</p>-->
-    </div>
-    <div class="post-mini-social-fb">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/video-impacto-ramon-navarro-surfeo-la-ola/&title=[Video] Impacto: Ramón Navarro surfeó la ola gigante de Fiji en medio de gritos de la gente" rel="nofollow" title="Compartir">
-            <img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="post-mini-social-tw">
-        <a href="http://twitter.com/intent/tweet?status=[Video] Impacto: Ramón Navarro surfeó la ola gigante de Fiji en medio de gritos de la gente+http://redgol.cl/2018/5/video-impacto-ramon-navarro-surfeo-la-ola/" rel="nofollow" title="Tweet">
-            <img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
-        </a>
-    </div>
-    <div class="clear"></div>
-</article>
-<div class="post-mini-separador"></div>
-            
-        
-            
-                
-
 <article class="post-medium-articulo">
-	<a class="post-medium-titulo" href="/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/">Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA</a>
+	<a class="post-medium-titulo" href="/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/">Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto</a>
 	<div class="post-medium-imagen">
-		<a href="/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/">
+		<a href="/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/">
 			
-				<img src="https://d.rgcdn.net/cbf130f80b9f9bb5061d114f1d3bf8d3/redgol-assets.s3.amazonaws.com/rg-assets_8d321b172dcc1b769b70ea509d66a1f7lebron/670x275c/redgol-assets.s3.amazonaws.jpg" alt="Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA - RedGol">
+				<img src="https://d.rgcdn.net/cadc15d4dc9a964da08b7716701ea3c1/redgol-assets.s3.amazonaws.com/rg-assets_f10855a884bc48f6461dfa3bf8f4c36cfinnbalor/670x275c/redgol-assets.s3.amazonaws.jpg" alt="Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto - RedGol">
 			
 		</a>
 		<div class="post-medium-social-fb">
-			<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/&title=Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA" rel="nofollow" title="Compartir">
+			<a href="http://www.facebook.com/sharer/sharer.php?u=http://redgol.cl/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/&title=Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto" rel="nofollow" title="Compartir">
 				<img src="/static/img/desktop/v3/icon-facebook.png?201510130243" alt="icono">
 			</a>
 		</div>
 		<div class="post-medium-social-tw">
-			<a href="http://twitter.com/intent/tweet?status=Con 35 puntos de Lebron, los Cavaliers derrotaron a los Celtics y clasificaron a la final de la NBA+http://redgol.cl/2018/5/con-35-puntos-de-lebron-los-cavaliers-derr/" rel="nofollow" title="Tweet">
+			<a href="http://twitter.com/intent/tweet?status=Top 10 de RAW: Finn Bálor se adueñó del maletín y Strowman impone respeto+http://redgol.cl/2018/6/top-10-de-raw-finn-balor-se-adueno-del-mal/" rel="nofollow" title="Tweet">
 				<img src="/static/img/desktop/v3/icon-twitter.png?201510130243" alt="icono">
 			</a>
 		</div>
 	</div>
 	<p class="post-medium-meta">
 		
-			<strong class="post-medium-strong">David Fernández</strong>,
+			<strong class="post-medium-strong">Felipe Kaponi</strong>,
 		
-		28 de Mayo de 2018, 11:41.
+		5 de Jun. de 2018, 16:32.
 	</p>
 </article>
 <div class="post-medium-separador"></div>
@@ -7705,18 +7706,60 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             <div class="di-event">
                 <div class="di-event-detail di-event-start">
                     
-                        <span class="di-span di-event-day">Jue</span>
-                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-day">Lun</span>
+                        <span class="di-span di-event-day-number">18</span>
+                        <span class="di-span di-event-hour">8:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Suecia v/s Corea del Sur</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Lun</span>
+                        <span class="di-span di-event-day-number">18</span>
+                        <span class="di-span di-event-hour">11:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Bélgica v/s Panamá</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Lun</span>
+                        <span class="di-span di-event-day-number">18</span>
                         <span class="di-span di-event-hour">14:00</span>
                     
                 </div>
                 <div class="di-event-detail di-event-description">
-                    <p class="di-event-txt-name">Defensor Sporting v/s Peñarol</p>
-                    <p class="di-event-txt-description">Campeonato Uruguayo</p>
+                    <p class="di-event-txt-name">Túnez v/s Inglaterra</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
                 </div>
                 <div class="di-event-detail di-event-channels">
                     
-                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_f35992e8156e039d94ecf13917e47e3clogo" alt="Gol TV Play" class="di-tv-channel-thumb">
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
                     
                 </div>
             </div>
@@ -7724,18 +7767,26 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             <div class="di-event">
                 <div class="di-event-detail di-event-start">
                     
-                        <span class="di-span di-event-day">Jue</span>
-                        <span class="di-span di-event-day-number">7</span>
-                        <span class="di-span di-event-hour">15:00</span>
+                        <span class="di-span di-event-day">Mar</span>
+                        <span class="di-span di-event-day-number">19</span>
+                        <span class="di-span di-event-hour">8:00</span>
                     
                 </div>
                 <div class="di-event-detail di-event-description">
-                    <p class="di-event-txt-name">Inglaterra v/s Costa Rica</p>
-                    <p class="di-event-txt-description">Amistoso</p>
+                    <p class="di-event-txt-name">Colombia v/s Japón</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
                 </div>
                 <div class="di-event-detail di-event-channels">
                     
-                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_9560bff23fdd980510788d093258dc3cespn2" alt="ESPN 2" class="di-tv-channel-thumb">
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
                     
                 </div>
             </div>
@@ -7743,52 +7794,18 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             <div class="di-event">
                 <div class="di-event-detail di-event-start">
                     
-                        <span class="di-span di-event-day">Jue</span>
-                        <span class="di-span di-event-day-number">7</span>
-                        <span class="di-span di-event-hour">16:00</span>
+                        <span class="di-span di-event-day">Mar</span>
+                        <span class="di-span di-event-day-number">19</span>
+                        <span class="di-span di-event-hour">11:00</span>
                     
                 </div>
                 <div class="di-event-detail di-event-description">
-                    <p class="di-event-txt-name">Islandia v/s Ghana</p>
-                    <p class="di-event-txt-description">Amistoso</p>
+                    <p class="di-event-txt-name">Polonia v/s Senegal</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
                 </div>
                 <div class="di-event-detail di-event-channels">
                     
-                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_01076c5a0d4151067ba30dcac359df9fFox_Sports_Logo" alt="Fox Sports" class="di-tv-channel-thumb">
-                    
-                </div>
-            </div>
-        
-            <div class="di-event di-event-now">
-                <div class="di-event-detail di-event-start">
-                    
-                        <span class="di-span di-event-day-number di-event-now">AHORA</span>
-                    
-                </div>
-                <div class="di-event-detail di-event-description">
-                    <p class="di-event-txt-name">Zamora v/s Caracas</p>
-                    <p class="di-event-txt-description">Primera Venezuela</p>
-                </div>
-                <div class="di-event-detail di-event-channels">
-                    
-                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
-                    
-                </div>
-            </div>
-        
-            <div class="di-event di-event-now">
-                <div class="di-event-detail di-event-start">
-                    
-                        <span class="di-span di-event-day-number di-event-now">AHORA</span>
-                    
-                </div>
-                <div class="di-event-detail di-event-description">
-                    <p class="di-event-txt-name">Fluminense v/s Flamengo</p>
-                    <p class="di-event-txt-description">Brasileirao</p>
-                </div>
-                <div class="di-event-detail di-event-channels">
-                    
-                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
                     
                 </div>
             </div>
@@ -7796,18 +7813,62 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             <div class="di-event">
                 <div class="di-event-detail di-event-start">
                     
-                        <span class="di-span di-event-day">Vie</span>
-                        <span class="di-span di-event-day-number">8</span>
-                        <span class="di-span di-event-hour">14:45</span>
+                        <span class="di-span di-event-day">Mar</span>
+                        <span class="di-span di-event-day-number">19</span>
+                        <span class="di-span di-event-hour">14:00</span>
                     
                 </div>
                 <div class="di-event-detail di-event-description">
-                    <p class="di-event-txt-name">Polonia v/s Chile</p>
-                    <p class="di-event-txt-description">Amistoso</p>
+                    <p class="di-event-txt-name">Rusia v/s Egipto</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
                 </div>
                 <div class="di-event-detail di-event-channels">
                     
-                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_91afa8b5858b6af0c83d33ec6b85730bFox_Sports_1_%28Chile%29" alt="Fox Sports 1" class="di-tv-channel-thumb">
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mié</span>
+                        <span class="di-span di-event-day-number">20</span>
+                        <span class="di-span di-event-hour">8:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Portugal v/s Marruecos</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mié</span>
+                        <span class="di-span di-event-day-number">20</span>
+                        <span class="di-span di-event-hour">11:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Uruguay v/s Arabia Saudita</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
                     
                         <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
                     
@@ -7817,18 +7878,114 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             <div class="di-event">
                 <div class="di-event-detail di-event-start">
                     
-                        <span class="di-span di-event-day">Vie</span>
-                        <span class="di-span di-event-day-number">8</span>
-                        <span class="di-span di-event-hour">21:00</span>
+                        <span class="di-span di-event-day">Mié</span>
+                        <span class="di-span di-event-day-number">20</span>
+                        <span class="di-span di-event-hour">14:00</span>
                     
                 </div>
                 <div class="di-event-detail di-event-description">
-                    <p class="di-event-txt-name">Deportivo Cuenca v/s Delfín</p>
-                    <p class="di-event-txt-description">Primera Ecuador</p>
+                    <p class="di-event-txt-name">Irán v/s España</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
                 </div>
                 <div class="di-event-detail di-event-channels">
                     
-                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_dc064e6f3d729dfc7e2c527550e8be92GOLTV" alt="Gol TV" class="di-tv-channel-thumb">
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">21</span>
+                        <span class="di-span di-event-hour">8:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Dinamarca v/s Australia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">21</span>
+                        <span class="di-span di-event-hour">11:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Francia v/s Perú</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">21</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Argentina v/s Croacia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">21</span>
+                        <span class="di-span di-event-hour">20:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Colo Colo v/s Ñublense</p>
+                    <p class="di-event-txt-description">Copa Chile MTS</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_8908c32ef8936325ae2a1019c23c4be4gallery_1157_6_2249" alt="CDF Premium" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_00da89ee7ded78c6d1d3671428212c74med_gallery_1157_6_16978" alt="CDF HD" class="di-tv-channel-thumb">
                     
                 </div>
             </div>
@@ -7837,17 +7994,973 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 <div class="di-event-detail di-event-start">
                     
                         <span class="di-span di-event-day">Vie</span>
-                        <span class="di-span di-event-day-number">8</span>
-                        <span class="di-span di-event-hour">21:00</span>
+                        <span class="di-span di-event-day-number">22</span>
+                        <span class="di-span di-event-hour">8:00</span>
                     
                 </div>
                 <div class="di-event-detail di-event-description">
-                    <p class="di-event-txt-name">Cleveland Cavs v/s GS Warriors</p>
-                    <p class="di-event-txt-description">NBA Finals / Juego 4</p>
+                    <p class="di-event-txt-name">Brasil v/s Costa Rica</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
                 </div>
                 <div class="di-event-detail di-event-channels">
                     
-                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_b5c1bcb362edccec778b7f8b97b891efespn" alt="ESPN" class="di-tv-channel-thumb">
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">22</span>
+                        <span class="di-span di-event-hour">11:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Nigeria v/s Islandia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">22</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Serbia v/s Suiza</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Sáb</span>
+                        <span class="di-span di-event-day-number">23</span>
+                        <span class="di-span di-event-hour">8:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Bélgica v/s Túnez</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Sáb</span>
+                        <span class="di-span di-event-day-number">23</span>
+                        <span class="di-span di-event-hour">11:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Corea del Sur v/s México</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Sáb</span>
+                        <span class="di-span di-event-day-number">23</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Alemania v/s Suecia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Dom</span>
+                        <span class="di-span di-event-day-number">24</span>
+                        <span class="di-span di-event-hour">8:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Inglaterra v/s Panamá</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Dom</span>
+                        <span class="di-span di-event-day-number">24</span>
+                        <span class="di-span di-event-hour">11:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Japón v/s Senegal</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Dom</span>
+                        <span class="di-span di-event-day-number">24</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Polonia v/s Colombia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Lun</span>
+                        <span class="di-span di-event-day-number">25</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Uruguay v/s Rusia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Lun</span>
+                        <span class="di-span di-event-day-number">25</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Arabia Saudita v/s Egipto</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Lun</span>
+                        <span class="di-span di-event-day-number">25</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">España v/s Marruecos</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Lun</span>
+                        <span class="di-span di-event-day-number">25</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Irán v/s Portugal</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mar</span>
+                        <span class="di-span di-event-day-number">26</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Dinamarca v/s Francia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mar</span>
+                        <span class="di-span di-event-day-number">26</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Australia v/s Perú</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mar</span>
+                        <span class="di-span di-event-day-number">26</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Nigeria v/s Argentina</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mar</span>
+                        <span class="di-span di-event-day-number">26</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Islandia v/s Croacia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mié</span>
+                        <span class="di-span di-event-day-number">27</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">México v/s Suecia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mié</span>
+                        <span class="di-span di-event-day-number">27</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Coreal del Sur v/s Alemania</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mié</span>
+                        <span class="di-span di-event-day-number">27</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Serbia v/s Brasil</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mié</span>
+                        <span class="di-span di-event-day-number">27</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Suiza v/s Costa Rica</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">28</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Japón v/s Polonia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">28</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Senegal v/s Colombia</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">28</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Inglaterra v/s Bélgica</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Jue</span>
+                        <span class="di-span di-event-day-number">28</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Panamá v/s Túnez</p>
+                    <p class="di-event-txt-description">Copa Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Sáb</span>
+                        <span class="di-span di-event-day-number">30</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">C1 v/s D2</p>
+                    <p class="di-event-txt-description">8vos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Sáb</span>
+                        <span class="di-span di-event-day-number">30</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">A1 v/s B2</p>
+                    <p class="di-event-txt-description">8vos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Dom</span>
+                        <span class="di-span di-event-day-number">1</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">B1 v/s A2</p>
+                    <p class="di-event-txt-description">8vos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Dom</span>
+                        <span class="di-span di-event-day-number">1</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">D1 v/s C2</p>
+                    <p class="di-event-txt-description">8vos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Lun</span>
+                        <span class="di-span di-event-day-number">2</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">E1 v/s F2</p>
+                    <p class="di-event-txt-description">8vos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Lun</span>
+                        <span class="di-span di-event-day-number">2</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">G1 v/s H2</p>
+                    <p class="di-event-txt-description">8vos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mar</span>
+                        <span class="di-span di-event-day-number">3</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">F1 v/s E2</p>
+                    <p class="di-event-txt-description">8vos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mar</span>
+                        <span class="di-span di-event-day-number">3</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">H1 v/s G2</p>
+                    <p class="di-event-txt-description">8vos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">6</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">C1/D2 v/s A1/B2</p>
+                    <p class="di-event-txt-description">4tos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Vie</span>
+                        <span class="di-span di-event-day-number">6</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">E1/F2 v/s G1/H2</p>
+                    <p class="di-event-txt-description">4tos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Sáb</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">B1/A2 v/s D1/C2</p>
+                    <p class="di-event-txt-description">4tos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Sáb</span>
+                        <span class="di-span di-event-day-number">7</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">F1/E2 v/s H1/G2</p>
+                    <p class="di-event-txt-description">4tos Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mar</span>
+                        <span class="di-span di-event-day-number">10</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Semifinal 1</p>
+                    <p class="di-event-txt-description">Semifinal Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Mié</span>
+                        <span class="di-span di-event-day-number">11</span>
+                        <span class="di-span di-event-hour">14:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Semifinal 2</p>
+                    <p class="di-event-txt-description">Semifinal Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Sáb</span>
+                        <span class="di-span di-event-day-number">14</span>
+                        <span class="di-span di-event-hour">10:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">3er y 4to lugar</p>
+                    <p class="di-event-txt-description">3er y 4to Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
+                    
+                </div>
+            </div>
+        
+            <div class="di-event">
+                <div class="di-event-detail di-event-start">
+                    
+                        <span class="di-span di-event-day">Dom</span>
+                        <span class="di-span di-event-day-number">15</span>
+                        <span class="di-span di-event-hour">11:00</span>
+                    
+                </div>
+                <div class="di-event-detail di-event-description">
+                    <p class="di-event-txt-name">Final</p>
+                    <p class="di-event-txt-description">Final Mundial Rusia 2018</p>
+                </div>
+                <div class="di-event-detail di-event-channels">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_49201535bd0d0466af58adcd6013acd3dtv" alt="DirecTV" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_389f7a504dc5119b010e6c073a286d6d13" alt="Canal 13" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_485b20b767fcead491375360c8b7ac60Tvn" alt="TVN" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_e81b62573938a1a31207d4ab310e520cmega" alt="Mega" class="di-tv-channel-thumb">
+                    
+                        <img src="http://redgol-assets.s3.amazonaws.com/rg-assets_d7d440bbc3d77d6fe0c14fb9f3655f8funnamed" alt="Movistar Play" class="di-tv-channel-thumb">
                     
                 </div>
             </div>

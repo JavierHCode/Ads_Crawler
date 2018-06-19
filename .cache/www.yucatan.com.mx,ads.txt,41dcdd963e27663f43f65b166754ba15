@@ -1,20 +1,20 @@
 status: 200
-content-length: 6228
+content-length: 6514
 via: 1.1 varnish, 1.1 varnish
 content-location: http://www.yucatan.com.mx/ads.txt
 x-cache: MISS, MISS
 access-control-expose-headers: AMP-Access-Control-Allow-Source-Origin, Date
 accept-ranges: bytes
-x-timer: S1528414137.413904,VS0,VE166
+x-timer: S1529367815.192468,VS0,VE154
 vary: Accept-Encoding, User-Agent
 mrf-tech: CDN
 -content-encoding: gzip
 connection: keep-alive
-x-served-by: cache-lcy19246-LCY, cache-lax8630-LAX
+x-served-by: cache-lcy19251-LCY, cache-bur17536-BUR
 x-cache-hits: 0, 0
 cache-control: public, max-age=60, stale-while-revalidate=360,
  stale-if-error=86400
-date: Thu, 07 Jun 2018 23:28:57 GMT
+date: Tue, 19 Jun 2018 00:23:35 GMT
 access-control-allow-origin: *
 server: nginx
 content-type: text/plain;charset=UTF-8
@@ -173,3 +173,12 @@ tidaltv.com, 5158, RESELLER
 tremorhub.com, ey5io-qyxzx, RESELLER, 1a4e959a1b50034a
 tremorhub.com, o0g2a-1v6x5, RESELLER, 1a4e959a1b50034a
 vertamedia.com, 275574, RESELLER, 7de89dc7742b5b11
+# START SublimeSkinz Network 2018-04-10
+smartadserver.com, 1827, RESELLER
+improvedigital.com, 335, RESELLER
+appnexus.com, 3538, RESELLER
+appnexus.com, 3539, RESELLER
+appnexus.com, 3540, RESELLER
+# END SublimeSkinz Network
+conversantmedia.com, 41578, DIRECT
+appnexus.com, 4052, RESELLER
